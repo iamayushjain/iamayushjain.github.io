@@ -1,0 +1,4339 @@
+{
+	"json": {
+		"Class 12": {
+			"Maths": [{
+				"path": "M17 - Functions II",
+				"name": "M17 - Functions II",
+				"lessons": [{
+					"displayName": "M17.1.1 Relations, Types of Relations & Functions (English).mp4",
+					"storedName": "M17.1.1 Relations, Types of Relations & Functions (English).mp4",
+					"id": 601
+				}, {
+					"displayName": "M17.1.2 Injective & Surjective Functions (English).mp4",
+					"storedName": "M17.1.2 Injective & Surjective Functions (English).mp4",
+					"id": 602
+				}, {
+					"displayName": "M17.1.3 Even & Odd Functions (English).mp4",
+					"storedName": "M17.1.3 Even & Odd Functions (English).mp4",
+					"id": 603
+				}, {
+					"displayName": "M17.2.1 Composite Functions (English).mp4",
+					"storedName": "M17.2.1 Composite Functions (English).mp4",
+					"id": 604
+				}, {
+					"displayName": "M17.2.2 Invertible Functions (English).mp4",
+					"storedName": "M17.2.2 Invertible Functions (English).mp4",
+					"id": 605
+				}, {
+					"displayName": "M17.2.3 Binary Operations (English).mp4",
+					"storedName": "M17.2.3 Binary Operations (English).mp4",
+					"id": 606
+				}, {
+					"displayName": "M17.2.4 Properties of Binary Operations (English).mp4",
+					"storedName": "M17.2.4 Properties of Binary Operations (English).mp4",
+					"id": 607
+				}, {
+					"displayName": "M17.3 Graphictionary Illustration (English).mp4",
+					"storedName": "M17.3 Graphictionary Illustration (English).mp4",
+					"id": 608
+				}, {
+					"displayName": "M17.3.1 Graphical Transformations (English).mp4",
+					"storedName": "M17.3.1 Graphical Transformations (English).mp4",
+					"id": 609
+				}, {
+					"displayName": "M17.3.2 Periodic Functions (English).mp4",
+					"storedName": "M17.3.2 Periodic Functions (English).mp4",
+					"id": 610
+				}, {
+					"displayName": "M17.3.3 Properties of Periodic Functions (Hindi).mp4",
+					"storedName": "M17.3.3 Properties of Periodic Functions (Hindi).mp4",
+					"id": 611
+				}, {
+					"displayName": "M17.4.1 Problem Solving Approach (English).mp4",
+					"storedName": "M17.4.1 Problem Solving Approach (English).mp4",
+					"id": 612
+				}, {
+					"displayName": "M17.4.2 Number of Solutions using Graphs (English).mp4",
+					"storedName": "M17.4.2 Number of Solutions using Graphs (English).mp4",
+					"id": 613
+				}]
+			}, {
+				"path": "M18 - Inverse Trigonometry and Solution of Triangles",
+				"name": "M18 - Inverse Trigonometry and Solution of Triangles",
+				"lessons": [{
+					"displayName": "M18.1.1 Introduction to Inverse Trigonometry (English).mp4",
+					"storedName": "M18.1.1 Introduction to Inverse Trigonometry (English).mp4",
+					"id": 614
+				}, {
+					"displayName": "M18.1.2 Domain Restriction of Inverse Trigonometric Functions (English).mp4",
+					"storedName": "M18.1.2 Domain Restriction of Inverse Trigonometric Functions (English).mp4",
+					"id": 615
+				}, {
+					"displayName": "M18.1.3 Graphical Representation of Inverse Trigonometric Functions (English).mp4",
+					"storedName": "M18.1.3 Graphical Representation of Inverse Trigonometric Functions (English).mp4",
+					"id": 616
+				}, {
+					"displayName": "M18.2.1 Method of Substitution (English).mp4",
+					"storedName": "M18.2.1 Method of Substitution (English).mp4",
+					"id": 617
+				}, {
+					"displayName": "M18.2.2 Conditions for Proper Substitution (English).mp4",
+					"storedName": "M18.2.2 Conditions for Proper Substitution (English).mp4",
+					"id": 618
+				}, {
+					"displayName": "M18.2.3 Properties of Inverse Trigonometry (English).mp4",
+					"storedName": "M18.2.3 Properties of Inverse Trigonometry (English).mp4",
+					"id": 619
+				}, {
+					"displayName": "M18.3.1 Sine Law, Cosine Law & Projection Formulae (English).mp4",
+					"storedName": "M18.3.1 Sine Law, Cosine Law & Projection Formulae (English).mp4",
+					"id": 620
+				}, {
+					"displayName": "M18.3.2 Half Angle Formulae, Area of Triangle & Napier's Analogy (English).mp4",
+					"storedName": "M18.3.2 Half Angle Formulae, Area of Triangle & Napier's Analogy (English).mp4",
+					"id": 621
+				}, {
+					"displayName": "M18.4.1 Sine Law, Cosine Law & Projection Formulae (English).mp4",
+					"storedName": "M18.4.1 Sine Law, Cosine Law & Projection Formulae (English).mp4",
+					"id": 622
+				}, {
+					"displayName": "M18.4.2 Half Angle Formulae, Area of Triangle & Napier's Analogy (English).mp4",
+					"storedName": "M18.4.2 Half Angle Formulae, Area of Triangle & Napier's Analogy (English).mp4",
+					"id": 623
+				}]
+			}, {
+				"path": "M19 - Matrices & Determinants",
+				"name": "M19 - Matrices & Determinants",
+				"lessons": [{
+					"displayName": "M19.1.1 Matrices as System of Linear Equations (English).mp4",
+					"storedName": "M19.1.1 Matrices as System of Linear Equations (English).mp4",
+					"id": 624
+				}, {
+					"displayName": "M19.1.2 General Representation of a Matrix (English).mp4",
+					"storedName": "M19.1.2 General Representation of a Matrix (English).mp4",
+					"id": 625
+				}, {
+					"displayName": "M19.1.3 Equality, Addition & Scalar Multiplication of Matrices (English).mp4",
+					"storedName": "M19.1.3 Equality, Addition & Scalar Multiplication of Matrices (English).mp4",
+					"id": 626
+				}, {
+					"displayName": "M19.1.4 Transpose of a Matrix, Symmetric & Skew-Symmetric Matrices (English).mp4",
+					"storedName": "M19.1.4 Transpose of a Matrix, Symmetric & Skew-Symmetric Matrices (English).mp4",
+					"id": 627
+				}, {
+					"displayName": "M19.2.1 Multiplication of Matrices (English).mp4",
+					"storedName": "M19.2.1 Multiplication of Matrices (English).mp4",
+					"id": 628
+				}, {
+					"displayName": "M19.2.2 Method of Reaction (English).mp4",
+					"storedName": "M19.2.2 Method of Reaction (English).mp4",
+					"id": 629
+				}, {
+					"displayName": "M19.2.3 Inverse of a Matrix Using Elementary Row Operations (English).mp4",
+					"storedName": "M19.2.3 Inverse of a Matrix Using Elementary Row Operations (English).mp4",
+					"id": 630
+				}, {
+					"displayName": "M19.3.1 Determinant of a Matrix (Hindi).mp4",
+					"storedName": "M19.3.1 Determinant of a Matrix (Hindi).mp4",
+					"id": 631
+				}, {
+					"displayName": "M19.3.2 Properties of Determinants (Hindi).mp4",
+					"storedName": "M19.3.2 Properties of Determinants (Hindi).mp4",
+					"id": 632
+				}, {
+					"displayName": "M19.3.3 Area of Triangle & Cofactors (English).mp4",
+					"storedName": "M19.3.3 Area of Triangle & Cofactors (English).mp4",
+					"id": 633
+				}, {
+					"displayName": "M19.4.1 Adjoint & Inverse of a Matrix (English).mp4",
+					"storedName": "M19.4.1 Adjoint & Inverse of a Matrix (English).mp4",
+					"id": 634
+				}, {
+					"displayName": "M19.4.2 System of Linear Equations (English).mp4",
+					"storedName": "M19.4.2 System of Linear Equations (English).mp4",
+					"id": 635
+				}, {
+					"displayName": "M19.4.3 Cramer's Rule (English).mp4",
+					"storedName": "M19.4.3 Cramer's Rule (English).mp4",
+					"id": 636
+				}]
+			}, {
+				"path": "M20 - Continuity and Differentiability",
+				"name": "M20 - Continuity and Differentiability",
+				"lessons": [{
+					"displayName": "01. Continuity at a point and its conditions.mp4",
+					"storedName": "01. Continuity at a point and its conditions.mp4",
+					"id": 637
+				}, {
+					"displayName": "02. Types of discontinuity.mp4",
+					"storedName": "02. Types of discontinuity.mp4",
+					"id": 638
+				}, {
+					"displayName": "03. Continuity of functions in a given interval.mp4",
+					"storedName": "03. Continuity of functions in a given interval.mp4",
+					"id": 639
+				}, {
+					"displayName": "04. Continuity of sum or difference of functions.mp4",
+					"storedName": "04. Continuity of sum or difference of functions.mp4",
+					"id": 640
+				}, {
+					"displayName": "M20.1.1 Points of discontinuity & its conditions (Hindi).mp4",
+					"storedName": "M20.1.1 Points of discontinuity & its conditions (Hindi).mp4",
+					"id": 641
+				}, {
+					"displayName": "M20.1.2 Types of discontinuity (Hindi).mp4",
+					"storedName": "M20.1.2 Types of discontinuity (Hindi).mp4",
+					"id": 642
+				}, {
+					"displayName": "M20.1.3 Continuity in an interval & continuous function (Hindi).mp4",
+					"storedName": "M20.1.3 Continuity in an interval & continuous function (Hindi).mp4",
+					"id": 643
+				}, {
+					"displayName": "M20.1.4 Continuity of standard functions (Hindi).mp4",
+					"storedName": "M20.1.4 Continuity of standard functions (Hindi).mp4",
+					"id": 644
+				}, {
+					"displayName": "M20.2.1 First principle of derivatives (Hindi).mp4",
+					"storedName": "M20.2.1 First principle of derivatives (Hindi).mp4",
+					"id": 645
+				}, {
+					"displayName": "M20.2.2 Differentiability at a point (Hindi).mp4",
+					"storedName": "M20.2.2 Differentiability at a point (Hindi).mp4",
+					"id": 646
+				}, {
+					"displayName": "M20.2.3 Differentiability in an interval & differentiable functions (Hindi).mp4",
+					"storedName": "M20.2.3 Differentiability in an interval & differentiable functions (Hindi).mp4",
+					"id": 647
+				}, {
+					"displayName": "M20.3.1 Parametric & Implicit differentiation (Hindi).mp4",
+					"storedName": "M20.3.1 Parametric & Implicit differentiation (Hindi).mp4",
+					"id": 648
+				}, {
+					"displayName": "M20.3.2 Logarithmic differentiation & Differentiation of Inverse trigonometric functions (Hindi).mp4",
+					"storedName": "M20.3.2 Logarithmic differentiation & Differentiation of Inverse trigonometric functions (Hindi).mp4",
+					"id": 649
+				}, {
+					"displayName": "M20.3.3 Theorems (LMVT & Rolle's theorem) (Hindi).mp4",
+					"storedName": "M20.3.3 Theorems (LMVT & Rolle's theorem) (Hindi).mp4",
+					"id": 650
+				}]
+			}, {
+				"path": "M21 - Application of Derivatives",
+				"name": "M21 - Application of Derivatives",
+				"lessons": [{
+					"displayName": "01. Derivative as a rate of change of quantity.mp4",
+					"storedName": "01. Derivative as a rate of change of quantity.mp4",
+					"id": 651
+				}, {
+					"displayName": "02. Increasing & Decreasing functions.mp4",
+					"storedName": "02. Increasing & Decreasing functions.mp4",
+					"id": 652
+				}, {
+					"displayName": "03. Local maxima & local minima of a function.mp4",
+					"storedName": "03. Local maxima & local minima of a function.mp4",
+					"id": 653
+				}, {
+					"displayName": "04. Global maxima & global minima of a function.mp4",
+					"storedName": "04. Global maxima & global minima of a function.mp4",
+					"id": 654
+				}, {
+					"displayName": "05. Tangents & normals using differentiation.mp4",
+					"storedName": "05. Tangents & normals using differentiation.mp4",
+					"id": 655
+				}, {
+					"displayName": "06. Approximations using differentiation.mp4",
+					"storedName": "06. Approximations using differentiation.mp4",
+					"id": 656
+				}, {
+					"displayName": "M21.1.1 Derivative as a rate of change.mp4",
+					"storedName": "M21.1.1 Derivative as a rate of change.mp4",
+					"id": 657
+				}, {
+					"displayName": "M21.1.2 Increasing & Decreasing functions.mp4",
+					"storedName": "M21.1.2 Increasing & Decreasing functions.mp4",
+					"id": 658
+				}, {
+					"displayName": "M21.1.3 Local Maxima & Local Minima.mp4",
+					"storedName": "M21.1.3 Local Maxima & Local Minima.mp4",
+					"id": 659
+				}, {
+					"displayName": "M21.2.1 Global Minima & Global Maxima.mp4",
+					"storedName": "M21.2.1 Global Minima & Global Maxima.mp4",
+					"id": 660
+				}, {
+					"displayName": "M21.2.2 Tangents & Normals.mp4",
+					"storedName": "M21.2.2 Tangents & Normals.mp4",
+					"id": 661
+				}, {
+					"displayName": "M21.2.3 Approximations.mp4",
+					"storedName": "M21.2.3 Approximations.mp4",
+					"id": 662
+				}]
+			}, {
+				"path": "M22 - Indefinite Integration",
+				"name": "M22 - Indefinite Integration",
+				"lessons": [{
+					"displayName": "01. Integration as an Anti-Derivative, Constant of Integration.mp4",
+					"storedName": "01. Integration as an Anti-Derivative, Constant of Integration.mp4",
+					"id": 663
+				}, {
+					"displayName": "02. Antiderivatives of standard functions, Power rule, Properties of integrals.mp4",
+					"storedName": "02. Antiderivatives of standard functions, Power rule, Properties of integrals.mp4",
+					"id": 664
+				}, {
+					"displayName": "03. Special Case of Integration.mp4",
+					"storedName": "03. Special Case of Integration.mp4",
+					"id": 665
+				}, {
+					"displayName": "04. Illstrations.mp4",
+					"storedName": "04. Illstrations.mp4",
+					"id": 666
+				}, {
+					"displayName": "05. Integration by Substitution.mp4",
+					"storedName": "05. Integration by Substitution.mp4",
+					"id": 667
+				}, {
+					"displayName": "06. Choosing the Variable in Substitution.mp4",
+					"storedName": "06. Choosing the Variable in Substitution.mp4",
+					"id": 668
+				}, {
+					"displayName": "07. Splitting the Numerator in terms of the Denominator.mp4",
+					"storedName": "07. Splitting the Numerator in terms of the Denominator.mp4",
+					"id": 669
+				}, {
+					"displayName": "08. Substitution using Trigonometric Ratios.mp4",
+					"storedName": "08. Substitution using Trigonometric Ratios.mp4",
+					"id": 670
+				}, {
+					"displayName": "09. Integration using Perfect Square Completion.mp4",
+					"storedName": "09. Integration using Perfect Square Completion.mp4",
+					"id": 671
+				}, {
+					"displayName": "10. Integration of Trigonometric Terms in the Denominator.mp4",
+					"storedName": "10. Integration of Trigonometric Terms in the Denominator.mp4",
+					"id": 672
+				}, {
+					"displayName": "11. Integration of Rational Functions.mp4",
+					"storedName": "11. Integration of Rational Functions.mp4",
+					"id": 673
+				}, {
+					"displayName": "12. Integration using Partial Fractions.mp4",
+					"storedName": "12. Integration using Partial Fractions.mp4",
+					"id": 674
+				}, {
+					"displayName": "13. Integration by Parts & LIATE Rule.mp4",
+					"storedName": "13. Integration by Parts & LIATE Rule.mp4",
+					"id": 675
+				}, {
+					"displayName": "14. Standard Formulae using Integration by Parts.mp4",
+					"storedName": "14. Standard Formulae using Integration by Parts.mp4",
+					"id": 676
+				}, {
+					"displayName": "15. Integration of functions with exponential terms.mp4",
+					"storedName": "15. Integration of functions with exponential terms.mp4",
+					"id": 677
+				}]
+			}, {
+				"path": "M23 - Definite Integration",
+				"name": "M23 - Definite Integration",
+				"lessons": [{
+					"displayName": "01. Introduction to Definite Integration.mp4",
+					"storedName": "01. Introduction to Definite Integration.mp4",
+					"id": 678
+				}, {
+					"displayName": "02. Integration by Substitution Method.mp4",
+					"storedName": "02. Integration by Substitution Method.mp4",
+					"id": 679
+				}, {
+					"displayName": "03. Solving Integration by Parts and Partial Fractions.mp4",
+					"storedName": "03. Solving Integration by Parts and Partial Fractions.mp4",
+					"id": 680
+				}, {
+					"displayName": "04. Properties of Definite Integrals I.mp4",
+					"storedName": "04. Properties of Definite Integrals I.mp4",
+					"id": 681
+				}, {
+					"displayName": "05. Properties of Definite Integrals II.mp4",
+					"storedName": "05. Properties of Definite Integrals II.mp4",
+					"id": 682
+				}, {
+					"displayName": "06. Properties of Definite Integrals III.mp4",
+					"storedName": "06. Properties of Definite Integrals III.mp4",
+					"id": 683
+				}, {
+					"displayName": "07. Definite Integration as Limit of a Sum and Area Function.mp4",
+					"storedName": "07. Definite Integration as Limit of a Sum and Area Function.mp4",
+					"id": 684
+				}, {
+					"displayName": "08. Area Under a Curve Upon X-axis and Y-axis.mp4",
+					"storedName": "08. Area Under a Curve Upon X-axis and Y-axis.mp4",
+					"id": 685
+				}, {
+					"displayName": "09. Area in Multiple Quadrants Using Definite Integrals.mp4",
+					"storedName": "09. Area in Multiple Quadrants Using Definite Integrals.mp4",
+					"id": 686
+				}, {
+					"displayName": "10. Area bounded between a line and a curve.mp4",
+					"storedName": "10. Area bounded between a line and a curve.mp4",
+					"id": 687
+				}, {
+					"displayName": "11. Area bounded between two curves.mp4",
+					"storedName": "11. Area bounded between two curves.mp4",
+					"id": 688
+				}]
+			}, {
+				"path": "M24 - Differential Equations",
+				"name": "M24 - Differential Equations",
+				"lessons": [{
+					"displayName": "01. Introduction to Differential Equation.mp4",
+					"storedName": "01. Introduction to Differential Equation.mp4",
+					"id": 689
+				}, {
+					"displayName": "02. Fundamentals of Differential Equation.mp4",
+					"storedName": "02. Fundamentals of Differential Equation.mp4",
+					"id": 690
+				}, {
+					"displayName": "03. Formation of a Differential Equation.mp4",
+					"storedName": "03. Formation of a Differential Equation.mp4",
+					"id": 691
+				}, {
+					"displayName": "04. Solving Differential Equations by Variable Separation Method.mp4",
+					"storedName": "04. Solving Differential Equations by Variable Separation Method.mp4",
+					"id": 692
+				}, {
+					"displayName": "05. Homogenous Differential Equations.mp4",
+					"storedName": "05. Homogenous Differential Equations.mp4",
+					"id": 693
+				}, {
+					"displayName": "06. Linear Differential Equations.mp4",
+					"storedName": "06. Linear Differential Equations.mp4",
+					"id": 694
+				}, {
+					"displayName": "07. Some Physical Applications of Differential Equations.mp4",
+					"storedName": "07. Some Physical Applications of Differential Equations.mp4",
+					"id": 695
+				}]
+			}, {
+				"path": "M25 - Vector Algebra",
+				"name": "M25 - Vector Algebra",
+				"lessons": [{
+					"displayName": "M25.1.1 Vectors in Three Dimensions (English).mp4",
+					"storedName": "M25.1.1 Vectors in Three Dimensions (English).mp4",
+					"id": 696
+				}, {
+					"displayName": "M25.1.2 Product of a Vector and a Scalar (English).mp4",
+					"storedName": "M25.1.2 Product of a Vector and a Scalar (English).mp4",
+					"id": 697
+				}, {
+					"displayName": "M25.1.3 Addition and Coplanarity of Vectors (English).mp4",
+					"storedName": "M25.1.3 Addition and Coplanarity of Vectors (English).mp4",
+					"id": 698
+				}, {
+					"displayName": "M25.2.1 Position Vector and Direction Ratios (English).mp4",
+					"storedName": "M25.2.1 Position Vector and Direction Ratios (English).mp4",
+					"id": 699
+				}, {
+					"displayName": "M25.2.2 Distance Formula and Section Formula (English).mp4",
+					"storedName": "M25.2.2 Distance Formula and Section Formula (English).mp4",
+					"id": 700
+				}, {
+					"displayName": "M25.2.3 Dot Product and Projections (English).mp4",
+					"storedName": "M25.2.3 Dot Product and Projections (English).mp4",
+					"id": 701
+				}, {
+					"displayName": "M25.3.1 Handedness of Coordinate System and Cross Product (English).mp4",
+					"storedName": "M25.3.1 Handedness of Coordinate System and Cross Product (English).mp4",
+					"id": 702
+				}, {
+					"displayName": "M25.3.2 Evaluating Cross Product (English).mp4",
+					"storedName": "M25.3.2 Evaluating Cross Product (English).mp4",
+					"id": 703
+				}, {
+					"displayName": "M25.3.3 Application of Cross Product (English).mp4",
+					"storedName": "M25.3.3 Application of Cross Product (English).mp4",
+					"id": 704
+				}, {
+					"displayName": "M25.4.1 Scalar Triple Product (English).mp4",
+					"storedName": "M25.4.1 Scalar Triple Product (English).mp4",
+					"id": 705
+				}, {
+					"displayName": "M25.4.2 - Applications of Scalar Triple Product (English).mp4",
+					"storedName": "M25.4.2 - Applications of Scalar Triple Product (English).mp4",
+					"id": 706
+				}, {
+					"displayName": "M25.4.3 Vector Triple Product (English).mp4",
+					"storedName": "M25.4.3 Vector Triple Product (English).mp4",
+					"id": 707
+				}]
+			}, {
+				"path": "M27 - Probability",
+				"name": "M27 - Probability",
+				"lessons": [{
+					"displayName": "M26.1.1 Fundamentals of Probability (English).mp4",
+					"storedName": "M26.1.1 Fundamentals of Probability (English).mp4",
+					"id": 708
+				}, {
+					"displayName": "M26.1.2 Algebra of Events (English).mp4",
+					"storedName": "M26.1.2 Algebra of Events (English).mp4",
+					"id": 709
+				}, {
+					"displayName": "M26.1.3 Types of Events (English).mp4",
+					"storedName": "M26.1.3 Types of Events (English).mp4",
+					"id": 710
+				}, {
+					"displayName": "M26.2.1 Conditional Probability (English).mp4",
+					"storedName": "M26.2.1 Conditional Probability (English).mp4",
+					"id": 711
+				}, {
+					"displayName": "M26.2.2 Properties of Conditional Probability, Multiplication Theorem & Independent Events (English).mp4",
+					"storedName": "M26.2.2 Properties of Conditional Probability, Multiplication Theorem & Independent Events (English).mp4",
+					"id": 712
+				}, {
+					"displayName": "M26.2.3 Baye's Theorem (English).mp4",
+					"storedName": "M26.2.3 Baye's Theorem (English).mp4",
+					"id": 713
+				}, {
+					"displayName": "M26.3.1 Distribution of a Random Variable (English).mp4",
+					"storedName": "M26.3.1 Distribution of a Random Variable (English).mp4",
+					"id": 714
+				}, {
+					"displayName": "M26.3.2 Mean and Variance of a Random Variable (English).mp4",
+					"storedName": "M26.3.2 Mean and Variance of a Random Variable (English).mp4",
+					"id": 715
+				}, {
+					"displayName": "M26.4.1 Bernoulli Trial and Binomial Distribution (English).mp4",
+					"storedName": "M26.4.1 Bernoulli Trial and Binomial Distribution (English).mp4",
+					"id": 716
+				}, {
+					"displayName": "M26.4.2 Mean and Variance (English).mp4",
+					"storedName": "M26.4.2 Mean and Variance (English).mp4",
+					"id": 717
+				}, {
+					"displayName": "M26.4.3 Probability Density Function for Contnuous Random Variable (English).mp4",
+					"storedName": "M26.4.3 Probability Density Function for Contnuous Random Variable (English).mp4",
+					"id": 718
+				}]
+			}],
+			"Chemistry": [{
+				"path": "C15 - Solid State",
+				"name": "C15 - Solid State",
+				"lessons": [{
+					"displayName": "C15.1.1 Types of Solids (English).mp4",
+					"storedName": "C15.1.1 Types of Solids (English).mp4",
+					"id": 719
+				}, {
+					"displayName": "C15.1.2 Introduction to Crystalline Solids (English).mp4",
+					"storedName": "C15.1.2 Introduction to Crystalline Solids (English).mp4",
+					"id": 720
+				}, {
+					"displayName": "C15.1.3 Effective Number of Atoms in a Unit Cell (English).mp4",
+					"storedName": "C15.1.3 Effective Number of Atoms in a Unit Cell (English).mp4",
+					"id": 721
+				}, {
+					"displayName": "C15.1.4 Coordination Number in a Unit Cell (English).mp4",
+					"storedName": "C15.1.4 Coordination Number in a Unit Cell (English).mp4",
+					"id": 722
+				}, {
+					"displayName": "C15.1.5 Close Packing of Particles (English).mp4",
+					"storedName": "C15.1.5 Close Packing of Particles (English).mp4",
+					"id": 723
+				}, {
+					"displayName": "C15.2.1 Packing Efficiency of different Crystals (English).mp4",
+					"storedName": "C15.2.1 Packing Efficiency of different Crystals (English).mp4",
+					"id": 724
+				}, {
+					"displayName": "C15.2.2 Density of a Crystal (English).mp4",
+					"storedName": "C15.2.2 Density of a Crystal (English).mp4",
+					"id": 725
+				}, {
+					"displayName": "C15.2.3 Bragg's Law (English).mp4",
+					"storedName": "C15.2.3 Bragg's Law (English).mp4",
+					"id": 726
+				}, {
+					"displayName": "C15.2.4 Defects in a Crystal (English).mp4",
+					"storedName": "C15.2.4 Defects in a Crystal (English).mp4",
+					"id": 727
+				}, {
+					"displayName": "C15.2.5 Electrical and Magnetic Properties of Solids (English).mp4",
+					"storedName": "C15.2.5 Electrical and Magnetic Properties of Solids (English).mp4",
+					"id": 728
+				}]
+			}, {
+				"path": "C16 - Solutions",
+				"name": "C16 - Solutions",
+				"lessons": [{
+					"displayName": "C16.1.1 Introduction to Solutions (English).mp4",
+					"storedName": "C16.1.1 Introduction to Solutions (English).mp4",
+					"id": 729
+				}, {
+					"displayName": "C16.1.1 Solubility (English).mp4",
+					"storedName": "C16.1.1 Solubility (English).mp4",
+					"id": 730
+				}, {
+					"displayName": "C16.1.2 Raoult's Law (English).mp4",
+					"storedName": "C16.1.2 Raoult's Law (English).mp4",
+					"id": 731
+				}, {
+					"displayName": "C16.1.2 Solubility (English).mp4",
+					"storedName": "C16.1.2 Solubility (English).mp4",
+					"id": 732
+				}, {
+					"displayName": "C16.1.3 Ideal & Non-ideal Solutions (English).mp4",
+					"storedName": "C16.1.3 Ideal & Non-ideal Solutions (English).mp4",
+					"id": 733
+				}, {
+					"displayName": "C16.1.3 Raoult's Law (English).mp4",
+					"storedName": "C16.1.3 Raoult's Law (English).mp4",
+					"id": 734
+				}, {
+					"displayName": "C16.1.4 Ideal & Non-ideal Solutions (English).mp4",
+					"storedName": "C16.1.4 Ideal & Non-ideal Solutions (English).mp4",
+					"id": 735
+				}, {
+					"displayName": "C16.2.1 Relative lowering of Vapour Pressure (English).mp4",
+					"storedName": "C16.2.1 Relative lowering of Vapour Pressure (English).mp4",
+					"id": 736
+				}, {
+					"displayName": "C16.2.2 Elevation in Boiling Point (English).mp4",
+					"storedName": "C16.2.2 Elevation in Boiling Point (English).mp4",
+					"id": 737
+				}, {
+					"displayName": "C16.2.3 Depression in Freezing Point (English).mp4",
+					"storedName": "C16.2.3 Depression in Freezing Point (English).mp4",
+					"id": 738
+				}, {
+					"displayName": "C16.2.4 Osmosis & Osmotic Pressure (English).mp4",
+					"storedName": "C16.2.4 Osmosis & Osmotic Pressure (English).mp4",
+					"id": 739
+				}, {
+					"displayName": "C16.2.5 Reverse Osmosis (English).mp4",
+					"storedName": "C16.2.5 Reverse Osmosis (English).mp4",
+					"id": 740
+				}, {
+					"displayName": "C16.3.1 van 't Hoff Factor (Hindi).mp4",
+					"storedName": "C16.3.1 van 't Hoff Factor (Hindi).mp4",
+					"id": 741
+				}, {
+					"displayName": "C16.3.2 Degree of Dissociation and van 't Hoff Factor (Hindi).mp4",
+					"storedName": "C16.3.2 Degree of Dissociation and van 't Hoff Factor (Hindi).mp4",
+					"id": 742
+				}, {
+					"displayName": "C16.3.3 Degree of Association and van 't Hoff Factor (Hindi).mp4",
+					"storedName": "C16.3.3 Degree of Association and van 't Hoff Factor (Hindi).mp4",
+					"id": 743
+				}]
+			}, {
+				"path": "C17 - Electrochemistry",
+				"name": "C17 - Electrochemistry",
+				"lessons": [{
+					"displayName": "C17.1.1 Introduction (Hindi).mp4",
+					"storedName": "C17.1.1 Introduction (Hindi).mp4",
+					"id": 744
+				}, {
+					"displayName": "C17.1.2 Electrolytic cells (Hindi).mp4",
+					"storedName": "C17.1.2 Electrolytic cells (Hindi).mp4",
+					"id": 745
+				}, {
+					"displayName": "C17.1.3 Galvanic cells (Hindi).mp4",
+					"storedName": "C17.1.3 Galvanic cells (Hindi).mp4",
+					"id": 746
+				}, {
+					"displayName": "C17.1.4 Galvanic cell potential (Hindi).mp4",
+					"storedName": "C17.1.4 Galvanic cell potential (Hindi).mp4",
+					"id": 747
+				}, {
+					"displayName": "C17.1.5 Electrochemical Series (Hindi).mp4",
+					"storedName": "C17.1.5 Electrochemical Series (Hindi).mp4",
+					"id": 748
+				}, {
+					"displayName": "C17.2.1 Gibb's free energy & EMF (English).mp4",
+					"storedName": "C17.2.1 Gibb's free energy & EMF (English).mp4",
+					"id": 749
+				}, {
+					"displayName": "C17.2.2 Applications of the Nernst equation (English).mp4",
+					"storedName": "C17.2.2 Applications of the Nernst equation (English).mp4",
+					"id": 750
+				}, {
+					"displayName": "C17.2.3 Faraday's laws of electrolysis (English).mp4",
+					"storedName": "C17.2.3 Faraday's laws of electrolysis (English).mp4",
+					"id": 751
+				}, {
+					"displayName": "C17.3.1 Conductivity of electrolytes (English).mp4",
+					"storedName": "C17.3.1 Conductivity of electrolytes (English).mp4",
+					"id": 752
+				}, {
+					"displayName": "C17.3.2 Molar & Equivalent conductivity (English).mp4",
+					"storedName": "C17.3.2 Molar & Equivalent conductivity (English).mp4",
+					"id": 753
+				}, {
+					"displayName": "C17.3.3 Concentration & molar conductivity, Kohlrausch Law (English).mp4",
+					"storedName": "C17.3.3 Concentration & molar conductivity, Kohlrausch Law (English).mp4",
+					"id": 754
+				}, {
+					"displayName": "C17.3.4 Batteries & Fuel cells (English).mp4",
+					"storedName": "C17.3.4 Batteries & Fuel cells (English).mp4",
+					"id": 755
+				}]
+			}, {
+				"path": "C18 - Chemical Kinetics",
+				"name": "C18 - Chemical Kinetics",
+				"lessons": [{
+					"displayName": "C18.1.1 Rate of a Reaction.mp4",
+					"storedName": "C18.1.1 Rate of a Reaction.mp4",
+					"id": 756
+				}, {
+					"displayName": "C18.1.2 Rate of a Reaction & Order of a Reaction.mp4",
+					"storedName": "C18.1.2 Rate of a Reaction & Order of a Reaction.mp4",
+					"id": 757
+				}, {
+					"displayName": "C18.1.3 Elementary & Complex Reactions.mp4",
+					"storedName": "C18.1.3 Elementary & Complex Reactions.mp4",
+					"id": 758
+				}, {
+					"displayName": "C18.2.1 Integrated Rate Laws.mp4",
+					"storedName": "C18.2.1 Integrated Rate Laws.mp4",
+					"id": 759
+				}, {
+					"displayName": "C18.2.2 Half Life of a Reaction.mp4",
+					"storedName": "C18.2.2 Half Life of a Reaction.mp4",
+					"id": 760
+				}, {
+					"displayName": "C18.2.3 Pseudo First Order Reaction.mp4",
+					"storedName": "C18.2.3 Pseudo First Order Reaction.mp4",
+					"id": 761
+				}, {
+					"displayName": "C18.3.1 Arrhenius Equation.mp4",
+					"storedName": "C18.3.1 Arrhenius Equation.mp4",
+					"id": 762
+				}, {
+					"displayName": "C18.3.2 Mathematical Interpretation of Arrhennius Equation.mp4",
+					"storedName": "C18.3.2 Mathematical Interpretation of Arrhennius Equation.mp4",
+					"id": 763
+				}, {
+					"displayName": "C18.3.3 Catalyst & Collission Theory.mp4",
+					"storedName": "C18.3.3 Catalyst & Collission Theory.mp4",
+					"id": 764
+				}]
+			}, {
+				"path": "C19 - Surface Chemistry",
+				"name": "C19 - Surface Chemistry",
+				"lessons": [{
+					"displayName": "C19.1.1 Basics of Adsorption (English).mp4",
+					"storedName": "C19.1.1 Basics of Adsorption (English).mp4",
+					"id": 765
+				}, {
+					"displayName": "C19.1.2 Physisorption & Chemisorption (English).mp4",
+					"storedName": "C19.1.2 Physisorption & Chemisorption (English).mp4",
+					"id": 766
+				}, {
+					"displayName": "C19.1.3 Freundlich Adsorption Isotherm (English).mp4",
+					"storedName": "C19.1.3 Freundlich Adsorption Isotherm (English).mp4",
+					"id": 767
+				}, {
+					"displayName": "C19.1.4 Langmuir Adsorption Isotherm (English).mp4",
+					"storedName": "C19.1.4 Langmuir Adsorption Isotherm (English).mp4",
+					"id": 768
+				}, {
+					"displayName": "C19.2.1 Introduction to Catalysis (English).mp4",
+					"storedName": "C19.2.1 Introduction to Catalysis (English).mp4",
+					"id": 769
+				}, {
+					"displayName": "C19.2.2 Enzyme & Shape Selective Catalysis (English).mp4",
+					"storedName": "C19.2.2 Enzyme & Shape Selective Catalysis (English).mp4",
+					"id": 770
+				}, {
+					"displayName": "C19.2.3 Colloids & their Classification (English).mp4",
+					"storedName": "C19.2.3 Colloids & their Classification (English).mp4",
+					"id": 771
+				}, {
+					"displayName": "C19.2.4 Associated Colloids & Action of Soaps (English).mp4",
+					"storedName": "C19.2.4 Associated Colloids & Action of Soaps (English).mp4",
+					"id": 772
+				}, {
+					"displayName": "C19.3.1 Preparation of Colloids (Hindi).mp4",
+					"storedName": "C19.3.1 Preparation of Colloids (Hindi).mp4",
+					"id": 773
+				}, {
+					"displayName": "C19.3.2 Purification of Colloids (Hindi).mp4",
+					"storedName": "C19.3.2 Purification of Colloids (Hindi).mp4",
+					"id": 774
+				}, {
+					"displayName": "C19.3.3 Properties of Colloids - I (Hindi).mp4",
+					"storedName": "C19.3.3 Properties of Colloids - I (Hindi).mp4",
+					"id": 775
+				}, {
+					"displayName": "C19.3.4 Properties of Colloids - II (English).mp4",
+					"storedName": "C19.3.4 Properties of Colloids - II (English).mp4",
+					"id": 776
+				}, {
+					"displayName": "C19.3.5 Coagulation & Protection of Colloids (English).mp4",
+					"storedName": "C19.3.5 Coagulation & Protection of Colloids (English).mp4",
+					"id": 777
+				}]
+			}, {
+				"path": "C20 - Metallurgy",
+				"name": "C20 - Metallurgy",
+				"lessons": [{
+					"displayName": "C20.1.1 Introduction to Metallurgy (Hindi).mp4",
+					"storedName": "C20.1.1 Introduction to Metallurgy (Hindi).mp4",
+					"id": 778
+				}, {
+					"displayName": "C20.1.2 Concentration of an ore (Hindi).mp4",
+					"storedName": "C20.1.2 Concentration of an ore (Hindi).mp4",
+					"id": 779
+				}, {
+					"displayName": "C20.1.3 Isolation of the Metal (Hindi).mp4",
+					"storedName": "C20.1.3 Isolation of the Metal (Hindi).mp4",
+					"id": 780
+				}, {
+					"displayName": "C20.2.1 Extraction of metals - an introduction (English).mp4",
+					"storedName": "C20.2.1 Extraction of metals - an introduction (English).mp4",
+					"id": 781
+				}, {
+					"displayName": "C20.2.2 Extraction of Iron (English).mp4",
+					"storedName": "C20.2.2 Extraction of Iron (English).mp4",
+					"id": 782
+				}, {
+					"displayName": "C20.2.3 Extraction of Copper (English).mp4",
+					"storedName": "C20.2.3 Extraction of Copper (English).mp4",
+					"id": 783
+				}, {
+					"displayName": "C20.2.4 Electrolytic methods of extraction (English).mp4",
+					"storedName": "C20.2.4 Electrolytic methods of extraction (English).mp4",
+					"id": 784
+				}, {
+					"displayName": "C20.2.5 Purification - I (English).mp4",
+					"storedName": "C20.2.5 Purification - I (English).mp4",
+					"id": 785
+				}, {
+					"displayName": "C20.2.6 Purification - II (English).mp4",
+					"storedName": "C20.2.6 Purification - II (English).mp4",
+					"id": 786
+				}]
+			}, {
+				"path": "C22 - d and f block elements",
+				"name": "C22 - d and f block elements",
+				"lessons": [{
+					"displayName": "C22.1.1 Introduction, electron configuration of d block elements (English).mp4",
+					"storedName": "C22.1.1 Introduction, electron configuration of d block elements (English).mp4",
+					"id": 787
+				}, {
+					"displayName": "C22.1.2 Trends in properties of d block elements - I (English).mp4",
+					"storedName": "C22.1.2 Trends in properties of d block elements - I (English).mp4",
+					"id": 788
+				}, {
+					"displayName": "C22.1.3 Trends in properties of d block elements - II (English).mp4",
+					"storedName": "C22.1.3 Trends in properties of d block elements - II (English).mp4",
+					"id": 789
+				}, {
+					"displayName": "C22.1.4 Trends in properties of d block elements - III (English).mp4",
+					"storedName": "C22.1.4 Trends in properties of d block elements - III (English).mp4",
+					"id": 790
+				}, {
+					"displayName": "C22.2.1 Potassium Dichromate (English).mp4",
+					"storedName": "C22.2.1 Potassium Dichromate (English).mp4",
+					"id": 791
+				}, {
+					"displayName": "C22.2.2 Potassium Permanganate (English).mp4",
+					"storedName": "C22.2.2 Potassium Permanganate (English).mp4",
+					"id": 792
+				}, {
+					"displayName": "C22.2.3 Innner Transition (f-block) elements (English).mp4",
+					"storedName": "C22.2.3 Innner Transition (f-block) elements (English).mp4",
+					"id": 793
+				}]
+			}, {
+				"path": "C23 - Coordination Compounds",
+				"name": "C23 - Coordination Compounds",
+				"lessons": [{
+					"displayName": "C23.1.1 INTRODUCTION.mp4",
+					"storedName": "C23.1.1 INTRODUCTION.mp4",
+					"id": 794
+				}, {
+					"displayName": "C23.1.2 Werner's Theory.mp4",
+					"storedName": "C23.1.2 Werner's Theory.mp4",
+					"id": 795
+				}, {
+					"displayName": "C23.1.3 Terminology.mp4",
+					"storedName": "C23.1.3 Terminology.mp4",
+					"id": 796
+				}, {
+					"displayName": "C23.1.4 Nomenclature.mp4",
+					"storedName": "C23.1.4 Nomenclature.mp4",
+					"id": 797
+				}, {
+					"displayName": "C23.1.5 Writing formula.mp4",
+					"storedName": "C23.1.5 Writing formula.mp4",
+					"id": 798
+				}, {
+					"displayName": "C23.2.1 Isomerism.mp4",
+					"storedName": "C23.2.1 Isomerism.mp4",
+					"id": 799
+				}, {
+					"displayName": "C23.2.2 Structural Isomerism.mp4",
+					"storedName": "C23.2.2 Structural Isomerism.mp4",
+					"id": 800
+				}, {
+					"displayName": "C23.2.3 Stereoisomerism.mp4",
+					"storedName": "C23.2.3 Stereoisomerism.mp4",
+					"id": 801
+				}, {
+					"displayName": "C23.2.4 VB Theory.mp4",
+					"storedName": "C23.2.4 VB Theory.mp4",
+					"id": 802
+				}, {
+					"displayName": "C23.3.1 Assumptions.mp4",
+					"storedName": "C23.3.1 Assumptions.mp4",
+					"id": 803
+				}, {
+					"displayName": "C23.3.2 Crystal field Theory I.mp4",
+					"storedName": "C23.3.2 Crystal field Theory I.mp4",
+					"id": 804
+				}, {
+					"displayName": "C23.3.3 Crystal field Theory II-.mp4",
+					"storedName": "C23.3.3 Crystal field Theory II-.mp4",
+					"id": 805
+				}, {
+					"displayName": "C23.3.4 Metal Carbonyls and Stability of Coordination Complexes.mp4",
+					"storedName": "C23.3.4 Metal Carbonyls and Stability of Coordination Complexes.mp4",
+					"id": 806
+				}]
+			}, {
+				"path": "C25 - Alcohols, Phenols & Ethers",
+				"name": "C25 - Alcohols, Phenols & Ethers",
+				"lessons": [{
+					"displayName": "C25.1.1 Introduction to Alcohols, Ethers & Phenols.mp4",
+					"storedName": "C25.1.1 Introduction to Alcohols, Ethers & Phenols.mp4",
+					"id": 807
+				}, {
+					"displayName": "C25.1.2 Synthesis of Alcohols - I.mp4",
+					"storedName": "C25.1.2 Synthesis of Alcohols - I.mp4",
+					"id": 808
+				}, {
+					"displayName": "C25.1.3 Synthesis of Alcohols - II.mp4",
+					"storedName": "C25.1.3 Synthesis of Alcohols - II.mp4",
+					"id": 809
+				}, {
+					"displayName": "C25.2.1 Introduction to Chemical Properties of Alcohols.mp4",
+					"storedName": "C25.2.1 Introduction to Chemical Properties of Alcohols.mp4",
+					"id": 810
+				}, {
+					"displayName": "C25.2.2 Reactions of Alcohols due to nucleophilic nature.mp4",
+					"storedName": "C25.2.2 Reactions of Alcohols due to nucleophilic nature.mp4",
+					"id": 811
+				}, {
+					"displayName": "C25.2.3 Reactions of Alcohols due to acidic Hydrogen.mp4",
+					"storedName": "C25.2.3 Reactions of Alcohols due to acidic Hydrogen.mp4",
+					"id": 812
+				}, {
+					"displayName": "C25.2.4 Reactions of Alcohols - Oxidation.mp4",
+					"storedName": "C25.2.4 Reactions of Alcohols - Oxidation.mp4",
+					"id": 813
+				}, {
+					"displayName": "C25.2.5 Distinguishing tests for alcohols.mp4",
+					"storedName": "C25.2.5 Distinguishing tests for alcohols.mp4",
+					"id": 814
+				}, {
+					"displayName": "C25.3.1 Synthesis of Ethers.mp4",
+					"storedName": "C25.3.1 Synthesis of Ethers.mp4",
+					"id": 815
+				}, {
+					"displayName": "C25.3.2 Chemical Properties of Ethers.mp4",
+					"storedName": "C25.3.2 Chemical Properties of Ethers.mp4",
+					"id": 816
+				}, {
+					"displayName": "C25.3.3 Differentiating Alcohols & Ethers.mp4",
+					"storedName": "C25.3.3 Differentiating Alcohols & Ethers.mp4",
+					"id": 817
+				}, {
+					"displayName": "C25.3.4 Preparation of Phenols.mp4",
+					"storedName": "C25.3.4 Preparation of Phenols.mp4",
+					"id": 818
+				}, {
+					"displayName": "C25.3.5 Chemical Properties of Phenols.mp4",
+					"storedName": "C25.3.5 Chemical Properties of Phenols.mp4",
+					"id": 819
+				}, {
+					"displayName": "C25.3.6 Chemical Tests for Phenols.mp4",
+					"storedName": "C25.3.6 Chemical Tests for Phenols.mp4",
+					"id": 820
+				}]
+			}, {
+				"path": "C26 - Aldehydes and Ketones",
+				"name": "C26 - Aldehydes and Ketones",
+				"lessons": [{
+					"displayName": "C26.1.1 INTRODUCTION & Physical Properties of Aldehydes & Ketones.mp4",
+					"storedName": "C26.1.1 INTRODUCTION & Physical Properties of Aldehydes & Ketones.mp4",
+					"id": 821
+				}, {
+					"displayName": "C26.1.2 Synthesis of Aldehydes - I.mp4",
+					"storedName": "C26.1.2 Synthesis of Aldehydes - I.mp4",
+					"id": 822
+				}, {
+					"displayName": "C26.1.3 Synthesis of Aldehydes - II.mp4",
+					"storedName": "C26.1.3 Synthesis of Aldehydes - II.mp4",
+					"id": 823
+				}, {
+					"displayName": "C26.1.4 Synthesis of Ketones.mp4",
+					"storedName": "C26.1.4 Synthesis of Ketones.mp4",
+					"id": 824
+				}, {
+					"displayName": "C26.2.1 Introduction to Nucleophilic Addition Reactions.mp4",
+					"storedName": "C26.2.1 Introduction to Nucleophilic Addition Reactions.mp4",
+					"id": 825
+				}, {
+					"displayName": "C26.2.2 Nucleophilic Addition Reactions.mp4",
+					"storedName": "C26.2.2 Nucleophilic Addition Reactions.mp4",
+					"id": 826
+				}, {
+					"displayName": "C26.2.3 Oxidation & Reduction Reactions.mp4",
+					"storedName": "C26.2.3 Oxidation & Reduction Reactions.mp4",
+					"id": 827
+				}, {
+					"displayName": "C26.3.1 Acidity of alpha hydrogen.mp4",
+					"storedName": "C26.3.1 Acidity of alpha hydrogen.mp4",
+					"id": 828
+				}, {
+					"displayName": "C26.3.2 Distinguishing Tests.mp4",
+					"storedName": "C26.3.2 Distinguishing Tests.mp4",
+					"id": 829
+				}]
+			}, {
+				"path": "C27 - Carboxylic acids and derivatives",
+				"name": "C27 - Carboxylic acids and derivatives",
+				"lessons": [{
+					"displayName": "C27.1.1  INTRODUCTION.mp4",
+					"storedName": "C27.1.1  INTRODUCTION.mp4",
+					"id": 830
+				}, {
+					"displayName": "C27.1.2  Physical Properties.mp4",
+					"storedName": "C27.1.2  Physical Properties.mp4",
+					"id": 831
+				}, {
+					"displayName": "C27.1.3  Synthesis of Carboxylic Acids - I.mp4",
+					"storedName": "C27.1.3  Synthesis of Carboxylic Acids - I.mp4",
+					"id": 832
+				}, {
+					"displayName": "C27.1.4  Synthesis of Carboxylic Acids - II.mp4",
+					"storedName": "C27.1.4  Synthesis of Carboxylic Acids - II.mp4",
+					"id": 833
+				}, {
+					"displayName": "C27.2.1  Nucleophilic Addition Elimination Reactions.mp4",
+					"storedName": "C27.2.1  Nucleophilic Addition Elimination Reactions.mp4",
+					"id": 834
+				}, {
+					"displayName": "C27.2.2  Synthesis of Acid Derivatives.mp4",
+					"storedName": "C27.2.2  Synthesis of Acid Derivatives.mp4",
+					"id": 835
+				}, {
+					"displayName": "C27.2.3 - Reactions of Carboxylic Acids - I.mp4",
+					"storedName": "C27.2.3 - Reactions of Carboxylic Acids - I.mp4",
+					"id": 836
+				}, {
+					"displayName": "C27.2.4 - Reactions of Carboxylic  Acids - II.mp4",
+					"storedName": "C27.2.4 - Reactions of Carboxylic  Acids - II.mp4",
+					"id": 837
+				}]
+			}, {
+				"path": "C28 - Amines",
+				"name": "C28 - Amines",
+				"lessons": [{
+					"displayName": "C28.1.1 INTRODUCTION.mp4",
+					"storedName": "C28.1.1 INTRODUCTION.mp4",
+					"id": 838
+				}, {
+					"displayName": "C28.1.2 Physical Properties.mp4",
+					"storedName": "C28.1.2 Physical Properties.mp4",
+					"id": 839
+				}, {
+					"displayName": "C28.1.3 Synthesis of Amines - I.mp4",
+					"storedName": "C28.1.3 Synthesis of Amines - I.mp4",
+					"id": 840
+				}, {
+					"displayName": "C28.1.4 Synthesis of Amines - II.mp4",
+					"storedName": "C28.1.4 Synthesis of Amines - II.mp4",
+					"id": 841
+				}, {
+					"displayName": "C28.1.5 Mechanism Hoffmann-bromamide degradation reaction.mp4",
+					"storedName": "C28.1.5 Mechanism Hoffmann-bromamide degradation reaction.mp4",
+					"id": 842
+				}, {
+					"displayName": "C28.2.1  Reactions of Amines - I.mp4",
+					"storedName": "C28.2.1  Reactions of Amines - I.mp4",
+					"id": 843
+				}, {
+					"displayName": "C28.2.2  Reactions of Amines - II.mp4",
+					"storedName": "C28.2.2  Reactions of Amines - II.mp4",
+					"id": 844
+				}, {
+					"displayName": "C28.3.1 Diazonium salts and its reactions - I.mp4",
+					"storedName": "C28.3.1 Diazonium salts and its reactions - I.mp4",
+					"id": 845
+				}, {
+					"displayName": "C28.3.2 Diazonium salts and its reactions - II.mp4",
+					"storedName": "C28.3.2 Diazonium salts and its reactions - II.mp4",
+					"id": 846
+				}, {
+					"displayName": "C28.3.3 Diazonium salts and its reactions - III.mp4",
+					"storedName": "C28.3.3 Diazonium salts and its reactions - III.mp4",
+					"id": 847
+				}, {
+					"displayName": "C28.3.4 Preservatives Sodium Nitrite.mp4",
+					"storedName": "C28.3.4 Preservatives Sodium Nitrite.mp4",
+					"id": 848
+				}]
+			}],
+			"Physics": [{
+				"path": "P15 - Electrostatics",
+				"name": "P15 - Electrostatics",
+				"lessons": [{
+					"displayName": "P15.1.1 Introduction (English).mp4",
+					"storedName": "P15.1.1 Introduction (English).mp4",
+					"id": 849
+				}, {
+					"displayName": "P15.1.2 Charge & Its Properties (English).mp4",
+					"storedName": "P15.1.2 Charge & Its Properties (English).mp4",
+					"id": 850
+				}, {
+					"displayName": "P15.1.3 Modes of Charge Transfer (English).mp4",
+					"storedName": "P15.1.3 Modes of Charge Transfer (English).mp4",
+					"id": 851
+				}, {
+					"displayName": "P15.1.4 Force due to a Point Charge (English).mp4",
+					"storedName": "P15.1.4 Force due to a Point Charge (English).mp4",
+					"id": 852
+				}, {
+					"displayName": "P15.1.5 Force due to Multiple Charges (English).mp4",
+					"storedName": "P15.1.5 Force due to Multiple Charges (English).mp4",
+					"id": 853
+				}, {
+					"displayName": "P15.2.1 Introduction (English).mp4",
+					"storedName": "P15.2.1 Introduction (English).mp4",
+					"id": 854
+				}, {
+					"displayName": "P15.2.2 Field due to a Point Charge (English).mp4",
+					"storedName": "P15.2.2 Field due to a Point Charge (English).mp4",
+					"id": 855
+				}, {
+					"displayName": "P15.2.3 Electric Field Lines (English).mp4",
+					"storedName": "P15.2.3 Electric Field Lines (English).mp4",
+					"id": 856
+				}, {
+					"displayName": "P15.2.4 Field due to Multiple Charges (English).mp4",
+					"storedName": "P15.2.4 Field due to Multiple Charges (English).mp4",
+					"id": 857
+				}, {
+					"displayName": "P15.2.5 Electric Field inside a Conductor (Hindi).mp4",
+					"storedName": "P15.2.5 Electric Field inside a Conductor (Hindi).mp4",
+					"id": 858
+				}, {
+					"displayName": "P15.3.1 Topic Outline (English).mp4",
+					"storedName": "P15.3.1 Topic Outline (English).mp4",
+					"id": 859
+				}, {
+					"displayName": "P15.3.2 Electrostatic Potential Energy (English).mp4",
+					"storedName": "P15.3.2 Electrostatic Potential Energy (English).mp4",
+					"id": 860
+				}, {
+					"displayName": "P15.3.3 Electrostatic Potential (English).mp4",
+					"storedName": "P15.3.3 Electrostatic Potential (English).mp4",
+					"id": 861
+				}, {
+					"displayName": "P15.3.4 Relation between Field & Potential (English).mp4",
+					"storedName": "P15.3.4 Relation between Field & Potential (English).mp4",
+					"id": 862
+				}, {
+					"displayName": "P15.3.5 Equipotential Surfaces (English).mp4",
+					"storedName": "P15.3.5 Equipotential Surfaces (English).mp4",
+					"id": 863
+				}, {
+					"displayName": "P15.4.1 Introduction to Dipoles (English).mp4",
+					"storedName": "P15.4.1 Introduction to Dipoles (English).mp4",
+					"id": 864
+				}, {
+					"displayName": "P15.4.2 Field due to a Dipole (English).mp4",
+					"storedName": "P15.4.2 Field due to a Dipole (English).mp4",
+					"id": 865
+				}, {
+					"displayName": "P15.4.3 Potential due to a Dipole (English).mp4",
+					"storedName": "P15.4.3 Potential due to a Dipole (English).mp4",
+					"id": 866
+				}, {
+					"displayName": "P15.4.4 Dipole in an external electric field (English).mp4",
+					"storedName": "P15.4.4 Dipole in an external electric field (English).mp4",
+					"id": 867
+				}, {
+					"displayName": "P15.4.5 Continuous Charge Distributions (English).mp4",
+					"storedName": "P15.4.5 Continuous Charge Distributions (English).mp4",
+					"id": 868
+				}, {
+					"displayName": "P15.4.6 Field & Potential due to Continuous Charge Distributions (English).mp4",
+					"storedName": "P15.4.6 Field & Potential due to Continuous Charge Distributions (English).mp4",
+					"id": 869
+				}, {
+					"displayName": "P15.5.1 Introduction (English).mp4",
+					"storedName": "P15.5.1 Introduction (English).mp4",
+					"id": 870
+				}, {
+					"displayName": "P15.5.2 Electric Flux (English).mp4",
+					"storedName": "P15.5.2 Electric Flux (English).mp4",
+					"id": 871
+				}, {
+					"displayName": "P15.5.3 Gauss's Law (English).mp4",
+					"storedName": "P15.5.3 Gauss's Law (English).mp4",
+					"id": 872
+				}, {
+					"displayName": "P15.5.4 Applications of Gauss's Law (English).mp4",
+					"storedName": "P15.5.4 Applications of Gauss's Law (English).mp4",
+					"id": 873
+				}]
+			}, {
+				"path": "P16 - Capacitors",
+				"name": "P16 - Capacitors",
+				"lessons": [{
+					"displayName": "P16.1.1 Capacitance of Conductors (English).mp4",
+					"storedName": "P16.1.1 Capacitance of Conductors (English).mp4",
+					"id": 874
+				}, {
+					"displayName": "P16.1.2 Parallel Plate Capacitor (English).mp4",
+					"storedName": "P16.1.2 Parallel Plate Capacitor (English).mp4",
+					"id": 875
+				}, {
+					"displayName": "P16.1.3 Energy stored in a Capacitor (English).mp4",
+					"storedName": "P16.1.3 Energy stored in a Capacitor (English).mp4",
+					"id": 876
+				}, {
+					"displayName": "P16.1.4 Capacitor as a Device (English).mp4",
+					"storedName": "P16.1.4 Capacitor as a Device (English).mp4",
+					"id": 877
+				}, {
+					"displayName": "P16.1.5 Combination of Capacitors (English).mp4",
+					"storedName": "P16.1.5 Combination of Capacitors (English).mp4",
+					"id": 878
+				}, {
+					"displayName": "P16.2.1 Dielectric Materials & Polarization (English).mp4",
+					"storedName": "P16.2.1 Dielectric Materials & Polarization (English).mp4",
+					"id": 879
+				}, {
+					"displayName": "P16.2.2 Properties of Dielectrics (English).mp4",
+					"storedName": "P16.2.2 Properties of Dielectrics (English).mp4",
+					"id": 880
+				}, {
+					"displayName": "P16.2.3 Dielectric in a Parallel Plate Capacitor (English).mp4",
+					"storedName": "P16.2.3 Dielectric in a Parallel Plate Capacitor (English).mp4",
+					"id": 881
+				}, {
+					"displayName": "P16.2.4 Effect of Dielectric on Charge, Potential and Energy (English).mp4",
+					"storedName": "P16.2.4 Effect of Dielectric on Charge, Potential and Energy (English).mp4",
+					"id": 882
+				}, {
+					"displayName": "P16.2.5 Breakdown of Dielectrics (English).mp4",
+					"storedName": "P16.2.5 Breakdown of Dielectrics (English).mp4",
+					"id": 883
+				}]
+			}, {
+				"path": "P17 - Current Electricity",
+				"name": "P17 - Current Electricity",
+				"lessons": [{
+					"displayName": "P17.1.1 Introduction to Current Electricty.mp4",
+					"storedName": "P17.1.1 Introduction to Current Electricty.mp4",
+					"id": 884
+				}, {
+					"displayName": "P17.1.2 Conductors & Drift of Electrons.mp4",
+					"storedName": "P17.1.2 Conductors & Drift of Electrons.mp4",
+					"id": 885
+				}, {
+					"displayName": "P17.1.3 Drift Velocity.mp4",
+					"storedName": "P17.1.3 Drift Velocity.mp4",
+					"id": 886
+				}, {
+					"displayName": "P17.1.4 Drift Velocity & Current.mp4",
+					"storedName": "P17.1.4 Drift Velocity & Current.mp4",
+					"id": 887
+				}, {
+					"displayName": "P17.1.5 Electron Mobility.mp4",
+					"storedName": "P17.1.5 Electron Mobility.mp4",
+					"id": 888
+				}, {
+					"displayName": "P17.2.1 Introduction to Ohm's Law.mp4",
+					"storedName": "P17.2.1 Introduction to Ohm's Law.mp4",
+					"id": 889
+				}, {
+					"displayName": "P17.2.2 Statement of Ohm's Law.mp4",
+					"storedName": "P17.2.2 Statement of Ohm's Law.mp4",
+					"id": 890
+				}, {
+					"displayName": "P17.2.3 Alternate form of Ohm's Law.mp4",
+					"storedName": "P17.2.3 Alternate form of Ohm's Law.mp4",
+					"id": 891
+				}, {
+					"displayName": "P17.2.4 Temperature dependence of Resitivity & Resistance.mp4",
+					"storedName": "P17.2.4 Temperature dependence of Resitivity & Resistance.mp4",
+					"id": 892
+				}, {
+					"displayName": "P17.2.5 Colour Coding of Resistance.mp4",
+					"storedName": "P17.2.5 Colour Coding of Resistance.mp4",
+					"id": 893
+				}, {
+					"displayName": "P17.2.6 Electrical Circuits.mp4",
+					"storedName": "P17.2.6 Electrical Circuits.mp4",
+					"id": 894
+				}, {
+					"displayName": "P17.2.7 Cell.mp4",
+					"storedName": "P17.2.7 Cell.mp4",
+					"id": 895
+				}, {
+					"displayName": "P17.2.8 Electrical Power & Thermal Energy in a circuit.mp4",
+					"storedName": "P17.2.8 Electrical Power & Thermal Energy in a circuit.mp4",
+					"id": 896
+				}, {
+					"displayName": "P17.3.1 Introduction to Kirchoff's Law.mp4",
+					"storedName": "P17.3.1 Introduction to Kirchoff's Law.mp4",
+					"id": 897
+				}, {
+					"displayName": "P17.3.2 Kirchoff's Current Law.mp4",
+					"storedName": "P17.3.2 Kirchoff's Current Law.mp4",
+					"id": 898
+				}, {
+					"displayName": "P17.3.3 Kirchoff's Voltage Law.mp4",
+					"storedName": "P17.3.3 Kirchoff's Voltage Law.mp4",
+					"id": 899
+				}, {
+					"displayName": "P17.3.4 Combination of Cells.mp4",
+					"storedName": "P17.3.4 Combination of Cells.mp4",
+					"id": 900
+				}, {
+					"displayName": "P17.4.1 Introduction to Electrical Devices.mp4",
+					"storedName": "P17.4.1 Introduction to Electrical Devices.mp4",
+					"id": 901
+				}, {
+					"displayName": "P17.4.2 Wheatstone Bridge.mp4",
+					"storedName": "P17.4.2 Wheatstone Bridge.mp4",
+					"id": 902
+				}, {
+					"displayName": "P17.4.3 Meter Bridge.mp4",
+					"storedName": "P17.4.3 Meter Bridge.mp4",
+					"id": 903
+				}, {
+					"displayName": "P17.4.4 Potentiometer.mp4",
+					"storedName": "P17.4.4 Potentiometer.mp4",
+					"id": 904
+				}, {
+					"displayName": "P17.4.5 Internal Resistance of Cell.mp4",
+					"storedName": "P17.4.5 Internal Resistance of Cell.mp4",
+					"id": 905
+				}, {
+					"displayName": "P17.4.6 Galvanometer.mp4",
+					"storedName": "P17.4.6 Galvanometer.mp4",
+					"id": 906
+				}, {
+					"displayName": "P17.4.7 Galvanometer to Ammeter.mp4",
+					"storedName": "P17.4.7 Galvanometer to Ammeter.mp4",
+					"id": 907
+				}, {
+					"displayName": "P17.4.8 Galvanometer to Voltmeter.mp4",
+					"storedName": "P17.4.8 Galvanometer to Voltmeter.mp4",
+					"id": 908
+				}, {
+					"displayName": "P17.5.1 Introduction to RC Circuits.mp4",
+					"storedName": "P17.5.1 Introduction to RC Circuits.mp4",
+					"id": 909
+				}, {
+					"displayName": "P17.5.2 Charging.mp4",
+					"storedName": "P17.5.2 Charging.mp4",
+					"id": 910
+				}, {
+					"displayName": "P17.5.3 Current in charging of RC Circuit.mp4",
+					"storedName": "P17.5.3 Current in charging of RC Circuit.mp4",
+					"id": 911
+				}, {
+					"displayName": "P17.5.4 Discharging.mp4",
+					"storedName": "P17.5.4 Discharging.mp4",
+					"id": 912
+				}, {
+					"displayName": "P17.5.5 Energy & Power in RC Circuits.mp4",
+					"storedName": "P17.5.5 Energy & Power in RC Circuits.mp4",
+					"id": 913
+				}]
+			}, {
+				"path": "P18 - Magnetic Effects of Electric Current",
+				"name": "P18 - Magnetic Effects of Electric Current",
+				"lessons": [{
+					"displayName": "P18.1.1 Introduction to Magnetism.mp4",
+					"storedName": "P18.1.1 Introduction to Magnetism.mp4",
+					"id": 914
+				}, {
+					"displayName": "P18.1.2 Magnetic Field.mp4",
+					"storedName": "P18.1.2 Magnetic Field.mp4",
+					"id": 915
+				}, {
+					"displayName": "P18.1.3 Magnetic Force on a Moving Charge.mp4",
+					"storedName": "P18.1.3 Magnetic Force on a Moving Charge.mp4",
+					"id": 916
+				}, {
+					"displayName": "P18.1.4 Magnetic Force on a Current Carrying Conductor.mp4",
+					"storedName": "P18.1.4 Magnetic Force on a Current Carrying Conductor.mp4",
+					"id": 917
+				}, {
+					"displayName": "P18.1.5 Motion of a Charged Particle in a Magnetic Field.mp4",
+					"storedName": "P18.1.5 Motion of a Charged Particle in a Magnetic Field.mp4",
+					"id": 918
+				}, {
+					"displayName": "P18.1.6 Motion of a Charged Particle in an Electromagnetic Field.mp4",
+					"storedName": "P18.1.6 Motion of a Charged Particle in an Electromagnetic Field.mp4",
+					"id": 919
+				}, {
+					"displayName": "P18.1.7 Cyclotron.mp4",
+					"storedName": "P18.1.7 Cyclotron.mp4",
+					"id": 920
+				}, {
+					"displayName": "P18.2.1 Introduction to Biot Savart's Law & Ampere's Law.mp4",
+					"storedName": "P18.2.1 Introduction to Biot Savart's Law & Ampere's Law.mp4",
+					"id": 921
+				}, {
+					"displayName": "P18.2.2 Biot Savart's Law.mp4",
+					"storedName": "P18.2.2 Biot Savart's Law.mp4",
+					"id": 922
+				}, {
+					"displayName": "P18.2.3 Magnetic Field due to a Straight Current Carrying Wire.mp4",
+					"storedName": "P18.2.3 Magnetic Field due to a Straight Current Carrying Wire.mp4",
+					"id": 923
+				}, {
+					"displayName": "P18.2.4 Magnetic Field due to a Circular Current Carrying Loop.mp4",
+					"storedName": "P18.2.4 Magnetic Field due to a Circular Current Carrying Loop.mp4",
+					"id": 924
+				}, {
+					"displayName": "P18.2.5 Force between two parallel current carrying conductors.mp4",
+					"storedName": "P18.2.5 Force between two parallel current carrying conductors.mp4",
+					"id": 925
+				}, {
+					"displayName": "P18.2.6 Ampere's Law.mp4",
+					"storedName": "P18.2.6 Ampere's Law.mp4",
+					"id": 926
+				}, {
+					"displayName": "P18.2.7 Field due to a Solenoid & a Toroid using Ampere's Law.mp4",
+					"storedName": "P18.2.7 Field due to a Solenoid & a Toroid using Ampere's Law.mp4",
+					"id": 927
+				}, {
+					"displayName": "P18.3.1 Introduction - Current Carrying Loop in a Magnetic Field.mp4",
+					"storedName": "P18.3.1 Introduction - Current Carrying Loop in a Magnetic Field.mp4",
+					"id": 928
+				}, {
+					"displayName": "P18.3.2 Current Carrying Loop as a Magnetic Dipole.mp4",
+					"storedName": "P18.3.2 Current Carrying Loop as a Magnetic Dipole.mp4",
+					"id": 929
+				}, {
+					"displayName": "P18.3.3 Force, Torque & Energy of a Magnetic Dipole in a Magnetic Field.mp4",
+					"storedName": "P18.3.3 Force, Torque & Energy of a Magnetic Dipole in a Magnetic Field.mp4",
+					"id": 930
+				}, {
+					"displayName": "P18.3.4 Magnetism inside an Atom.mp4",
+					"storedName": "P18.3.4 Magnetism inside an Atom.mp4",
+					"id": 931
+				}, {
+					"displayName": "P18.3.5 Moving Coil Galvanometer.mp4",
+					"storedName": "P18.3.5 Moving Coil Galvanometer.mp4",
+					"id": 932
+				}]
+			}, {
+				"path": "P19 - Magnetism and Matter",
+				"name": "P19 - Magnetism and Matter",
+				"lessons": [{
+					"displayName": "01. Introduction to Magnetism and Matter.mp4",
+					"storedName": "01. Introduction to Magnetism and Matter.mp4",
+					"id": 933
+				}, {
+					"displayName": "02. Magnets as a Dipole.mp4",
+					"storedName": "02. Magnets as a Dipole.mp4",
+					"id": 934
+				}, {
+					"displayName": "03. Magnetic Poles of a Magnet.mp4",
+					"storedName": "03. Magnetic Poles of a Magnet.mp4",
+					"id": 935
+				}, {
+					"displayName": "04. Geometric Properties of a Bar Magnet.mp4",
+					"storedName": "04. Geometric Properties of a Bar Magnet.mp4",
+					"id": 936
+				}, {
+					"displayName": "05. Field due to a Bar Magnet.mp4",
+					"storedName": "05. Field due to a Bar Magnet.mp4",
+					"id": 937
+				}, {
+					"displayName": "06. Introduction to Earth's Magnetism - Copy.mp4",
+					"storedName": "06. Introduction to Earth's Magnetism - Copy.mp4",
+					"id": 938
+				}, {
+					"displayName": "07. Earth as a Magnet.mp4",
+					"storedName": "07. Earth as a Magnet.mp4",
+					"id": 939
+				}, {
+					"displayName": "08. Components of Earth's Magnetic Field.mp4",
+					"storedName": "08. Components of Earth's Magnetic Field.mp4",
+					"id": 940
+				}, {
+					"displayName": "09. Dip Circle.mp4",
+					"storedName": "09. Dip Circle.mp4",
+					"id": 941
+				}, {
+					"displayName": "10. Tangent Galvanometer.mp4",
+					"storedName": "10. Tangent Galvanometer.mp4",
+					"id": 942
+				}, {
+					"displayName": "11. Introduction to Magnetization of Materials.mp4",
+					"storedName": "11. Introduction to Magnetization of Materials.mp4",
+					"id": 943
+				}, {
+					"displayName": "12.Magnetization.mp4",
+					"storedName": "12.Magnetization.mp4",
+					"id": 944
+				}, {
+					"displayName": "13.Types of Magnetic Materials.mp4",
+					"storedName": "13.Types of Magnetic Materials.mp4",
+					"id": 945
+				}, {
+					"displayName": "14.Curie's Law.mp4",
+					"storedName": "14.Curie's Law.mp4",
+					"id": 946
+				}, {
+					"displayName": "15.Hysterisis Curve.mp4",
+					"storedName": "15.Hysterisis Curve.mp4",
+					"id": 947
+				}]
+			}, {
+				"path": "P20 - Electromagnetic Induction",
+				"name": "P20 - Electromagnetic Induction",
+				"lessons": [{
+					"displayName": "P20.1.1 Faradays law of EMI - Introduction.mp4",
+					"storedName": "P20.1.1 Faradays law of EMI - Introduction.mp4",
+					"id": 948
+				}, {
+					"displayName": "P20.1.2 Faradays law of EMI - Faraday's Experiments.mp4",
+					"storedName": "P20.1.2 Faradays law of EMI - Faraday's Experiments.mp4",
+					"id": 949
+				}, {
+					"displayName": "P20.1.3 Faradays law of EMI - Magnetic Flux.mp4",
+					"storedName": "P20.1.3 Faradays law of EMI - Magnetic Flux.mp4",
+					"id": 950
+				}, {
+					"displayName": "P20.1.4 Faradays law of EMI - Faraday's Law.mp4",
+					"storedName": "P20.1.4 Faradays law of EMI - Faraday's Law.mp4",
+					"id": 951
+				}, {
+					"displayName": "P20.1.5 Faradays law of EMI - Examples.mp4",
+					"storedName": "P20.1.5 Faradays law of EMI - Examples.mp4",
+					"id": 952
+				}, {
+					"displayName": "P20.1.6 Faradays law of EMI - Force & work done in EMI.mp4",
+					"storedName": "P20.1.6 Faradays law of EMI - Force & work done in EMI.mp4",
+					"id": 953
+				}, {
+					"displayName": "P20.2.1 Applications of EMI - Introduction.mp4",
+					"storedName": "P20.2.1 Applications of EMI - Introduction.mp4",
+					"id": 954
+				}, {
+					"displayName": "P20.2.2 Applications of EMI - Inductor.mp4",
+					"storedName": "P20.2.2 Applications of EMI - Inductor.mp4",
+					"id": 955
+				}, {
+					"displayName": "P20.2.3 Applications of EMI - Mutual Inductance.mp4",
+					"storedName": "P20.2.3 Applications of EMI - Mutual Inductance.mp4",
+					"id": 956
+				}, {
+					"displayName": "P20.2.4 Applications of EMI - AC Generator.mp4",
+					"storedName": "P20.2.4 Applications of EMI - AC Generator.mp4",
+					"id": 957
+				}, {
+					"displayName": "P20.2.5 Applications of EMI - Transformer.mp4",
+					"storedName": "P20.2.5 Applications of EMI - Transformer.mp4",
+					"id": 958
+				}, {
+					"displayName": "P20.2.6 Applications of EMI - Eddy Currents.mp4",
+					"storedName": "P20.2.6 Applications of EMI - Eddy Currents.mp4",
+					"id": 959
+				}, {
+					"displayName": "P20.3.1 LR Circuits - Introduction.mp4",
+					"storedName": "P20.3.1 LR Circuits - Introduction.mp4",
+					"id": 960
+				}, {
+					"displayName": "P20.3.2 LR Circuits - Inductor in a circuit.mp4",
+					"storedName": "P20.3.2 LR Circuits - Inductor in a circuit.mp4",
+					"id": 961
+				}, {
+					"displayName": "P20.3.3 LR Circuits - Series & parallel combination of inductors.mp4",
+					"storedName": "P20.3.3 LR Circuits - Series & parallel combination of inductors.mp4",
+					"id": 962
+				}, {
+					"displayName": "P20.3.4 LR Circuits - Energy stored in an inductor.mp4",
+					"storedName": "P20.3.4 LR Circuits - Energy stored in an inductor.mp4",
+					"id": 963
+				}, {
+					"displayName": "P20.3.5 LR Circuits - LC oscillations.mp4",
+					"storedName": "P20.3.5 LR Circuits - LC oscillations.mp4",
+					"id": 964
+				}]
+			}, {
+				"path": "P21 - AC Circuits",
+				"name": "P21 - AC Circuits",
+				"lessons": [{
+					"displayName": "P21.1.1 Alternating Current (English).mp4",
+					"storedName": "P21.1.1 Alternating Current (English).mp4",
+					"id": 965
+				}, {
+					"displayName": "P21.1.2 Phasors (English).mp4",
+					"storedName": "P21.1.2 Phasors (English).mp4",
+					"id": 966
+				}, {
+					"displayName": "P21.1.3 Power (English).mp4",
+					"storedName": "P21.1.3 Power (English).mp4",
+					"id": 967
+				}, {
+					"displayName": "P21.2.1 Impedance (English).mp4",
+					"storedName": "P21.2.1 Impedance (English).mp4",
+					"id": 968
+				}, {
+					"displayName": "P21.2.2 Current Calculation (English).mp4",
+					"storedName": "P21.2.2 Current Calculation (English).mp4",
+					"id": 969
+				}, {
+					"displayName": "P21.2.3 Power in series LCR circuits (English).mp4",
+					"storedName": "P21.2.3 Power in series LCR circuits (English).mp4",
+					"id": 970
+				}]
+			}, {
+				"path": "P22 - Ray Optics",
+				"name": "P22 - Ray Optics",
+				"lessons": [{
+					"displayName": "01. Chapter Outline.mp4",
+					"storedName": "01. Chapter Outline.mp4",
+					"id": 971
+				}, {
+					"displayName": "02. Reflection in Plane Mirrors.mp4",
+					"storedName": "02. Reflection in Plane Mirrors.mp4",
+					"id": 972
+				}, {
+					"displayName": "03. Reflection in Spherical Mirrors.mp4",
+					"storedName": "03. Reflection in Spherical Mirrors.mp4",
+					"id": 973
+				}, {
+					"displayName": "04. Mirror Formula & Magnification for Spherical Mirrors.mp4",
+					"storedName": "04. Mirror Formula & Magnification for Spherical Mirrors.mp4",
+					"id": 974
+				}, {
+					"displayName": "05. Refraction at Plane Surfaces.mp4",
+					"storedName": "05. Refraction at Plane Surfaces.mp4",
+					"id": 975
+				}, {
+					"displayName": "06. Refraction through a Glass Slab.mp4",
+					"storedName": "06. Refraction through a Glass Slab.mp4",
+					"id": 976
+				}, {
+					"displayName": "07. Total Internal Reflection.mp4",
+					"storedName": "07. Total Internal Reflection.mp4",
+					"id": 977
+				}, {
+					"displayName": "08. Prism.mp4",
+					"storedName": "08. Prism.mp4",
+					"id": 978
+				}, {
+					"displayName": "09. Refraction at Curved Surfaces.mp4",
+					"storedName": "09. Refraction at Curved Surfaces.mp4",
+					"id": 979
+				}, {
+					"displayName": "10. Refraction Due to a Lens.mp4",
+					"storedName": "10. Refraction Due to a Lens.mp4",
+					"id": 980
+				}, {
+					"displayName": "11. Magnification Due to a Lens.mp4",
+					"storedName": "11. Magnification Due to a Lens.mp4",
+					"id": 981
+				}, {
+					"displayName": "12. Power of a Lens.mp4",
+					"storedName": "12. Power of a Lens.mp4",
+					"id": 982
+				}, {
+					"displayName": "13. Combination of Lenses.mp4",
+					"storedName": "13. Combination of Lenses.mp4",
+					"id": 983
+				}, {
+					"displayName": "14. Human Eye.mp4",
+					"storedName": "14. Human Eye.mp4",
+					"id": 984
+				}, {
+					"displayName": "15. Simple Microscope.mp4",
+					"storedName": "15. Simple Microscope.mp4",
+					"id": 985
+				}, {
+					"displayName": "16. Compound Microscope.mp4",
+					"storedName": "16. Compound Microscope.mp4",
+					"id": 986
+				}, {
+					"displayName": "17. Telescope.mp4",
+					"storedName": "17. Telescope.mp4",
+					"id": 987
+				}]
+			}, {
+				"path": "P23 - Wave Optics",
+				"name": "P23 - Wave Optics",
+				"lessons": [{
+					"displayName": "P23.1.1 Chapter Introduction & Outline.mp4",
+					"storedName": "P23.1.1 Chapter Introduction & Outline.mp4",
+					"id": 988
+				}, {
+					"displayName": "P23.1.2 Wavefronts & Huygen's Principle.mp4",
+					"storedName": "P23.1.2 Wavefronts & Huygen's Principle.mp4",
+					"id": 989
+				}, {
+					"displayName": "P23.1.3 Superposition of light waves.mp4",
+					"storedName": "P23.1.3 Superposition of light waves.mp4",
+					"id": 990
+				}, {
+					"displayName": "P23.1.4 Young's Double Slit Interference.mp4",
+					"storedName": "P23.1.4 Young's Double Slit Interference.mp4",
+					"id": 991
+				}, {
+					"displayName": "P23.2.1 Diffraction.mp4",
+					"storedName": "P23.2.1 Diffraction.mp4",
+					"id": 992
+				}, {
+					"displayName": "P23.2.2 Resolving Power of Optical Intruments.mp4",
+					"storedName": "P23.2.2 Resolving Power of Optical Intruments.mp4",
+					"id": 993
+				}, {
+					"displayName": "P23.2.3 Polarization.mp4",
+					"storedName": "P23.2.3 Polarization.mp4",
+					"id": 994
+				}, {
+					"displayName": "P23.3.1 Optical Path.mp4",
+					"storedName": "P23.3.1 Optical Path.mp4",
+					"id": 995
+				}, {
+					"displayName": "P23.3.2 Thin Film Interference.mp4",
+					"storedName": "P23.3.2 Thin Film Interference.mp4",
+					"id": 996
+				}]
+			}, {
+				"path": "P26 - Semiconductor Electronics",
+				"name": "P26 - Semiconductor Electronics",
+				"lessons": [{
+					"displayName": "P26.1.1 - Types of Solids.mp4",
+					"storedName": "P26.1.1 - Types of Solids.mp4",
+					"id": 997
+				}, {
+					"displayName": "P26.1.2 - Conduction in Semiconductors.mp4",
+					"storedName": "P26.1.2 - Conduction in Semiconductors.mp4",
+					"id": 998
+				}, {
+					"displayName": "P26.1.3 - Doping in semiconductors.mp4",
+					"storedName": "P26.1.3 - Doping in semiconductors.mp4",
+					"id": 999
+				}, {
+					"displayName": "P26.1.4 - p-n Junction Diode.mp4",
+					"storedName": "P26.1.4 - p-n Junction Diode.mp4",
+					"id": 1000
+				}, {
+					"displayName": "P26.1.5 - Biasing a Diode.mp4",
+					"storedName": "P26.1.5 - Biasing a Diode.mp4",
+					"id": 1001
+				}, {
+					"displayName": "P26.1.6 - Applications of p-n Junction Diodes.mp4",
+					"storedName": "P26.1.6 - Applications of p-n Junction Diodes.mp4",
+					"id": 1002
+				}, {
+					"displayName": "P26.2.1 Structure and Principle of a Transistor.mp4",
+					"storedName": "P26.2.1 Structure and Principle of a Transistor.mp4",
+					"id": 1003
+				}, {
+					"displayName": "P26.2.2 Characteristics of a Transistor.mp4",
+					"storedName": "P26.2.2 Characteristics of a Transistor.mp4",
+					"id": 1004
+				}, {
+					"displayName": "P26.2.3 Applications of a Transistor.mp4",
+					"storedName": "P26.2.3 Applications of a Transistor.mp4",
+					"id": 1005
+				}, {
+					"displayName": "P26.2.4 Logic Gates & Digital Circuits.mp4",
+					"storedName": "P26.2.4 Logic Gates & Digital Circuits.mp4",
+					"id": 1006
+				}]
+			}]
+		},
+		"Class 11": {
+			"Maths": [{
+				"path": "M1 - Fundamentals of Mathematics",
+				"name": "M1 - Fundamentals of Mathematics",
+				"lessons": [{
+					"displayName": "M1.1.1 Revision of Indices (English).mp4",
+					"storedName": "M1.1.1 Revision of Indices (English).mp4",
+					"id": 1
+				}, {
+					"displayName": "M1.1.2 What are logarithms (English).mp4",
+					"storedName": "M1.1.2 What are logarithms (English).mp4",
+					"id": 2
+				}, {
+					"displayName": "M1.1.3 Properties of logarithms (English).mp4",
+					"storedName": "M1.1.3 Properties of logarithms (English).mp4",
+					"id": 3
+				}, {
+					"displayName": "M1.1.4 How were Logarithm tables created (English).mp4",
+					"storedName": "M1.1.4 How were Logarithm tables created (English).mp4",
+					"id": 4
+				}, {
+					"displayName": "M1.2.1 Rate of Change (English).mp4",
+					"storedName": "M1.2.1 Rate of Change (English).mp4",
+					"id": 5
+				}, {
+					"displayName": "M1.2.2 Differentiation (English).mp4",
+					"storedName": "M1.2.2 Differentiation (English).mp4",
+					"id": 6
+				}, {
+					"displayName": "M1.2.3 Rules of Differentiation (English).mp4",
+					"storedName": "M1.2.3 Rules of Differentiation (English).mp4",
+					"id": 7
+				}, {
+					"displayName": "M1.3.1 Chain Rule (English).mp4",
+					"storedName": "M1.3.1 Chain Rule (English).mp4",
+					"id": 8
+				}, {
+					"displayName": "M1.3.2 Application of Chain Rule (English).mp4",
+					"storedName": "M1.3.2 Application of Chain Rule (English).mp4",
+					"id": 9
+				}, {
+					"displayName": "M1.3.3 Maxima & Minima (English).mp4",
+					"storedName": "M1.3.3 Maxima & Minima (English).mp4",
+					"id": 10
+				}, {
+					"displayName": "M1.4.1 Need for AntiDerivatives (English).mp4",
+					"storedName": "M1.4.1 Need for AntiDerivatives (English).mp4",
+					"id": 11
+				}, {
+					"displayName": "M1.4.2 Anti-Derivatives of Standard Functions (English).mp4",
+					"storedName": "M1.4.2 Anti-Derivatives of Standard Functions (English).mp4",
+					"id": 12
+				}, {
+					"displayName": "M1.4.3 Rules of Integration (English).mp4",
+					"storedName": "M1.4.3 Rules of Integration (English).mp4",
+					"id": 13
+				}, {
+					"displayName": "M1.4.4 Area under curves (English).mp4",
+					"storedName": "M1.4.4 Area under curves (English).mp4",
+					"id": 14
+				}]
+			}, {
+				"path": "M10 - Sequences and Series",
+				"name": "M10 - Sequences and Series",
+				"lessons": [{
+					"displayName": "01. Sequences and Series.mp4",
+					"storedName": "01. Sequences and Series.mp4",
+					"id": 15
+				}, {
+					"displayName": "02. Sequences as a Function.mp4",
+					"storedName": "02. Sequences as a Function.mp4",
+					"id": 16
+				}, {
+					"displayName": "03. Arithmetic Progression.mp4",
+					"storedName": "03. Arithmetic Progression.mp4",
+					"id": 17
+				}, {
+					"displayName": "04. nth Term of an AP.mp4",
+					"storedName": "04. nth Term of an AP.mp4",
+					"id": 18
+				}, {
+					"displayName": "05. rth Term from the End.mp4",
+					"storedName": "05. rth Term from the End.mp4",
+					"id": 19
+				}, {
+					"displayName": "06. Sum to n Terms.mp4",
+					"storedName": "06. Sum to n Terms.mp4",
+					"id": 20
+				}, {
+					"displayName": "07. Properties of AP.mp4",
+					"storedName": "07. Properties of AP.mp4",
+					"id": 21
+				}, {
+					"displayName": "08. Problems on Arithmetic Progressions.mp4",
+					"storedName": "08. Problems on Arithmetic Progressions.mp4",
+					"id": 22
+				}, {
+					"displayName": "10. Geometric Progression.mp4",
+					"storedName": "10. Geometric Progression.mp4",
+					"id": 23
+				}, {
+					"displayName": "11. nth Term of a GP.mp4",
+					"storedName": "11. nth Term of a GP.mp4",
+					"id": 24
+				}, {
+					"displayName": "12. Sum to n Terms of a GP.mp4",
+					"storedName": "12. Sum to n Terms of a GP.mp4",
+					"id": 25
+				}, {
+					"displayName": "13. Properties of GP.mp4",
+					"storedName": "13. Properties of GP.mp4",
+					"id": 26
+				}, {
+					"displayName": "14. Harmonic Progression.mp4",
+					"storedName": "14. Harmonic Progression.mp4",
+					"id": 27
+				}, {
+					"displayName": "15. Relation Between AM, GM and HM.mp4",
+					"storedName": "15. Relation Between AM, GM and HM.mp4",
+					"id": 28
+				}, {
+					"displayName": "16. Summation of Series Involving Squares and Cubes of n Natural Numbers.mp4",
+					"storedName": "16. Summation of Series Involving Squares and Cubes of n Natural Numbers.mp4",
+					"id": 29
+				}, {
+					"displayName": "17. Summation of Series Through Telescoping and Partial Fractions.mp4",
+					"storedName": "17. Summation of Series Through Telescoping and Partial Fractions.mp4",
+					"id": 30
+				}, {
+					"displayName": "18. Arithmetic Geometric Progression - Define, Identify and Sum of AGP.mp4",
+					"storedName": "18. Arithmetic Geometric Progression - Define, Identify and Sum of AGP.mp4",
+					"id": 31
+				}, {
+					"displayName": "9. Arithmetic Mean - Definition, Multiple means between Numbers.mp4",
+					"storedName": "9. Arithmetic Mean - Definition, Multiple means between Numbers.mp4",
+					"id": 32
+				}]
+			}, {
+				"path": "M11 - Limits",
+				"name": "M11 - Limits",
+				"lessons": [{
+					"displayName": "M11.1.1 - What are limits.mp4",
+					"storedName": "M11.1.1 - What are limits.mp4",
+					"id": 33
+				}, {
+					"displayName": "M11.1.2 Determinate and Indeterminate Limits.mp4",
+					"storedName": "M11.1.2 Determinate and Indeterminate Limits.mp4",
+					"id": 34
+				}, {
+					"displayName": "M11.1.3 - Standard Limits.mp4",
+					"storedName": "M11.1.3 - Standard Limits.mp4",
+					"id": 35
+				}, {
+					"displayName": "M11.2.1 - Limits Involving Infinity.mp4",
+					"storedName": "M11.2.1 - Limits Involving Infinity.mp4",
+					"id": 36
+				}, {
+					"displayName": "M11.2.2 - Special Techniques to find limits.mp4",
+					"storedName": "M11.2.2 - Special Techniques to find limits.mp4",
+					"id": 37
+				}]
+			}, {
+				"path": "M12 -Straight Line",
+				"name": "M12 -Straight Line",
+				"lessons": [{
+					"displayName": "01. Recap of Coordinate Geometry.mp4",
+					"storedName": "01. Recap of Coordinate Geometry.mp4",
+					"id": 38
+				}, {
+					"displayName": "02. General equation and slope of line.mp4",
+					"storedName": "02. General equation and slope of line.mp4",
+					"id": 39
+				}, {
+					"displayName": "03. Various forms of equation of a line.mp4",
+					"storedName": "03. Various forms of equation of a line.mp4",
+					"id": 40
+				}, {
+					"displayName": "04. More Forms of Equation of a Line.mp4",
+					"storedName": "04. More Forms of Equation of a Line.mp4",
+					"id": 41
+				}, {
+					"displayName": "05. Intersection of two lines, parallel, perpendicular lines.mp4",
+					"storedName": "05. Intersection of two lines, parallel, perpendicular lines.mp4",
+					"id": 42
+				}, {
+					"displayName": "06. Distance from a Line,positions of points wrt line..mp4",
+					"storedName": "06. Distance from a Line,positions of points wrt line..mp4",
+					"id": 43
+				}, {
+					"displayName": "07. Concurrency and Family of Lines.mp4",
+					"storedName": "07. Concurrency and Family of Lines.mp4",
+					"id": 44
+				}, {
+					"displayName": "08. Angle Bisectors.mp4",
+					"storedName": "08. Angle Bisectors.mp4",
+					"id": 45
+				}, {
+					"displayName": "09. Image of a Point  wrt line.mp4",
+					"storedName": "09. Image of a Point  wrt line.mp4",
+					"id": 46
+				}, {
+					"displayName": "10. Transformation of axes, translation and rotation.mp4",
+					"storedName": "10. Transformation of axes, translation and rotation.mp4",
+					"id": 47
+				}, {
+					"displayName": "11. Equation of locus.mp4",
+					"storedName": "11. Equation of locus.mp4",
+					"id": 48
+				}]
+			}, {
+				"path": "M13 - Conic Sections 1",
+				"name": "M13 - Conic Sections 1",
+				"lessons": [{
+					"displayName": "M13.1.1 Introduction to Conic Sections (English).mp4",
+					"storedName": "M13.1.1 Introduction to Conic Sections (English).mp4",
+					"id": 49
+				}, {
+					"displayName": "M13.1.2 General Equation of a Circle (English).mp4",
+					"storedName": "M13.1.2 General Equation of a Circle (English).mp4",
+					"id": 50
+				}, {
+					"displayName": "M13.1.3 Diameter Form & Parameter Form (English).mp4",
+					"storedName": "M13.1.3 Diameter Form & Parameter Form (English).mp4",
+					"id": 51
+				}, {
+					"displayName": "M13.2.1 Condition for Tangency (English).mp4",
+					"storedName": "M13.2.1 Condition for Tangency (English).mp4",
+					"id": 52
+				}, {
+					"displayName": "M13.2.2 Equation of Tangent (English).mp4",
+					"storedName": "M13.2.2 Equation of Tangent (English).mp4",
+					"id": 53
+				}, {
+					"displayName": "M13.2.3 Equation of Chords (English).mp4",
+					"storedName": "M13.2.3 Equation of Chords (English).mp4",
+					"id": 54
+				}, {
+					"displayName": "M13.3.1 Pair of Straight Lines (English).mp4",
+					"storedName": "M13.3.1 Pair of Straight Lines (English).mp4",
+					"id": 55
+				}, {
+					"displayName": "M13.3.2 Pair of Tangents (English).mp4",
+					"storedName": "M13.3.2 Pair of Tangents (English).mp4",
+					"id": 56
+				}, {
+					"displayName": "M13.3.3 System of Two Circles (English).mp4",
+					"storedName": "M13.3.3 System of Two Circles (English).mp4",
+					"id": 57
+				}, {
+					"displayName": "M13.3.4 Family of Circles (English).mp4",
+					"storedName": "M13.3.4 Family of Circles (English).mp4",
+					"id": 58
+				}]
+			}, {
+				"path": "M14 - Conic Sections 2",
+				"name": "M14 - Conic Sections 2",
+				"lessons": [{
+					"displayName": "M14.1.1 Introduction to Parabolas.mp4",
+					"storedName": "M14.1.1 Introduction to Parabolas.mp4",
+					"id": 59
+				}, {
+					"displayName": "M14.1.2 Tangency & Normals.mp4",
+					"storedName": "M14.1.2 Tangency & Normals.mp4",
+					"id": 60
+				}, {
+					"displayName": "M14.1.3 Standard Results for Parabolas.mp4",
+					"storedName": "M14.1.3 Standard Results for Parabolas.mp4",
+					"id": 61
+				}, {
+					"displayName": "M14.2.1 Introduction to an Ellipse.mp4",
+					"storedName": "M14.2.1 Introduction to an Ellipse.mp4",
+					"id": 62
+				}, {
+					"displayName": "M14.2.2 Terms & Properties of an Ellipse.mp4",
+					"storedName": "M14.2.2 Terms & Properties of an Ellipse.mp4",
+					"id": 63
+				}, {
+					"displayName": "M14.2.3 Tangency & Normals.mp4",
+					"storedName": "M14.2.3 Tangency & Normals.mp4",
+					"id": 64
+				}, {
+					"displayName": "M14.3.1 Introduction to Hyperbola.mp4",
+					"storedName": "M14.3.1 Introduction to Hyperbola.mp4",
+					"id": 65
+				}, {
+					"displayName": "M14.3.2 Conjugate & Rectangular Hyperbola & Asymptotes.mp4",
+					"storedName": "M14.3.2 Conjugate & Rectangular Hyperbola & Asymptotes.mp4",
+					"id": 66
+				}, {
+					"displayName": "M14.3.3 Standard Results for Hyperbola.mp4",
+					"storedName": "M14.3.3 Standard Results for Hyperbola.mp4",
+					"id": 67
+				}]
+			}, {
+				"path": "M15 - Mathematical Reasoning",
+				"name": "M15 - Mathematical Reasoning",
+				"lessons": [{
+					"displayName": "M15.1.1 Mathematical statements & quantifiers (English).mp4",
+					"storedName": "M15.1.1 Mathematical statements & quantifiers (English).mp4",
+					"id": 68
+				}, {
+					"displayName": "M15.1.2 Connectives (English).mp4",
+					"storedName": "M15.1.2 Connectives (English).mp4",
+					"id": 69
+				}, {
+					"displayName": "M15.1.3 Implications (English).mp4",
+					"storedName": "M15.1.3 Implications (English).mp4",
+					"id": 70
+				}, {
+					"displayName": "M15.1.4 Validation of mathematical statements (English).mp4",
+					"storedName": "M15.1.4 Validation of mathematical statements (English).mp4",
+					"id": 71
+				}]
+			}, {
+				"path": "M2 - Sets, Relations and Functions",
+				"name": "M2 - Sets, Relations and Functions",
+				"lessons": [{
+					"displayName": "01. Sets and it's Representation.mp4",
+					"storedName": "01. Sets and it's Representation.mp4",
+					"id": 72
+				}, {
+					"displayName": "02. Types of Sets, Subset ,Superset and Universal Set.mp4",
+					"storedName": "02. Types of Sets, Subset ,Superset and Universal Set.mp4",
+					"id": 73
+				}, {
+					"displayName": "03. Power Set, Number of Subsets and Intervals.mp4",
+					"storedName": "03. Power Set, Number of Subsets and Intervals.mp4",
+					"id": 74
+				}, {
+					"displayName": "04. Venn Diagrams and Union of Sets.mp4",
+					"storedName": "04. Venn Diagrams and Union of Sets.mp4",
+					"id": 75
+				}, {
+					"displayName": "05. Intersection and Difference of Sets.mp4",
+					"storedName": "05. Intersection and Difference of Sets.mp4",
+					"id": 76
+				}, {
+					"displayName": "06. Complement of Sets and De Morgan's Laws.mp4",
+					"storedName": "06. Complement of Sets and De Morgan's Laws.mp4",
+					"id": 77
+				}, {
+					"displayName": "07. Ordered Pair and Cartesian Product.mp4",
+					"storedName": "07. Ordered Pair and Cartesian Product.mp4",
+					"id": 78
+				}, {
+					"displayName": "08. Introduction to Relations.mp4",
+					"storedName": "08. Introduction to Relations.mp4",
+					"id": 79
+				}, {
+					"displayName": "09. Introduction to Functions.mp4",
+					"storedName": "09. Introduction to Functions.mp4",
+					"id": 80
+				}, {
+					"displayName": "10. Some Special Functions.mp4",
+					"storedName": "10. Some Special Functions.mp4",
+					"id": 81
+				}, {
+					"displayName": "11. Graph of Exponential and Logarithmic Functions.mp4",
+					"storedName": "11. Graph of Exponential and Logarithmic Functions.mp4",
+					"id": 82
+				}, {
+					"displayName": "12. Finding Domain of Functions.mp4",
+					"storedName": "12. Finding Domain of Functions.mp4",
+					"id": 83
+				}, {
+					"displayName": "13. Finding Range of Functions.mp4",
+					"storedName": "13. Finding Range of Functions.mp4",
+					"id": 84
+				}, {
+					"displayName": "M2.1.1 Set & its Representation.mp4",
+					"storedName": "M2.1.1 Set & its Representation.mp4",
+					"id": 85
+				}, {
+					"displayName": "M2.1.2 Finite, Infinite Sets & Subset, Supersets.mp4",
+					"storedName": "M2.1.2 Finite, Infinite Sets & Subset, Supersets.mp4",
+					"id": 86
+				}, {
+					"displayName": "M2.1.3 Power Set & Intervals.mp4",
+					"storedName": "M2.1.3 Power Set & Intervals.mp4",
+					"id": 87
+				}, {
+					"displayName": "M2.2.1 Venn Diagrams & Union of Sets.mp4",
+					"storedName": "M2.2.1 Venn Diagrams & Union of Sets.mp4",
+					"id": 88
+				}, {
+					"displayName": "M2.2.2 Intersection & Difference of Sets.mp4",
+					"storedName": "M2.2.2 Intersection & Difference of Sets.mp4",
+					"id": 89
+				}, {
+					"displayName": "M2.2.3 Complement of Sets & D'Morgan's Laws.mp4",
+					"storedName": "M2.2.3 Complement of Sets & D'Morgan's Laws.mp4",
+					"id": 90
+				}, {
+					"displayName": "M2.3.1 Ordered Pair & Cartesian Product.mp4",
+					"storedName": "M2.3.1 Ordered Pair & Cartesian Product.mp4",
+					"id": 91
+				}, {
+					"displayName": "M2.3.2 Relations.mp4",
+					"storedName": "M2.3.2 Relations.mp4",
+					"id": 92
+				}, {
+					"displayName": "M2.3.3 Functions.mp4",
+					"storedName": "M2.3.3 Functions.mp4",
+					"id": 93
+				}, {
+					"displayName": "M2.4.1 Standard Functions.mp4",
+					"storedName": "M2.4.1 Standard Functions.mp4",
+					"id": 94
+				}, {
+					"displayName": "M2.4.2 Graph of Exponential & Logarithmic Function.mp4",
+					"storedName": "M2.4.2 Graph of Exponential & Logarithmic Function.mp4",
+					"id": 95
+				}, {
+					"displayName": "M2.4.3 Finding Domain of Functions.mp4",
+					"storedName": "M2.4.3 Finding Domain of Functions.mp4",
+					"id": 96
+				}, {
+					"displayName": "M2.4.4 Finding Range of Functions.mp4",
+					"storedName": "M2.4.4 Finding Range of Functions.mp4",
+					"id": 97
+				}]
+			}, {
+				"path": "M3 - Trigonometry",
+				"name": "M3 - Trigonometry",
+				"lessons": [{
+					"displayName": "01. Using Angles as a form of measurement.mp4",
+					"storedName": "01. Using Angles as a form of measurement.mp4",
+					"id": 98
+				}, {
+					"displayName": "02. Measuring Angles in Degrees and Radians.mp4",
+					"storedName": "02. Measuring Angles in Degrees and Radians.mp4",
+					"id": 99
+				}, {
+					"displayName": "03. Finding Trigonometric Ratios using a unit circle.mp4",
+					"storedName": "03. Finding Trigonometric Ratios using a unit circle.mp4",
+					"id": 100
+				}, {
+					"displayName": "04. Domain and Range of Sine & Cosine Functions.mp4",
+					"storedName": "04. Domain and Range of Sine & Cosine Functions.mp4",
+					"id": 101
+				}, {
+					"displayName": "05. Domain and Range of Tangent & Cosecant Functions.mp4",
+					"storedName": "05. Domain and Range of Tangent & Cosecant Functions.mp4",
+					"id": 102
+				}, {
+					"displayName": "06. Trigonometric Ratios for Compound Angles.mp4",
+					"storedName": "06. Trigonometric Ratios for Compound Angles.mp4",
+					"id": 103
+				}, {
+					"displayName": "07. Derivation of Compound Angles Formulae.mp4",
+					"storedName": "07. Derivation of Compound Angles Formulae.mp4",
+					"id": 104
+				}, {
+					"displayName": "08. Reducing Angles Using Compound Angles.mp4",
+					"storedName": "08. Reducing Angles Using Compound Angles.mp4",
+					"id": 105
+				}, {
+					"displayName": "09. Trigonometric Identities for Double and Half Angles.mp4",
+					"storedName": "09. Trigonometric Identities for Double and Half Angles.mp4",
+					"id": 106
+				}, {
+					"displayName": "10. Converting sum of Sines and Cosines in terms of products.mp4",
+					"storedName": "10. Converting sum of Sines and Cosines in terms of products.mp4",
+					"id": 107
+				}, {
+					"displayName": "11. Solving Trigonometric Equations.mp4",
+					"storedName": "11. Solving Trigonometric Equations.mp4",
+					"id": 108
+				}, {
+					"displayName": "12. Maxima and Minima of Trigonometric Functions.mp4",
+					"storedName": "12. Maxima and Minima of Trigonometric Functions.mp4",
+					"id": 109
+				}, {
+					"displayName": "M3.1.1 Angles as a form of Measurement.mp4",
+					"storedName": "M3.1.1 Angles as a form of Measurement.mp4",
+					"id": 110
+				}, {
+					"displayName": "M3.1.2 Measuring Angles - Degrees & Radians.mp4",
+					"storedName": "M3.1.2 Measuring Angles - Degrees & Radians.mp4",
+					"id": 111
+				}, {
+					"displayName": "M3.1.3 The Unit Circle.mp4",
+					"storedName": "M3.1.3 The Unit Circle.mp4",
+					"id": 112
+				}, {
+					"displayName": "M3.2.1 Domain & Range of Sin & Cos x.mp4",
+					"storedName": "M3.2.1 Domain & Range of Sin & Cos x.mp4",
+					"id": 113
+				}, {
+					"displayName": "M3.2.2 Domain & Range of Tan & Cosec x.mp4",
+					"storedName": "M3.2.2 Domain & Range of Tan & Cosec x.mp4",
+					"id": 114
+				}, {
+					"displayName": "M3.2.3 Compound Angle Formulae.mp4",
+					"storedName": "M3.2.3 Compound Angle Formulae.mp4",
+					"id": 115
+				}, {
+					"displayName": "M3.2.4 Derivation of Compound Angles Formulae.mp4",
+					"storedName": "M3.2.4 Derivation of Compound Angles Formulae.mp4",
+					"id": 116
+				}, {
+					"displayName": "M3.3.1 Reducing Large Angles.mp4",
+					"storedName": "M3.3.1 Reducing Large Angles.mp4",
+					"id": 117
+				}, {
+					"displayName": "M3.3.2 Double & Half Angles.mp4",
+					"storedName": "M3.3.2 Double & Half Angles.mp4",
+					"id": 118
+				}, {
+					"displayName": "M3.3.3 Sum to Product conversion.mp4",
+					"storedName": "M3.3.3 Sum to Product conversion.mp4",
+					"id": 119
+				}, {
+					"displayName": "M3.4.1 Trigonometric Equations.mp4",
+					"storedName": "M3.4.1 Trigonometric Equations.mp4",
+					"id": 120
+				}, {
+					"displayName": "M3.4.2 Maxima & Minima of Trigonometric Functions.mp4",
+					"storedName": "M3.4.2 Maxima & Minima of Trigonometric Functions.mp4",
+					"id": 121
+				}]
+			}, {
+				"path": "M4 - Principles of Mathematical Induction",
+				"name": "M4 - Principles of Mathematical Induction",
+				"lessons": [{
+					"displayName": "01. Introduction to Mathematical Induction.mp4",
+					"storedName": "01. Introduction to Mathematical Induction.mp4",
+					"id": 122
+				}, {
+					"displayName": "02. Problem Solving Using PMI.mp4",
+					"storedName": "02. Problem Solving Using PMI.mp4",
+					"id": 123
+				}]
+			}, {
+				"path": "M5 - Linear Inequalities",
+				"name": "M5 - Linear Inequalities",
+				"lessons": [{
+					"displayName": "01. Introduction to Inequalities- Real life examples and basics.mp4",
+					"storedName": "01. Introduction to Inequalities- Real life examples and basics.mp4",
+					"id": 124
+				}, {
+					"displayName": "02. Rules for Solving Inequalities and Difference Between Equation and Inequality.mp4",
+					"storedName": "02. Rules for Solving Inequalities and Difference Between Equation and Inequality.mp4",
+					"id": 125
+				}, {
+					"displayName": "03. Inequalities in Two Variables.mp4",
+					"storedName": "03. Inequalities in Two Variables.mp4",
+					"id": 126
+				}, {
+					"displayName": "04. Logarithmic Inequalities.mp4",
+					"storedName": "04. Logarithmic Inequalities.mp4",
+					"id": 127
+				}, {
+					"displayName": "05. Inequalities with Rational Expressions and Wavy curve method.mp4",
+					"storedName": "05. Inequalities with Rational Expressions and Wavy curve method.mp4",
+					"id": 128
+				}, {
+					"displayName": "06. Illustration of Wavy Curve Method.mp4",
+					"storedName": "06. Illustration of Wavy Curve Method.mp4",
+					"id": 129
+				}, {
+					"displayName": "07. Inequalities with Modulus.mp4",
+					"storedName": "07. Inequalities with Modulus.mp4",
+					"id": 130
+				}]
+			}, {
+				"path": "M6 - Quadratic Equations",
+				"name": "M6 - Quadratic Equations",
+				"lessons": [{
+					"displayName": "01. Revision of Polynomials.mp4",
+					"storedName": "01. Revision of Polynomials.mp4",
+					"id": 131
+				}, {
+					"displayName": "02. Remainder and factor theorem, Zeroes of a polynomial, Polynomial division method.mp4",
+					"storedName": "02. Remainder and factor theorem, Zeroes of a polynomial, Polynomial division method.mp4",
+					"id": 132
+				}, {
+					"displayName": "03. Standard Form and Roots of Quadratic Equations, Sum and Product of Roots, Factorization Method.mp4",
+					"storedName": "03. Standard Form and Roots of Quadratic Equations, Sum and Product of Roots, Factorization Method.mp4",
+					"id": 133
+				}, {
+					"displayName": "04. Direct Method for Finding Roots, Conditions for Discriminant of Quadratic Equation.mp4",
+					"storedName": "04. Direct Method for Finding Roots, Conditions for Discriminant of Quadratic Equation.mp4",
+					"id": 134
+				}, {
+					"displayName": "05. Transforming Quadratic Equations.mp4",
+					"storedName": "05. Transforming Quadratic Equations.mp4",
+					"id": 135
+				}, {
+					"displayName": "06. Nature of Graphs (Based on Value of a and Discriminant) of Quadratic Expression.mp4",
+					"storedName": "06. Nature of Graphs (Based on Value of a and Discriminant) of Quadratic Expression.mp4",
+					"id": 136
+				}, {
+					"displayName": "07. Conditions for 2 Quadratic Equations Having Common Roots.mp4",
+					"storedName": "07. Conditions for 2 Quadratic Equations Having Common Roots.mp4",
+					"id": 137
+				}, {
+					"displayName": "08. Position of a number with respect to roots.mp4",
+					"storedName": "08. Position of a number with respect to roots.mp4",
+					"id": 138
+				}, {
+					"displayName": "09. Finding number of real roots.mp4",
+					"storedName": "09. Finding number of real roots.mp4",
+					"id": 139
+				}, {
+					"displayName": "10. Sum of roots taken k at a time.mp4",
+					"storedName": "10. Sum of roots taken k at a time.mp4",
+					"id": 140
+				}]
+			}, {
+				"path": "M7 - Complex Numbers",
+				"name": "M7 - Complex Numbers",
+				"lessons": [{
+					"displayName": "M7.1.1 What are Complex Numbers- (English).mp4",
+					"storedName": "M7.1.1 What are Complex Numbers- (English).mp4",
+					"id": 141
+				}, {
+					"displayName": "M7.1.2 Operations on Complex Numbers  (Hindi).mp4",
+					"storedName": "M7.1.2 Operations on Complex Numbers  (Hindi).mp4",
+					"id": 142
+				}, {
+					"displayName": "M7.1.3 Properties  and finding square root (English).mp4",
+					"storedName": "M7.1.3 Properties  and finding square root (English).mp4",
+					"id": 143
+				}, {
+					"displayName": "M7.2.1 Modulus of a complex number (English).mp4",
+					"storedName": "M7.2.1 Modulus of a complex number (English).mp4",
+					"id": 144
+				}, {
+					"displayName": "M7.2.2 Conjugate of a complex number (English).mp4",
+					"storedName": "M7.2.2 Conjugate of a complex number (English).mp4",
+					"id": 145
+				}, {
+					"displayName": "M7.2.3 Special Identity for Modulus and Conjugate (English).mp4",
+					"storedName": "M7.2.3 Special Identity for Modulus and Conjugate (English).mp4",
+					"id": 146
+				}, {
+					"displayName": "M7.3.1 Complex Numbers on Argand Plane (English).mp4",
+					"storedName": "M7.3.1 Complex Numbers on Argand Plane (English).mp4",
+					"id": 147
+				}, {
+					"displayName": "M7.3.2 Polar Form of Complex Numbers (English).mp4",
+					"storedName": "M7.3.2 Polar Form of Complex Numbers (English).mp4",
+					"id": 148
+				}, {
+					"displayName": "M7.3.3 Euler's Formula and De Moivre's Theorem (English).mp4",
+					"storedName": "M7.3.3 Euler's Formula and De Moivre's Theorem (English).mp4",
+					"id": 149
+				}, {
+					"displayName": "M7.4.1 Complex Roots of Unity (English).mp4",
+					"storedName": "M7.4.1 Complex Roots of Unity (English).mp4",
+					"id": 150
+				}, {
+					"displayName": "M7.4.2 Cube Roots of Unity (English).mp4",
+					"storedName": "M7.4.2 Cube Roots of Unity (English).mp4",
+					"id": 151
+				}, {
+					"displayName": "M7.5.1 Circles on the Argand Plane (English).mp4",
+					"storedName": "M7.5.1 Circles on the Argand Plane (English).mp4",
+					"id": 152
+				}, {
+					"displayName": "M7.5.2 Rotation of Complex Numbers and Triangle Inequality (English).mp4",
+					"storedName": "M7.5.2 Rotation of Complex Numbers and Triangle Inequality (English).mp4",
+					"id": 153
+				}]
+			}, {
+				"path": "M8 - Permutations and Combinations",
+				"name": "M8 - Permutations and Combinations",
+				"lessons": [{
+					"displayName": "M8.1.1 Introduction to Permutations & Combinations.mp4",
+					"storedName": "M8.1.1 Introduction to Permutations & Combinations.mp4",
+					"id": 154
+				}, {
+					"displayName": "M8.1.2 Fundamental principles of counting.mp4",
+					"storedName": "M8.1.2 Fundamental principles of counting.mp4",
+					"id": 155
+				}, {
+					"displayName": "M8.1.3 Understanding Permutations and factorial.mp4",
+					"storedName": "M8.1.3 Understanding Permutations and factorial.mp4",
+					"id": 156
+				}, {
+					"displayName": "M8.1.4 Different cases of permutation.mp4",
+					"storedName": "M8.1.4 Different cases of permutation.mp4",
+					"id": 157
+				}, {
+					"displayName": "M8.2.1 What are Combinations (English).mp4",
+					"storedName": "M8.2.1 What are Combinations (English).mp4",
+					"id": 158
+				}, {
+					"displayName": "M8.2.2 Properties of Combinations (English).mp4",
+					"storedName": "M8.2.2 Properties of Combinations (English).mp4",
+					"id": 159
+				}, {
+					"displayName": "M8.3.1 Circular Permutations (English).mp4",
+					"storedName": "M8.3.1 Circular Permutations (English).mp4",
+					"id": 160
+				}, {
+					"displayName": "M8.3.2 Special Cases of Circular Permutations (English).mp4",
+					"storedName": "M8.3.2 Special Cases of Circular Permutations (English).mp4",
+					"id": 161
+				}, {
+					"displayName": "M8.4.1 Division and distribution of Distinct objects into Unequal groups (English).mp4",
+					"storedName": "M8.4.1 Division and distribution of Distinct objects into Unequal groups (English).mp4",
+					"id": 162
+				}, {
+					"displayName": "M8.4.2 Division and distribution of Distinct objects into Equal groups (English).mp4",
+					"storedName": "M8.4.2 Division and distribution of Distinct objects into Equal groups (English).mp4",
+					"id": 163
+				}, {
+					"displayName": "M8.4.3 Creating groups from Identical Objects (English).mp4",
+					"storedName": "M8.4.3 Creating groups from Identical Objects (English).mp4",
+					"id": 164
+				}]
+			}, {
+				"path": "M9 - Binomial Theorem",
+				"name": "M9 - Binomial Theorem",
+				"lessons": [{
+					"displayName": "M9.1.1 Binomial Theorem and Pascal Triangle (English).mp4",
+					"storedName": "M9.1.1 Binomial Theorem and Pascal Triangle (English).mp4",
+					"id": 165
+				}, {
+					"displayName": "M9.1.2 Binomial Theorem for Positive Integral Indices (English).mp4",
+					"storedName": "M9.1.2 Binomial Theorem for Positive Integral Indices (English).mp4",
+					"id": 166
+				}, {
+					"displayName": "M9.1.3 General and Middle Term in a Binomial Expansion (English).mp4",
+					"storedName": "M9.1.3 General and Middle Term in a Binomial Expansion (English).mp4",
+					"id": 167
+				}, {
+					"displayName": "M9.2.1 Co-efficient of any power of x in a Binomial Expansion (English).mp4",
+					"storedName": "M9.2.1 Co-efficient of any power of x in a Binomial Expansion (English).mp4",
+					"id": 168
+				}, {
+					"displayName": "M9.2.2 Applications of Binomial Theorem -I - English.mp4",
+					"storedName": "M9.2.2 Applications of Binomial Theorem -I - English.mp4",
+					"id": 169
+				}, {
+					"displayName": "M9.2.3 Applications of Binomial Theorem - II (English).mp4",
+					"storedName": "M9.2.3 Applications of Binomial Theorem - II (English).mp4",
+					"id": 170
+				}, {
+					"displayName": "M9.3.1 Binomial Theorem for any Real Index n - (English).mp4",
+					"storedName": "M9.3.1 Binomial Theorem for any Real Index n - (English).mp4",
+					"id": 171
+				}, {
+					"displayName": "M9.3.2 Binomial Coefficients - (English).mp4",
+					"storedName": "M9.3.2 Binomial Coefficients - (English).mp4",
+					"id": 172
+				}, {
+					"displayName": "M9.4.1 Application of Calculus in Binomial Coefficients (English).mp4",
+					"storedName": "M9.4.1 Application of Calculus in Binomial Coefficients (English).mp4",
+					"id": 173
+				}, {
+					"displayName": "M9.5.1 Multinomial Theorem (English).mp4",
+					"storedName": "M9.5.1 Multinomial Theorem (English).mp4",
+					"id": 174
+				}]
+			}],
+			"Chemistry": [{
+				"path": "C1 - Basic Concepts of Chemistry",
+				"name": "C1 - Basic Concepts of Chemistry",
+				"lessons": [{
+					"displayName": "C1.1.1 Introduction - Mass & counting atoms (Hindi).mp4",
+					"storedName": "C1.1.1 Introduction - Mass & counting atoms (Hindi).mp4",
+					"id": 175
+				}, {
+					"displayName": "C1.1.2 Atomic & Molecular Mass (English).mp4",
+					"storedName": "C1.1.2 Atomic & Molecular Mass (English).mp4",
+					"id": 176
+				}, {
+					"displayName": "C1.1.3 Mole & its application (English).mp4",
+					"storedName": "C1.1.3 Mole & its application (English).mp4",
+					"id": 177
+				}, {
+					"displayName": "C1.2.1 Molar Mass (English).mp4",
+					"storedName": "C1.2.1 Molar Mass (English).mp4",
+					"id": 178
+				}, {
+					"displayName": "C1.2.2 Mass Percentage & Empirical Formula (English).mp4",
+					"storedName": "C1.2.2 Mass Percentage & Empirical Formula (English).mp4",
+					"id": 179
+				}, {
+					"displayName": "C1.3.1 Balancing Chemical Reactions (English).mp4",
+					"storedName": "C1.3.1 Balancing Chemical Reactions (English).mp4",
+					"id": 180
+				}, {
+					"displayName": "C1.3.2 Reaction Stoichiometry (English).mp4",
+					"storedName": "C1.3.2 Reaction Stoichiometry (English).mp4",
+					"id": 181
+				}, {
+					"displayName": "C1.4.1 Leftover reactants (Hindi).mp4",
+					"storedName": "C1.4.1 Leftover reactants (Hindi).mp4",
+					"id": 182
+				}, {
+					"displayName": "C1.4.2 Limiting & Excess Reagents (English).mp4",
+					"storedName": "C1.4.2 Limiting & Excess Reagents (English).mp4",
+					"id": 183
+				}, {
+					"displayName": "C1.5.1 Introduction to Concentration (English).mp4",
+					"storedName": "C1.5.1 Introduction to Concentration (English).mp4",
+					"id": 184
+				}, {
+					"displayName": "C1.5.2 Molarity (English).mp4",
+					"storedName": "C1.5.2 Molarity (English).mp4",
+					"id": 185
+				}, {
+					"displayName": "C1.5.3 Molality, Mole Fraction & Other Concentration Terms (English).mp4",
+					"storedName": "C1.5.3 Molality, Mole Fraction & Other Concentration Terms (English).mp4",
+					"id": 186
+				}, {
+					"displayName": "Introduction to Chemistry (English).mp4",
+					"storedName": "Introduction to Chemistry (English).mp4",
+					"id": 187
+				}, {
+					"displayName": "txt",
+					"storedName": "txt",
+					"id": 188
+				}]
+			}, {
+				"path": "C10 - Hydrogen",
+				"name": "C10 - Hydrogen",
+				"lessons": [{
+					"displayName": "01. Outline of Hydrogen.mp4",
+					"storedName": "01. Outline of Hydrogen.mp4",
+					"id": 189
+				}, {
+					"displayName": "02. Position of Hydrogen in Periodic Table.mp4",
+					"storedName": "02. Position of Hydrogen in Periodic Table.mp4",
+					"id": 190
+				}, {
+					"displayName": "03. Preparation of Hydrogen.mp4",
+					"storedName": "03. Preparation of Hydrogen.mp4",
+					"id": 191
+				}, {
+					"displayName": "04. Chemical Properties of Dihydrogen.mp4",
+					"storedName": "04. Chemical Properties of Dihydrogen.mp4",
+					"id": 192
+				}, {
+					"displayName": "05. Types of Hydrides.mp4",
+					"storedName": "05. Types of Hydrides.mp4",
+					"id": 193
+				}, {
+					"displayName": "06. Outline of Hydrogen Compounds.mp4",
+					"storedName": "06. Outline of Hydrogen Compounds.mp4",
+					"id": 194
+				}, {
+					"displayName": "07. Water and Ice.mp4",
+					"storedName": "07. Water and Ice.mp4",
+					"id": 195
+				}, {
+					"displayName": "08. Chemical Properties of Water.mp4",
+					"storedName": "08. Chemical Properties of Water.mp4",
+					"id": 196
+				}, {
+					"displayName": "09. Hard and Soft Water.mp4",
+					"storedName": "09. Hard and Soft Water.mp4",
+					"id": 197
+				}, {
+					"displayName": "10. Hydrogen Peroxide.mp4",
+					"storedName": "10. Hydrogen Peroxide.mp4",
+					"id": 198
+				}]
+			}, {
+				"path": "C11 - The s block elements",
+				"name": "C11 - The s block elements",
+				"lessons": [{
+					"displayName": "C11.1.1 Outline of Group I elements - Alkali Metals.mp4",
+					"storedName": "C11.1.1 Outline of Group I elements - Alkali Metals.mp4",
+					"id": 199
+				}, {
+					"displayName": "C11.1.2 Physical Properties of Group I elements - Alkali Metals.mp4",
+					"storedName": "C11.1.2 Physical Properties of Group I elements - Alkali Metals.mp4",
+					"id": 200
+				}, {
+					"displayName": "C11.1.3  Common Reactions of Group I elements - Alkali Metals.mp4",
+					"storedName": "C11.1.3  Common Reactions of Group I elements - Alkali Metals.mp4",
+					"id": 201
+				}, {
+					"displayName": "C11.1.4 Trends in Properties of compounds of Group I elements - Alkali Metals.mp4",
+					"storedName": "C11.1.4 Trends in Properties of compounds of Group I elements - Alkali Metals.mp4",
+					"id": 202
+				}, {
+					"displayName": "C11.1.5 Anomalous Properties of Lithium.mp4",
+					"storedName": "C11.1.5 Anomalous Properties of Lithium.mp4",
+					"id": 203
+				}, {
+					"displayName": "C11.1.6 Some Important Compounds of Sodium.mp4",
+					"storedName": "C11.1.6 Some Important Compounds of Sodium.mp4",
+					"id": 204
+				}, {
+					"displayName": "C11.2.1 Outline of Group II elements - Alkaline Earth Metals.mp4",
+					"storedName": "C11.2.1 Outline of Group II elements - Alkaline Earth Metals.mp4",
+					"id": 205
+				}, {
+					"displayName": "C11.2.2 Physical Properties of Group II elements - Alkaline Earth Metals.mp4",
+					"storedName": "C11.2.2 Physical Properties of Group II elements - Alkaline Earth Metals.mp4",
+					"id": 206
+				}, {
+					"displayName": "C11.2.3 Common Reactions of Group II elements - Alkaline Earth Metals.mp4",
+					"storedName": "C11.2.3 Common Reactions of Group II elements - Alkaline Earth Metals.mp4",
+					"id": 207
+				}, {
+					"displayName": "C11.2.4  Trends in Properties of compounds of Group II elements - Alkaline Earth Metals.mp4",
+					"storedName": "C11.2.4  Trends in Properties of compounds of Group II elements - Alkaline Earth Metals.mp4",
+					"id": 208
+				}, {
+					"displayName": "C11.2.5 Anomalous Properties of Beryllium.mp4",
+					"storedName": "C11.2.5 Anomalous Properties of Beryllium.mp4",
+					"id": 209
+				}, {
+					"displayName": "C11.2.6 Some Important Compounds of Calcium.mp4",
+					"storedName": "C11.2.6 Some Important Compounds of Calcium.mp4",
+					"id": 210
+				}]
+			}, {
+				"path": "C12 - p block elements - I",
+				"name": "C12 - p block elements - I",
+				"lessons": [{
+					"displayName": "C12.1.1 - Outline of Group 13 elements.mp4",
+					"storedName": "C12.1.1 - Outline of Group 13 elements.mp4",
+					"id": 211
+				}, {
+					"displayName": "C12.1.2 - Physical Properties of Group 13 elements.mp4",
+					"storedName": "C12.1.2 - Physical Properties of Group 13 elements.mp4",
+					"id": 212
+				}, {
+					"displayName": "C12.1.3 - Inert Pair Effect in Group 13 elements.mp4",
+					"storedName": "C12.1.3 - Inert Pair Effect in Group 13 elements.mp4",
+					"id": 213
+				}, {
+					"displayName": "C12.1.4 - Chemical Properties of Group 13 elements.mp4",
+					"storedName": "C12.1.4 - Chemical Properties of Group 13 elements.mp4",
+					"id": 214
+				}, {
+					"displayName": "C12.1.5 - Anomalous Properties of Boron.mp4",
+					"storedName": "C12.1.5 - Anomalous Properties of Boron.mp4",
+					"id": 215
+				}, {
+					"displayName": "C12.2.1 - Outline of Group 14 elements.mp4",
+					"storedName": "C12.2.1 - Outline of Group 14 elements.mp4",
+					"id": 216
+				}, {
+					"displayName": "C12.2.2 - Physical Properties of Group 14 elements.mp4",
+					"storedName": "C12.2.2 - Physical Properties of Group 14 elements.mp4",
+					"id": 217
+				}, {
+					"displayName": "C12.2.3 Chemical Properties of Group 14 elements.mp4",
+					"storedName": "C12.2.3 Chemical Properties of Group 14 elements.mp4",
+					"id": 218
+				}, {
+					"displayName": "C12.2.4 Allotropes of Carbon.mp4",
+					"storedName": "C12.2.4 Allotropes of Carbon.mp4",
+					"id": 219
+				}, {
+					"displayName": "C12.2.5 - Some Important Compounds of Carbon and Silicon.mp4",
+					"storedName": "C12.2.5 - Some Important Compounds of Carbon and Silicon.mp4",
+					"id": 220
+				}]
+			}, {
+				"path": "C13 - Organic Chemistry - Some Basic Principles and Concepts",
+				"name": "C13 - Organic Chemistry - Some Basic Principles and Concepts",
+				"lessons": [{
+					"displayName": "C13.1.1 Structural Representation of Organic Compounds.mp4",
+					"storedName": "C13.1.1 Structural Representation of Organic Compounds.mp4",
+					"id": 221
+				}, {
+					"displayName": "C13.1.2 Nomenclature of Alkanes.mp4",
+					"storedName": "C13.1.2 Nomenclature of Alkanes.mp4",
+					"id": 222
+				}, {
+					"displayName": "C13.1.3 Nomenclature of other Organic Compounds.mp4",
+					"storedName": "C13.1.3 Nomenclature of other Organic Compounds.mp4",
+					"id": 223
+				}, {
+					"displayName": "C13.2.1 Structural Isomerism.mp4",
+					"storedName": "C13.2.1 Structural Isomerism.mp4",
+					"id": 224
+				}, {
+					"displayName": "C13.2.2 Geometrical Isomerism & Chirality.mp4",
+					"storedName": "C13.2.2 Geometrical Isomerism & Chirality.mp4",
+					"id": 225
+				}, {
+					"displayName": "C13.2.3 Optical Isomerism.mp4",
+					"storedName": "C13.2.3 Optical Isomerism.mp4",
+					"id": 226
+				}, {
+					"displayName": "C13.3.1 Resonance.mp4",
+					"storedName": "C13.3.1 Resonance.mp4",
+					"id": 227
+				}, {
+					"displayName": "C13.3.2 Hyperconjugation & Inductive Effect.mp4",
+					"storedName": "C13.3.2 Hyperconjugation & Inductive Effect.mp4",
+					"id": 228
+				}, {
+					"displayName": "C13.3.3 Physical Properties of Organic Compounds.mp4",
+					"storedName": "C13.3.3 Physical Properties of Organic Compounds.mp4",
+					"id": 229
+				}, {
+					"displayName": "C13.4.1 Organic Intermediates & Aromaticity.mp4",
+					"storedName": "C13.4.1 Organic Intermediates & Aromaticity.mp4",
+					"id": 230
+				}, {
+					"displayName": "C13.4.2 Stability of Intermediates.mp4",
+					"storedName": "C13.4.2 Stability of Intermediates.mp4",
+					"id": 231
+				}, {
+					"displayName": "C13.4.3 Acidity & Basicity in Organic Chemistry.mp4",
+					"storedName": "C13.4.3 Acidity & Basicity in Organic Chemistry.mp4",
+					"id": 232
+				}, {
+					"displayName": "C13.5.1 Fission of as bond.mp4",
+					"storedName": "C13.5.1 Fission of as bond.mp4",
+					"id": 233
+				}, {
+					"displayName": "C13.5.2 Types of Reagents.mp4",
+					"storedName": "C13.5.2 Types of Reagents.mp4",
+					"id": 234
+				}, {
+					"displayName": "C13.6.1 Addition & Elimination Reactions.mp4",
+					"storedName": "C13.6.1 Addition & Elimination Reactions.mp4",
+					"id": 235
+				}, {
+					"displayName": "C13.6.2 Substitution, Oxidation & Reduction Reactions.mp4",
+					"storedName": "C13.6.2 Substitution, Oxidation & Reduction Reactions.mp4",
+					"id": 236
+				}, {
+					"displayName": "C13.6.3 Rearrangement Reactions.mp4",
+					"storedName": "C13.6.3 Rearrangement Reactions.mp4",
+					"id": 237
+				}]
+			}, {
+				"path": "C14 - Hydrocarbons",
+				"name": "C14 - Hydrocarbons",
+				"lessons": [{
+					"displayName": "C14.1.1 Introduction to Hydrocarbons and Nomenclature of Alkanes.mp4",
+					"storedName": "C14.1.1 Introduction to Hydrocarbons and Nomenclature of Alkanes.mp4",
+					"id": 238
+				}, {
+					"displayName": "C14.1.2 Conformers of Alkanes.mp4",
+					"storedName": "C14.1.2 Conformers of Alkanes.mp4",
+					"id": 239
+				}, {
+					"displayName": "C14.1.3 - Preparations and Reations of Alkanes.mp4",
+					"storedName": "C14.1.3 - Preparations and Reations of Alkanes.mp4",
+					"id": 240
+				}, {
+					"displayName": "C14.2.1 Properties of Alkenes.mp4",
+					"storedName": "C14.2.1 Properties of Alkenes.mp4",
+					"id": 241
+				}, {
+					"displayName": "C14.2.2 Preparation of Alkenes.mp4",
+					"storedName": "C14.2.2 Preparation of Alkenes.mp4",
+					"id": 242
+				}, {
+					"displayName": "C14.2.3 - E2 Mechanism and Comparison between E1 and E2.mp4",
+					"storedName": "C14.2.3 - E2 Mechanism and Comparison between E1 and E2.mp4",
+					"id": 243
+				}, {
+					"displayName": "C14.3.1 Addition Reactions of Alkenes - I.mp4",
+					"storedName": "C14.3.1 Addition Reactions of Alkenes - I.mp4",
+					"id": 244
+				}, {
+					"displayName": "C14.3.2 Addition Reactions of Alkenes - II.mp4",
+					"storedName": "C14.3.2 Addition Reactions of Alkenes - II.mp4",
+					"id": 245
+				}, {
+					"displayName": "C14.3.3 Oxidation and Polymerisation Reactions of Alkenes.mp4",
+					"storedName": "C14.3.3 Oxidation and Polymerisation Reactions of Alkenes.mp4",
+					"id": 246
+				}, {
+					"displayName": "C14.4.1 Introduction to Alkynes.mp4",
+					"storedName": "C14.4.1 Introduction to Alkynes.mp4",
+					"id": 247
+				}, {
+					"displayName": "C14.4.2 Preparation of Alkynes.mp4",
+					"storedName": "C14.4.2 Preparation of Alkynes.mp4",
+					"id": 248
+				}, {
+					"displayName": "C14.4.3 Reactions of Alkynes.mp4",
+					"storedName": "C14.4.3 Reactions of Alkynes.mp4",
+					"id": 249
+				}, {
+					"displayName": "C14.5.1 IUPAC Nomenclature of Benzene Derivatives.mp4",
+					"storedName": "C14.5.1 IUPAC Nomenclature of Benzene Derivatives.mp4",
+					"id": 250
+				}, {
+					"displayName": "C14.5.2 Structure & Preparation of Benzene.mp4",
+					"storedName": "C14.5.2 Structure & Preparation of Benzene.mp4",
+					"id": 251
+				}, {
+					"displayName": "C14.5.3 Reactions of Benzene.mp4",
+					"storedName": "C14.5.3 Reactions of Benzene.mp4",
+					"id": 252
+				}, {
+					"displayName": "C14.6.1 - Electrophilic Substitution in Mono Substituted Benzene Derivativess.mp4",
+					"storedName": "C14.6.1 - Electrophilic Substitution in Mono Substituted Benzene Derivativess.mp4",
+					"id": 253
+				}, {
+					"displayName": "C14.6.2 - Electrophilic Substitution in Multi Substituted Benzene Derivatives.mp4",
+					"storedName": "C14.6.2 - Electrophilic Substitution in Multi Substituted Benzene Derivatives.mp4",
+					"id": 254
+				}]
+			}, {
+				"path": "C2 - Structure of Atom",
+				"name": "C2 - Structure of Atom",
+				"lessons": [{
+					"displayName": "C2.1.1 Cathode Ray Discharge Tube I (Hindi).mp4",
+					"storedName": "C2.1.1 Cathode Ray Discharge Tube I (Hindi).mp4",
+					"id": 255
+				}, {
+					"displayName": "C2.1.2 Cathode Ray Discharge Tube II (Hindi).mp4",
+					"storedName": "C2.1.2 Cathode Ray Discharge Tube II (Hindi).mp4",
+					"id": 256
+				}, {
+					"displayName": "C2.1.3 Atomic Models (Hindi).mp4",
+					"storedName": "C2.1.3 Atomic Models (Hindi).mp4",
+					"id": 257
+				}, {
+					"displayName": "C2.1.4 Atomic Number & Mass Number (Hindi).mp4",
+					"storedName": "C2.1.4 Atomic Number & Mass Number (Hindi).mp4",
+					"id": 258
+				}, {
+					"displayName": "C2.2.1 Properties of Electromagnetic Radiation (Hindi).mp4",
+					"storedName": "C2.2.1 Properties of Electromagnetic Radiation (Hindi).mp4",
+					"id": 259
+				}, {
+					"displayName": "C2.2.2 Blackbody Radiation (Hindi).mp4",
+					"storedName": "C2.2.2 Blackbody Radiation (Hindi).mp4",
+					"id": 260
+				}, {
+					"displayName": "C2.2.3 Photoelectric Effect (Hindi).mp4",
+					"storedName": "C2.2.3 Photoelectric Effect (Hindi).mp4",
+					"id": 261
+				}, {
+					"displayName": "C2.3.1 Atomic Spectra (Hindi).mp4",
+					"storedName": "C2.3.1 Atomic Spectra (Hindi).mp4",
+					"id": 262
+				}, {
+					"displayName": "C2.3.2 Bohr's Atomic Model (Hindi).mp4",
+					"storedName": "C2.3.2 Bohr's Atomic Model (Hindi).mp4",
+					"id": 263
+				}, {
+					"displayName": "C2.3.3 Computing Radius, Velocity & Energy of electron in nth orbit (Hindi).mp4",
+					"storedName": "C2.3.3 Computing Radius, Velocity & Energy of electron in nth orbit (Hindi).mp4",
+					"id": 264
+				}, {
+					"displayName": "C2.4.1 De Broglie Wavelength & Heisenberg's Principle (Hindi).mp4",
+					"storedName": "C2.4.1 De Broglie Wavelength & Heisenberg's Principle (Hindi).mp4",
+					"id": 265
+				}, {
+					"displayName": "C2.4.2 Quantum Mechanical Model of Atom (Hindi).mp4",
+					"storedName": "C2.4.2 Quantum Mechanical Model of Atom (Hindi).mp4",
+					"id": 266
+				}, {
+					"displayName": "C2.4.3 Quantum Numbers - I (Hindi).mp4",
+					"storedName": "C2.4.3 Quantum Numbers - I (Hindi).mp4",
+					"id": 267
+				}, {
+					"displayName": "C2.4.4 Quantum Numbers - II (Hindi).mp4",
+					"storedName": "C2.4.4 Quantum Numbers - II (Hindi).mp4",
+					"id": 268
+				}, {
+					"displayName": "C2.5.1 Nodes & Orbital Angular Momentum (Hindi).mp4",
+					"storedName": "C2.5.1 Nodes & Orbital Angular Momentum (Hindi).mp4",
+					"id": 269
+				}, {
+					"displayName": "C2.5.2 Writing Electronic Configuration (Hindi).mp4",
+					"storedName": "C2.5.2 Writing Electronic Configuration (Hindi).mp4",
+					"id": 270
+				}, {
+					"displayName": "C2.5.3 Half & Fully Filled Subshells (Hindi).mp4",
+					"storedName": "C2.5.3 Half & Fully Filled Subshells (Hindi).mp4",
+					"id": 271
+				}, {
+					"displayName": "C2.5.4 Screening Effect & Effective Nuclear Charge (Hindi).mp4",
+					"storedName": "C2.5.4 Screening Effect & Effective Nuclear Charge (Hindi).mp4",
+					"id": 272
+				}]
+			}, {
+				"path": "C3 - Periodic Table",
+				"name": "C3 - Periodic Table",
+				"lessons": [{
+					"displayName": "C3.1.1 Introduction.mp4",
+					"storedName": "C3.1.1 Introduction.mp4",
+					"id": 273
+				}, {
+					"displayName": "C3.1.2 Evolution of the Modern Periodic Table.mp4",
+					"storedName": "C3.1.2 Evolution of the Modern Periodic Table.mp4",
+					"id": 274
+				}, {
+					"displayName": "C3.1.3 Significance of Groups and Periods.mp4",
+					"storedName": "C3.1.3 Significance of Groups and Periods.mp4",
+					"id": 275
+				}, {
+					"displayName": "C3.1.4 Blocks in the periodic table.mp4",
+					"storedName": "C3.1.4 Blocks in the periodic table.mp4",
+					"id": 276
+				}, {
+					"displayName": "C3.1.5 Trends in atomic & Ionic Sizes.mp4",
+					"storedName": "C3.1.5 Trends in atomic & Ionic Sizes.mp4",
+					"id": 277
+				}, {
+					"displayName": "C3.2.1 Ionization enthalpy.mp4",
+					"storedName": "C3.2.1 Ionization enthalpy.mp4",
+					"id": 278
+				}, {
+					"displayName": "C3.2.2 Electron Gain Enthalpy & Metallic Character.mp4",
+					"storedName": "C3.2.2 Electron Gain Enthalpy & Metallic Character.mp4",
+					"id": 279
+				}, {
+					"displayName": "C3.2.3 Electronegativity & Valency.mp4",
+					"storedName": "C3.2.3 Electronegativity & Valency.mp4",
+					"id": 280
+				}]
+			}, {
+				"path": "C4 - Chemical Bonding",
+				"name": "C4 - Chemical Bonding",
+				"lessons": [{
+					"displayName": "C4.1.1 Ionic & Covalent Bonding.mp4",
+					"storedName": "C4.1.1 Ionic & Covalent Bonding.mp4",
+					"id": 281
+				}, {
+					"displayName": "C4.1.2 Lewis Structures.mp4",
+					"storedName": "C4.1.2 Lewis Structures.mp4",
+					"id": 282
+				}, {
+					"displayName": "C4.1.3 Formal Charges & Resonance.mp4",
+					"storedName": "C4.1.3 Formal Charges & Resonance.mp4",
+					"id": 283
+				}, {
+					"displayName": "C4.2.1 Polarity of Covalent Bonds.mp4",
+					"storedName": "C4.2.1 Polarity of Covalent Bonds.mp4",
+					"id": 284
+				}, {
+					"displayName": "C4.2.2 Fajan's Rules for Covalent character for an ionic bond.mp4",
+					"storedName": "C4.2.2 Fajan's Rules for Covalent character for an ionic bond.mp4",
+					"id": 285
+				}, {
+					"displayName": "C4.2.3 The Hydrogen Bond.mp4",
+					"storedName": "C4.2.3 The Hydrogen Bond.mp4",
+					"id": 286
+				}, {
+					"displayName": "C4.3.1 VSEPR Theory.mp4",
+					"storedName": "C4.3.1 VSEPR Theory.mp4",
+					"id": 287
+				}, {
+					"displayName": "C4.3.2 Applying VSEPR Theory to determine Shape.mp4",
+					"storedName": "C4.3.2 Applying VSEPR Theory to determine Shape.mp4",
+					"id": 288
+				}, {
+					"displayName": "C4.3.3 Other Possible Shapes.mp4",
+					"storedName": "C4.3.3 Other Possible Shapes.mp4",
+					"id": 289
+				}, {
+					"displayName": "C4.4.1 Valence Bond Theory - An introduction.mp4",
+					"storedName": "C4.4.1 Valence Bond Theory - An introduction.mp4",
+					"id": 290
+				}, {
+					"displayName": "C4.4.2 Hybridization.mp4",
+					"storedName": "C4.4.2 Hybridization.mp4",
+					"id": 291
+				}, {
+					"displayName": "C4.4.3 Hybrid Orbitals in case of Multiple Bonds.mp4",
+					"storedName": "C4.4.3 Hybrid Orbitals in case of Multiple Bonds.mp4",
+					"id": 292
+				}, {
+					"displayName": "C4.5.1 Basics of Molecular Orbital Theory.mp4",
+					"storedName": "C4.5.1 Basics of Molecular Orbital Theory.mp4",
+					"id": 293
+				}, {
+					"displayName": "C4.5.2 Paramagnetism, Diamagnetism & 2s-2p mixing.mp4",
+					"storedName": "C4.5.2 Paramagnetism, Diamagnetism & 2s-2p mixing.mp4",
+					"id": 294
+				}]
+			}, {
+				"path": "C5 - Gaseous State",
+				"name": "C5 - Gaseous State",
+				"lessons": [{
+					"displayName": "C5.1.1 Introduction to Gas Parameters.mp4",
+					"storedName": "C5.1.1 Introduction to Gas Parameters.mp4",
+					"id": 295
+				}, {
+					"displayName": "C5.1.2 Gas Laws.mp4",
+					"storedName": "C5.1.2 Gas Laws.mp4",
+					"id": 296
+				}, {
+					"displayName": "C5.1.3 Ideal gas Equation.mp4",
+					"storedName": "C5.1.3 Ideal gas Equation.mp4",
+					"id": 297
+				}, {
+					"displayName": "C5.2.1 Graphs & Dalton's Law of Partial Pressure.mp4",
+					"storedName": "C5.2.1 Graphs & Dalton's Law of Partial Pressure.mp4",
+					"id": 298
+				}, {
+					"displayName": "C5.2.2 Kinetic Theory Of Gases & Molecular Speeds.mp4",
+					"storedName": "C5.2.2 Kinetic Theory Of Gases & Molecular Speeds.mp4",
+					"id": 299
+				}, {
+					"displayName": "C5.2.3 Graham's Law of Diffusion & Effusion.mp4",
+					"storedName": "C5.2.3 Graham's Law of Diffusion & Effusion.mp4",
+					"id": 300
+				}, {
+					"displayName": "C5.3.1 Introduction to Real Gas Analysis.mp4",
+					"storedName": "C5.3.1 Introduction to Real Gas Analysis.mp4",
+					"id": 301
+				}, {
+					"displayName": "C5.3.2 Measuring Deviation from Ideal Behavior.mp4",
+					"storedName": "C5.3.2 Measuring Deviation from Ideal Behavior.mp4",
+					"id": 302
+				}, {
+					"displayName": "C5.3.3 Phases of Matter  - Liquid, Gas & Vapor.mp4",
+					"storedName": "C5.3.3 Phases of Matter  - Liquid, Gas & Vapor.mp4",
+					"id": 303
+				}]
+			}, {
+				"path": "C6 - Thermodynamics",
+				"name": "C6 - Thermodynamics",
+				"lessons": [{
+					"displayName": "C6.1.1 Definitions in Thermodynamics.mp4",
+					"storedName": "C6.1.1 Definitions in Thermodynamics.mp4",
+					"id": 304
+				}, {
+					"displayName": "C6.1.2 Heat.mp4",
+					"storedName": "C6.1.2 Heat.mp4",
+					"id": 305
+				}, {
+					"displayName": "C6.1.3 Work Done.mp4",
+					"storedName": "C6.1.3 Work Done.mp4",
+					"id": 306
+				}, {
+					"displayName": "C6.1.4 Nature of Work for different processes.mp4",
+					"storedName": "C6.1.4 Nature of Work for different processes.mp4",
+					"id": 307
+				}, {
+					"displayName": "C6.2.1 Internal Energy and the First Law of Thermodynamics.mp4",
+					"storedName": "C6.2.1 Internal Energy and the First Law of Thermodynamics.mp4",
+					"id": 308
+				}, {
+					"displayName": "C6.2.2 Specific Heats.mp4",
+					"storedName": "C6.2.2 Specific Heats.mp4",
+					"id": 309
+				}, {
+					"displayName": "C6.2.3 Adiabatic Reversible Process.mp4",
+					"storedName": "C6.2.3 Adiabatic Reversible Process.mp4",
+					"id": 310
+				}, {
+					"displayName": "C6.3.1 Defining Enthalpy.mp4",
+					"storedName": "C6.3.1 Defining Enthalpy.mp4",
+					"id": 311
+				}, {
+					"displayName": "C6.3.2 Enthalpy of Formation.mp4",
+					"storedName": "C6.3.2 Enthalpy of Formation.mp4",
+					"id": 312
+				}, {
+					"displayName": "C6.3.3 Enthalpy of Combustion and Phase transition.mp4",
+					"storedName": "C6.3.3 Enthalpy of Combustion and Phase transition.mp4",
+					"id": 313
+				}, {
+					"displayName": "C6.4.1 Different Types of Enthalpies and their definition.mp4",
+					"storedName": "C6.4.1 Different Types of Enthalpies and their definition.mp4",
+					"id": 314
+				}, {
+					"displayName": "C6.4.2 Hess Law and Born Haber Cycle.mp4",
+					"storedName": "C6.4.2 Hess Law and Born Haber Cycle.mp4",
+					"id": 315
+				}, {
+					"displayName": "C6.4.3 Bond Enthalpy and Resonance Energy.mp4",
+					"storedName": "C6.4.3 Bond Enthalpy and Resonance Energy.mp4",
+					"id": 316
+				}, {
+					"displayName": "C6.5.1 Introduction to Entropy.mp4",
+					"storedName": "C6.5.1 Introduction to Entropy.mp4",
+					"id": 317
+				}, {
+					"displayName": "C6.5.2 Computing Change in Entropy.mp4",
+					"storedName": "C6.5.2 Computing Change in Entropy.mp4",
+					"id": 318
+				}, {
+					"displayName": "C6.5.3 Spontaneity and Gibbs Free Energy.mp4",
+					"storedName": "C6.5.3 Spontaneity and Gibbs Free Energy.mp4",
+					"id": 319
+				}]
+			}, {
+				"path": "C7 - Chemical Equilibrium",
+				"name": "C7 - Chemical Equilibrium",
+				"lessons": [{
+					"displayName": "01. Introduction.mp4",
+					"storedName": "01. Introduction.mp4",
+					"id": 320
+				}, {
+					"displayName": "02. Equilibrium Constant Expression and Henry's Law.mp4",
+					"storedName": "02. Equilibrium Constant Expression and Henry's Law.mp4",
+					"id": 321
+				}, {
+					"displayName": "03. Equilibrium constant and Effect of change in reaction stoichiometry.mp4",
+					"storedName": "03. Equilibrium constant and Effect of change in reaction stoichiometry.mp4",
+					"id": 322
+				}, {
+					"displayName": "04. Numericals on Equilibrium constant.mp4",
+					"storedName": "04. Numericals on Equilibrium constant.mp4",
+					"id": 323
+				}, {
+					"displayName": "05. Reaction Quotient and Thermodynamics of Equilibrium.mp4",
+					"storedName": "05. Reaction Quotient and Thermodynamics of Equilibrium.mp4",
+					"id": 324
+				}, {
+					"displayName": "06. Le Chatelier's Principle - change in concentration, pressure and volume.mp4",
+					"storedName": "06. Le Chatelier's Principle - change in concentration, pressure and volume.mp4",
+					"id": 325
+				}, {
+					"displayName": "07. Le Chatelier's Principle - effect of temperature, addition of inert gas.mp4",
+					"storedName": "07. Le Chatelier's Principle - effect of temperature, addition of inert gas.mp4",
+					"id": 326
+				}]
+			}, {
+				"path": "C8 - Ionic Equilibrium",
+				"name": "C8 - Ionic Equilibrium",
+				"lessons": [{
+					"displayName": "C8.1.1 Ionic Equilibrium - Introduction.mp4",
+					"storedName": "C8.1.1 Ionic Equilibrium - Introduction.mp4",
+					"id": 327
+				}, {
+					"displayName": "C8.1.2 Acids, Bases and Salts.mp4",
+					"storedName": "C8.1.2 Acids, Bases and Salts.mp4",
+					"id": 328
+				}, {
+					"displayName": "C8.1.3 Ionic product of water and pH scale.mp4",
+					"storedName": "C8.1.3 Ionic product of water and pH scale.mp4",
+					"id": 329
+				}, {
+					"displayName": "C8.2.1 Ionization of weak acids and bases.mp4",
+					"storedName": "C8.2.1 Ionization of weak acids and bases.mp4",
+					"id": 330
+				}, {
+					"displayName": "C8.2.2  pH and ionization constant's relation for acids and bases.mp4",
+					"storedName": "C8.2.2  pH and ionization constant's relation for acids and bases.mp4",
+					"id": 331
+				}, {
+					"displayName": "C8.2.3 Common ion Effect.mp4",
+					"storedName": "C8.2.3 Common ion Effect.mp4",
+					"id": 332
+				}, {
+					"displayName": "C8.3.1 Polyprotic acids.mp4",
+					"storedName": "C8.3.1 Polyprotic acids.mp4",
+					"id": 333
+				}, {
+					"displayName": "C8.3.2  Hydrolysis - I.mp4",
+					"storedName": "C8.3.2  Hydrolysis - I.mp4",
+					"id": 334
+				}, {
+					"displayName": "C8.3.3  Hydrolysis - II.mp4",
+					"storedName": "C8.3.3  Hydrolysis - II.mp4",
+					"id": 335
+				}, {
+					"displayName": "C8.3.4   Buffers.mp4",
+					"storedName": "C8.3.4   Buffers.mp4",
+					"id": 336
+				}, {
+					"displayName": "C8.4.1 Solubility and Solubility Product.mp4",
+					"storedName": "C8.4.1 Solubility and Solubility Product.mp4",
+					"id": 337
+				}, {
+					"displayName": "C8.4.2 Fractional Precipitation.mp4",
+					"storedName": "C8.4.2 Fractional Precipitation.mp4",
+					"id": 338
+				}, {
+					"displayName": "C8.4.3 Effect of common ion and pH change on solubility.mp4",
+					"storedName": "C8.4.3 Effect of common ion and pH change on solubility.mp4",
+					"id": 339
+				}]
+			}, {
+				"path": "C9 - Redox Reactions",
+				"name": "C9 - Redox Reactions",
+				"lessons": [{
+					"displayName": "C9.1.1 Oxidation & reduction (English).mp4",
+					"storedName": "C9.1.1 Oxidation & reduction (English).mp4",
+					"id": 340
+				}, {
+					"displayName": "C9.1.2 Oxidation number (O.N.) (English).mp4",
+					"storedName": "C9.1.2 Oxidation number (O.N.) (English).mp4",
+					"id": 341
+				}, {
+					"displayName": "C9.1.3 Determining O.N. using structure (English).mp4",
+					"storedName": "C9.1.3 Determining O.N. using structure (English).mp4",
+					"id": 342
+				}, {
+					"displayName": "C9.2.1 Equivalent weight and n - factor (English).mp4",
+					"storedName": "C9.2.1 Equivalent weight and n - factor (English).mp4",
+					"id": 343
+				}, {
+					"displayName": "C9.2.2 Law of Chemical Equivalence (English).mp4",
+					"storedName": "C9.2.2 Law of Chemical Equivalence (English).mp4",
+					"id": 344
+				}, {
+					"displayName": "C9.2.3 Normality (English).mp4",
+					"storedName": "C9.2.3 Normality (English).mp4",
+					"id": 345
+				}, {
+					"displayName": "C9.3.1 Types of redox reactions (English).mp4",
+					"storedName": "C9.3.1 Types of redox reactions (English).mp4",
+					"id": 346
+				}, {
+					"displayName": "C9.3.2 Balancing reactions - ion electron method (English).mp4",
+					"storedName": "C9.3.2 Balancing reactions - ion electron method (English).mp4",
+					"id": 347
+				}, {
+					"displayName": "C9.3.3 Balancing reactions - oxidation number method (English).mp4",
+					"storedName": "C9.3.3 Balancing reactions - oxidation number method (English).mp4",
+					"id": 348
+				}, {
+					"displayName": "C9.3.4 Equivalent weight - disproportionation (English).mp4",
+					"storedName": "C9.3.4 Equivalent weight - disproportionation (English).mp4",
+					"id": 349
+				}, {
+					"displayName": "C9.4.1 Titration (English).mp4",
+					"storedName": "C9.4.1 Titration (English).mp4",
+					"id": 350
+				}, {
+					"displayName": "C9.4.2 Titration of strong or weak acids and bases (English).mp4",
+					"storedName": "C9.4.2 Titration of strong or weak acids and bases (English).mp4",
+					"id": 351
+				}, {
+					"displayName": "C9.4.3 Redox Titration (English).mp4",
+					"storedName": "C9.4.3 Redox Titration (English).mp4",
+					"id": 352
+				}, {
+					"displayName": "C9.5.1 Passage - 1 (English).mp4",
+					"storedName": "C9.5.1 Passage - 1 (English).mp4",
+					"id": 353
+				}, {
+					"displayName": "C9.5.2 Passage - 2 (English).mp4",
+					"storedName": "C9.5.2 Passage - 2 (English).mp4",
+					"id": 354
+				}, {
+					"displayName": "C9.5.3 Passage - 3 (English).mp4",
+					"storedName": "C9.5.3 Passage - 3 (English).mp4",
+					"id": 355
+				}]
+			}],
+			"Physics": [{
+				"path": "P1 - Units and Measurement",
+				"name": "P1 - Units and Measurement",
+				"lessons": [{
+					"displayName": "P1.1.1 Introduction (English).mp4",
+					"storedName": "P1.1.1 Introduction (English).mp4",
+					"id": 356
+				}, {
+					"displayName": "P1.1.2 Fundamental & Derived Units (English).mp4",
+					"storedName": "P1.1.2 Fundamental & Derived Units (English).mp4",
+					"id": 357
+				}, {
+					"displayName": "P1.1.3 Dimension of a Physical Quantity (English).mp4",
+					"storedName": "P1.1.3 Dimension of a Physical Quantity (English).mp4",
+					"id": 358
+				}, {
+					"displayName": "P1.1.4 Dimensional Analysis - Dimensional formula of a Physical Quantity (English).mp4",
+					"storedName": "P1.1.4 Dimensional Analysis - Dimensional formula of a Physical Quantity (English).mp4",
+					"id": 359
+				}, {
+					"displayName": "P1.1.5 Dimensional Analysis - Dimensional Consistency of an Equation (English).mp4",
+					"storedName": "P1.1.5 Dimensional Analysis - Dimensional Consistency of an Equation (English).mp4",
+					"id": 360
+				}, {
+					"displayName": "P1.1.6 Dimensional Analysis - Derivation of a relation (English).mp4",
+					"storedName": "P1.1.6 Dimensional Analysis - Derivation of a relation (English).mp4",
+					"id": 361
+				}, {
+					"displayName": "P1.1.7 Limitations of Dimensional Analysis (English).mp4",
+					"storedName": "P1.1.7 Limitations of Dimensional Analysis (English).mp4",
+					"id": 362
+				}, {
+					"displayName": "P1.2.1 Introduction (English).mp4",
+					"storedName": "P1.2.1 Introduction (English).mp4",
+					"id": 363
+				}, {
+					"displayName": "P1.2.2 Rules for Handling Significant Figures - I (English).mp4",
+					"storedName": "P1.2.2 Rules for Handling Significant Figures - I (English).mp4",
+					"id": 364
+				}, {
+					"displayName": "P1.2.3 Rules for Handling Significant Figures - II (English).mp4",
+					"storedName": "P1.2.3 Rules for Handling Significant Figures - II (English).mp4",
+					"id": 365
+				}, {
+					"displayName": "P1.2.4 Accuracy, Precision and Errors (English).mp4",
+					"storedName": "P1.2.4 Accuracy, Precision and Errors (English).mp4",
+					"id": 366
+				}, {
+					"displayName": "P1.2.5 Propagation of errors - Addition & Subtraction (English).mp4",
+					"storedName": "P1.2.5 Propagation of errors - Addition & Subtraction (English).mp4",
+					"id": 367
+				}, {
+					"displayName": "P1.2.6 Propagation of errors - Multiplication, Division & Exponent (English).mp4",
+					"storedName": "P1.2.6 Propagation of errors - Multiplication, Division & Exponent (English).mp4",
+					"id": 368
+				}, {
+					"displayName": "P1.2.7 Activity Discussion and Conclusion (English).mp4",
+					"storedName": "P1.2.7 Activity Discussion and Conclusion (English).mp4",
+					"id": 369
+				}]
+			}, {
+				"path": "P10 - Mechanical Properties of Fluids",
+				"name": "P10 - Mechanical Properties of Fluids",
+				"lessons": [{
+					"displayName": "1.Pressure & Pascal's Law.mp4",
+					"storedName": "1.Pressure & Pascal's Law.mp4",
+					"id": 370
+				}, {
+					"displayName": "10.Stoke's Law and Viscous Drag Force.mp4",
+					"storedName": "10.Stoke's Law and Viscous Drag Force.mp4",
+					"id": 371
+				}, {
+					"displayName": "11.Reynold's Number Laminar Flow vs Turbulent Flow.mp4",
+					"storedName": "11.Reynold's Number Laminar Flow vs Turbulent Flow.mp4",
+					"id": 372
+				}, {
+					"displayName": "12.Introduction to Surface Tension.mp4",
+					"storedName": "12.Introduction to Surface Tension.mp4",
+					"id": 373
+				}, {
+					"displayName": "13.Measuring Surface Tension.mp4",
+					"storedName": "13.Measuring Surface Tension.mp4",
+					"id": 374
+				}, {
+					"displayName": "14.Surface Tension and Surface Energy.mp4",
+					"storedName": "14.Surface Tension and Surface Energy.mp4",
+					"id": 375
+				}, {
+					"displayName": "15.Angle of Contact.mp4",
+					"storedName": "15.Angle of Contact.mp4",
+					"id": 376
+				}, {
+					"displayName": "16.Excess Pressure in a Drop & a Soap Bubble.mp4",
+					"storedName": "16.Excess Pressure in a Drop & a Soap Bubble.mp4",
+					"id": 377
+				}, {
+					"displayName": "17.Capilary Rise.mp4",
+					"storedName": "17.Capilary Rise.mp4",
+					"id": 378
+				}, {
+					"displayName": "2.Measurement of Pressure - Barometer and Manometer.mp4",
+					"storedName": "2.Measurement of Pressure - Barometer and Manometer.mp4",
+					"id": 379
+				}, {
+					"displayName": "3.Buoyancy & Archimedes Principle.mp4",
+					"storedName": "3.Buoyancy & Archimedes Principle.mp4",
+					"id": 380
+				}, {
+					"displayName": "4.Equation of Continuity.mp4",
+					"storedName": "4.Equation of Continuity.mp4",
+					"id": 381
+				}, {
+					"displayName": "5.Types of Flow.mp4",
+					"storedName": "5.Types of Flow.mp4",
+					"id": 382
+				}, {
+					"displayName": "6.Bernoulli's Principle.mp4",
+					"storedName": "6.Bernoulli's Principle.mp4",
+					"id": 383
+				}, {
+					"displayName": "7.Application of Bernoulli's Principle - Torricelli's law and Velocity of efflux.mp4",
+					"storedName": "7.Application of Bernoulli's Principle - Torricelli's law and Velocity of efflux.mp4",
+					"id": 384
+				}, {
+					"displayName": "8.Application of Bernoulli's Principle - Venturimeter.mp4",
+					"storedName": "8.Application of Bernoulli's Principle - Venturimeter.mp4",
+					"id": 385
+				}, {
+					"displayName": "9.Viscosity.mp4",
+					"storedName": "9.Viscosity.mp4",
+					"id": 386
+				}]
+			}, {
+				"path": "P11 - Thermal Properties of Matter",
+				"name": "P11 - Thermal Properties of Matter",
+				"lessons": [{
+					"displayName": "P11.1.0 Introduction to Thermal properties of Matter.mp4",
+					"storedName": "P11.1.0 Introduction to Thermal properties of Matter.mp4",
+					"id": 387
+				}, {
+					"displayName": "P11.1.1 Introduction.mp4",
+					"storedName": "P11.1.1 Introduction.mp4",
+					"id": 388
+				}, {
+					"displayName": "P11.1.2 Heat & Zeroth Law of Thermodynamics.mp4",
+					"storedName": "P11.1.2 Heat & Zeroth Law of Thermodynamics.mp4",
+					"id": 389
+				}, {
+					"displayName": "P11.1.3 Temperature and its Measurement Scales.mp4",
+					"storedName": "P11.1.3 Temperature and its Measurement Scales.mp4",
+					"id": 390
+				}, {
+					"displayName": "P11.1.4 Absolute Temperature and Ideal Gas Equation.mp4",
+					"storedName": "P11.1.4 Absolute Temperature and Ideal Gas Equation.mp4",
+					"id": 391
+				}, {
+					"displayName": "P11.1.5 Thermal Expansion.mp4",
+					"storedName": "P11.1.5 Thermal Expansion.mp4",
+					"id": 392
+				}, {
+					"displayName": "P11.1.6 Simple Pendulum-GainLoss in Time.mp4",
+					"storedName": "P11.1.6 Simple Pendulum-GainLoss in Time.mp4",
+					"id": 393
+				}, {
+					"displayName": "P11.2.1 Introduction.mp4",
+					"storedName": "P11.2.1 Introduction.mp4",
+					"id": 394
+				}, {
+					"displayName": "P11.2.2 Specific Heat Capacity.mp4",
+					"storedName": "P11.2.2 Specific Heat Capacity.mp4",
+					"id": 395
+				}, {
+					"displayName": "P11.2.3 Calorimetry.mp4",
+					"storedName": "P11.2.3 Calorimetry.mp4",
+					"id": 396
+				}, {
+					"displayName": "P11.2.4 Triple Point of Water.mp4",
+					"storedName": "P11.2.4 Triple Point of Water.mp4",
+					"id": 397
+				}, {
+					"displayName": "P11.2.5 Heat Transfer.mp4",
+					"storedName": "P11.2.5 Heat Transfer.mp4",
+					"id": 398
+				}, {
+					"displayName": "P11.3.1 Introduction.mp4",
+					"storedName": "P11.3.1 Introduction.mp4",
+					"id": 399
+				}, {
+					"displayName": "P11.3.2 Blackbody Radiation and Kirchhoff's Law.mp4",
+					"storedName": "P11.3.2 Blackbody Radiation and Kirchhoff's Law.mp4",
+					"id": 400
+				}, {
+					"displayName": "P11.3.3 Stefan-Boltzmann's Law.mp4",
+					"storedName": "P11.3.3 Stefan-Boltzmann's Law.mp4",
+					"id": 401
+				}, {
+					"displayName": "P11.3.4 Newton's Law of Cooling.mp4",
+					"storedName": "P11.3.4 Newton's Law of Cooling.mp4",
+					"id": 402
+				}, {
+					"displayName": "P11.3.5 Wien's Law.mp4",
+					"storedName": "P11.3.5 Wien's Law.mp4",
+					"id": 403
+				}]
+			}, {
+				"path": "P12 - Thermodynamics & Kinetic Theory of Gases",
+				"name": "P12 - Thermodynamics & Kinetic Theory of Gases",
+				"lessons": [{
+					"displayName": "01. Introduction to Thermodynamics.mp4",
+					"storedName": "01. Introduction to Thermodynamics.mp4",
+					"id": 404
+				}, {
+					"displayName": "02. Thermodynamic Systems.mp4",
+					"storedName": "02. Thermodynamic Systems.mp4",
+					"id": 405
+				}, {
+					"displayName": "03. Thermodynamic Variables.mp4",
+					"storedName": "03. Thermodynamic Variables.mp4",
+					"id": 406
+				}, {
+					"displayName": "04. Sign Convention.mp4",
+					"storedName": "04. Sign Convention.mp4",
+					"id": 407
+				}, {
+					"displayName": "05. State & Path Variables.mp4",
+					"storedName": "05. State & Path Variables.mp4",
+					"id": 408
+				}, {
+					"displayName": "06. First Law of Thermodynamics.mp4",
+					"storedName": "06. First Law of Thermodynamics.mp4",
+					"id": 409
+				}, {
+					"displayName": "07. Thermodynamic Processes.mp4",
+					"storedName": "07. Thermodynamic Processes.mp4",
+					"id": 410
+				}, {
+					"displayName": "08. Molar Heat Capacities.mp4",
+					"storedName": "08. Molar Heat Capacities.mp4",
+					"id": 411
+				}, {
+					"displayName": "09. Intensive & Extensive Properties.mp4",
+					"storedName": "09. Intensive & Extensive Properties.mp4",
+					"id": 412
+				}, {
+					"displayName": "10. Introduction to Thermodynamic Processes.mp4",
+					"storedName": "10. Introduction to Thermodynamic Processes.mp4",
+					"id": 413
+				}, {
+					"displayName": "11. Reversible & Irreversible Processes.mp4",
+					"storedName": "11. Reversible & Irreversible Processes.mp4",
+					"id": 414
+				}, {
+					"displayName": "12. Isothermal Process.mp4",
+					"storedName": "12. Isothermal Process.mp4",
+					"id": 415
+				}, {
+					"displayName": "13. Adiabatic Process.mp4",
+					"storedName": "13. Adiabatic Process.mp4",
+					"id": 416
+				}, {
+					"displayName": "14. Isobaric Process.mp4",
+					"storedName": "14. Isobaric Process.mp4",
+					"id": 417
+				}, {
+					"displayName": "15. Isochoric Process.mp4",
+					"storedName": "15. Isochoric Process.mp4",
+					"id": 418
+				}, {
+					"displayName": "16. Cyclic Processes (State variables & Path function).mp4",
+					"storedName": "16. Cyclic Processes (State variables & Path function).mp4",
+					"id": 419
+				}, {
+					"displayName": "17. Introduction to Heat Engine, Refrigerator & Second Law of Thermodynamics.mp4",
+					"storedName": "17. Introduction to Heat Engine, Refrigerator & Second Law of Thermodynamics.mp4",
+					"id": 420
+				}, {
+					"displayName": "18. Heat Engine.mp4",
+					"storedName": "18. Heat Engine.mp4",
+					"id": 421
+				}, {
+					"displayName": "19. Refrigerator and Heat Pumps.mp4",
+					"storedName": "19. Refrigerator and Heat Pumps.mp4",
+					"id": 422
+				}, {
+					"displayName": "20. Second Law of Therrmodynamics.mp4",
+					"storedName": "20. Second Law of Therrmodynamics.mp4",
+					"id": 423
+				}, {
+					"displayName": "21. Carnot Cycle.mp4",
+					"storedName": "21. Carnot Cycle.mp4",
+					"id": 424
+				}, {
+					"displayName": "22. Introduction to Kinetic Theory of Gases.mp4",
+					"storedName": "22. Introduction to Kinetic Theory of Gases.mp4",
+					"id": 425
+				}, {
+					"displayName": "23. Molecular Nature of Matter.mp4",
+					"storedName": "23. Molecular Nature of Matter.mp4",
+					"id": 426
+				}, {
+					"displayName": "24. Behaviour of Gases.mp4",
+					"storedName": "24. Behaviour of Gases.mp4",
+					"id": 427
+				}, {
+					"displayName": "25. Dalton's Law of Partial Pressure.mp4",
+					"storedName": "25. Dalton's Law of Partial Pressure.mp4",
+					"id": 428
+				}, {
+					"displayName": "26. Kinetic Theory of Gases.mp4",
+					"storedName": "26. Kinetic Theory of Gases.mp4",
+					"id": 429
+				}, {
+					"displayName": "27. Law of Equipartition of Energy.mp4",
+					"storedName": "27. Law of Equipartition of Energy.mp4",
+					"id": 430
+				}, {
+					"displayName": "28. Polytropic Process.mp4",
+					"storedName": "28. Polytropic Process.mp4",
+					"id": 431
+				}, {
+					"displayName": "29. Comparison of Polytropic Process & other Processes.mp4",
+					"storedName": "29. Comparison of Polytropic Process & other Processes.mp4",
+					"id": 432
+				}]
+			}, {
+				"path": "P13 - Oscillations",
+				"name": "P13 - Oscillations",
+				"lessons": [{
+					"displayName": "P13.1.0 Oscillations - Introduction.mp4",
+					"storedName": "P13.1.0 Oscillations - Introduction.mp4",
+					"id": 433
+				}, {
+					"displayName": "P13.1.1 Oscillations - Time Period & Frequency.mp4",
+					"storedName": "P13.1.1 Oscillations - Time Period & Frequency.mp4",
+					"id": 434
+				}, {
+					"displayName": "P13.1.2 Oscillations - Displacement.mp4",
+					"storedName": "P13.1.2 Oscillations - Displacement.mp4",
+					"id": 435
+				}, {
+					"displayName": "P13.1.3 Oscillations - Simple Harmonic Motion.mp4",
+					"storedName": "P13.1.3 Oscillations - Simple Harmonic Motion.mp4",
+					"id": 436
+				}, {
+					"displayName": "P13.1.4 Oscillations - Velocity & Acceleration.mp4",
+					"storedName": "P13.1.4 Oscillations - Velocity & Acceleration.mp4",
+					"id": 437
+				}, {
+					"displayName": "P13.1.5 Oscillations - Force Law for SHM.mp4",
+					"storedName": "P13.1.5 Oscillations - Force Law for SHM.mp4",
+					"id": 438
+				}, {
+					"displayName": "P13.1.6 Oscillations - KE & PE in SHM.mp4",
+					"storedName": "P13.1.6 Oscillations - KE & PE in SHM.mp4",
+					"id": 439
+				}, {
+					"displayName": "P13.2.1 Oscillations - Spring Block System.mp4",
+					"storedName": "P13.2.1 Oscillations - Spring Block System.mp4",
+					"id": 440
+				}, {
+					"displayName": "P13.2.2 Oscillations - Simple Pendulum.mp4",
+					"storedName": "P13.2.2 Oscillations - Simple Pendulum.mp4",
+					"id": 441
+				}, {
+					"displayName": "P13.2.3 Oscillations - Compound Pendulum.mp4",
+					"storedName": "P13.2.3 Oscillations - Compound Pendulum.mp4",
+					"id": 442
+				}, {
+					"displayName": "P13.2.4 Oscillations - Energy Method.mp4",
+					"storedName": "P13.2.4 Oscillations - Energy Method.mp4",
+					"id": 443
+				}, {
+					"displayName": "P13.2.5 Oscillations - Damped Oscillations.mp4",
+					"storedName": "P13.2.5 Oscillations - Damped Oscillations.mp4",
+					"id": 444
+				}]
+			}, {
+				"path": "P14 - Waves",
+				"name": "P14 - Waves",
+				"lessons": [{
+					"displayName": "P14.1.1 Introduction to Waves.mp4",
+					"storedName": "P14.1.1 Introduction to Waves.mp4",
+					"id": 445
+				}, {
+					"displayName": "P14.1.2 Types of Waves.mp4",
+					"storedName": "P14.1.2 Types of Waves.mp4",
+					"id": 446
+				}, {
+					"displayName": "P14.1.3 Equation of a travelling wave - YouTube.mp4",
+					"storedName": "P14.1.3 Equation of a travelling wave - YouTube.mp4",
+					"id": 447
+				}, {
+					"displayName": "P14.1.4 Speed of a transverse wave.mp4",
+					"storedName": "P14.1.4 Speed of a transverse wave.mp4",
+					"id": 448
+				}, {
+					"displayName": "P14.2.1 Principle of Superposition.mp4",
+					"storedName": "P14.2.1 Principle of Superposition.mp4",
+					"id": 449
+				}, {
+					"displayName": "P14.2.2 Reflection of Waves.mp4",
+					"storedName": "P14.2.2 Reflection of Waves.mp4",
+					"id": 450
+				}, {
+					"displayName": "P14.2.3 Standing Waves.mp4",
+					"storedName": "P14.2.3 Standing Waves.mp4",
+					"id": 451
+				}, {
+					"displayName": "P14.2.4 Harmonics in Standing Waves.mp4",
+					"storedName": "P14.2.4 Harmonics in Standing Waves.mp4",
+					"id": 452
+				}, {
+					"displayName": "P14.3.1 Introduction to Longitudinal Waves.mp4",
+					"storedName": "P14.3.1 Introduction to Longitudinal Waves.mp4",
+					"id": 453
+				}, {
+					"displayName": "P14.3.2 Displacement & Pressure Wave.mp4",
+					"storedName": "P14.3.2 Displacement & Pressure Wave.mp4",
+					"id": 454
+				}, {
+					"displayName": "P14.3.3 Speed of Sound in a Material Medium.mp4",
+					"storedName": "P14.3.3 Speed of Sound in a Material Medium.mp4",
+					"id": 455
+				}, {
+					"displayName": "P14.3.4 Interference of Sound Waves.mp4",
+					"storedName": "P14.3.4 Interference of Sound Waves.mp4",
+					"id": 456
+				}, {
+					"displayName": "P14.4.1 Beats.mp4",
+					"storedName": "P14.4.1 Beats.mp4",
+					"id": 457
+				}, {
+					"displayName": "P14.4.2 Doppler Effect.mp4",
+					"storedName": "P14.4.2 Doppler Effect.mp4",
+					"id": 458
+				}]
+			}, {
+				"path": "P2 - Motion in One Dimension",
+				"name": "P2 - Motion in One Dimension",
+				"lessons": [{
+					"displayName": "P2.1.1 Introduction (English).mp4",
+					"storedName": "P2.1.1 Introduction (English).mp4",
+					"id": 459
+				}, {
+					"displayName": "P2.1.2 Distance & Displacement (English).mp4",
+					"storedName": "P2.1.2 Distance & Displacement (English).mp4",
+					"id": 460
+				}, {
+					"displayName": "P2.1.3 Speed & Velocity (English).mp4",
+					"storedName": "P2.1.3 Speed & Velocity (English).mp4",
+					"id": 461
+				}, {
+					"displayName": "P2.1.4 Plotting graphs (English).mp4",
+					"storedName": "P2.1.4 Plotting graphs (English).mp4",
+					"id": 462
+				}, {
+					"displayName": "P2.1.5 Relation between various parameters (English).mp4",
+					"storedName": "P2.1.5 Relation between various parameters (English).mp4",
+					"id": 463
+				}, {
+					"displayName": "P2.2.1 Introduction to Acceleration (English).mp4",
+					"storedName": "P2.2.1 Introduction to Acceleration (English).mp4",
+					"id": 464
+				}, {
+					"displayName": "P2.2.2 Relation between velocity & acceleration (English).mp4",
+					"storedName": "P2.2.2 Relation between velocity & acceleration (English).mp4",
+					"id": 465
+				}, {
+					"displayName": "P2.2.3 Relation between displacement & acceleration (English).mp4",
+					"storedName": "P2.2.3 Relation between displacement & acceleration (English).mp4",
+					"id": 466
+				}, {
+					"displayName": "P2.3.1 - Introduction to Equations of Motion (English).mp4",
+					"storedName": "P2.3.1 - Introduction to Equations of Motion (English).mp4",
+					"id": 467
+				}, {
+					"displayName": "P2.3.2 - Deriving Equations of Motion (English).mp4",
+					"storedName": "P2.3.2 - Deriving Equations of Motion (English).mp4",
+					"id": 468
+				}, {
+					"displayName": "P2.3.3 - Deriving Equations of Motion Using Graphs (English).mp4",
+					"storedName": "P2.3.3 - Deriving Equations of Motion Using Graphs (English).mp4",
+					"id": 469
+				}, {
+					"displayName": "P2.3.4 Applications of Equations of Motion (English).mp4",
+					"storedName": "P2.3.4 Applications of Equations of Motion (English).mp4",
+					"id": 470
+				}, {
+					"displayName": "P2.4.1 Introduction to Relative Motion (English).mp4",
+					"storedName": "P2.4.1 Introduction to Relative Motion (English).mp4",
+					"id": 471
+				}, {
+					"displayName": "P2.4.2 Concepts Related to Relative Motion (English).mp4",
+					"storedName": "P2.4.2 Concepts Related to Relative Motion (English).mp4",
+					"id": 472
+				}, {
+					"displayName": "P2.4.3 Equations of Relative Motion (English).mp4",
+					"storedName": "P2.4.3 Equations of Relative Motion (English).mp4",
+					"id": 473
+				}, {
+					"displayName": "P2.4.4 Applications of Relative Motion (English).mp4",
+					"storedName": "P2.4.4 Applications of Relative Motion (English).mp4",
+					"id": 474
+				}]
+			}, {
+				"path": "P3 - Vectors & Calculus",
+				"name": "P3 - Vectors & Calculus",
+				"lessons": [{
+					"displayName": "P3.1.1 Introduction.mp4",
+					"storedName": "P3.1.1 Introduction.mp4",
+					"id": 475
+				}, {
+					"displayName": "P3.1.2 Definition & Representation of Vectors.mp4",
+					"storedName": "P3.1.2 Definition & Representation of Vectors.mp4",
+					"id": 476
+				}, {
+					"displayName": "P3.1.3 Multiplication by a Scalar.mp4",
+					"storedName": "P3.1.3 Multiplication by a Scalar.mp4",
+					"id": 477
+				}, {
+					"displayName": "P3.1.4 Addition of Vectors - Geometrically.mp4",
+					"storedName": "P3.1.4 Addition of Vectors - Geometrically.mp4",
+					"id": 478
+				}, {
+					"displayName": "P3.1.5 Addition of Vectors - Mathematical.mp4",
+					"storedName": "P3.1.5 Addition of Vectors - Mathematical.mp4",
+					"id": 479
+				}, {
+					"displayName": "P3.1.6 Properties of Vector addition.mp4",
+					"storedName": "P3.1.6 Properties of Vector addition.mp4",
+					"id": 480
+				}, {
+					"displayName": "P3.2.1 Introduction.mp4",
+					"storedName": "P3.2.1 Introduction.mp4",
+					"id": 481
+				}, {
+					"displayName": "P3.2.2 Component of a Vector.mp4",
+					"storedName": "P3.2.2 Component of a Vector.mp4",
+					"id": 482
+				}, {
+					"displayName": "P3.2.3 Rectangular Coordinate System.mp4",
+					"storedName": "P3.2.3 Rectangular Coordinate System.mp4",
+					"id": 483
+				}, {
+					"displayName": "P3.2.4 Unit Vectors.mp4",
+					"storedName": "P3.2.4 Unit Vectors.mp4",
+					"id": 484
+				}, {
+					"displayName": "P3.2.5 Scalar Multiplication.mp4",
+					"storedName": "P3.2.5 Scalar Multiplication.mp4",
+					"id": 485
+				}, {
+					"displayName": "P3.2.6 Vector Addition.mp4",
+					"storedName": "P3.2.6 Vector Addition.mp4",
+					"id": 486
+				}, {
+					"displayName": "P3.3.1 Introduction.mp4",
+					"storedName": "P3.3.1 Introduction.mp4",
+					"id": 487
+				}, {
+					"displayName": "P3.3.2 Definition of dot product.mp4",
+					"storedName": "P3.3.2 Definition of dot product.mp4",
+					"id": 488
+				}, {
+					"displayName": "P3.3.3 Properties of Dot Product.mp4",
+					"storedName": "P3.3.3 Properties of Dot Product.mp4",
+					"id": 489
+				}, {
+					"displayName": "P3.3.4 Dot Product in Rectangular Components.mp4",
+					"storedName": "P3.3.4 Dot Product in Rectangular Components.mp4",
+					"id": 490
+				}, {
+					"displayName": "P3.3.5 Angle Between Vectors.mp4",
+					"storedName": "P3.3.5 Angle Between Vectors.mp4",
+					"id": 491
+				}, {
+					"displayName": "P3.3.6 Component of a Vector in the Direction of Another Vector.mp4",
+					"storedName": "P3.3.6 Component of a Vector in the Direction of Another Vector.mp4",
+					"id": 492
+				}, {
+					"displayName": "P3.4.1 Introduction.mp4",
+					"storedName": "P3.4.1 Introduction.mp4",
+					"id": 493
+				}, {
+					"displayName": "P3.4.2 Definition of Cross Product.mp4",
+					"storedName": "P3.4.2 Definition of Cross Product.mp4",
+					"id": 494
+				}, {
+					"displayName": "P3.4.3 Properties of Cross Product.mp4",
+					"storedName": "P3.4.3 Properties of Cross Product.mp4",
+					"id": 495
+				}, {
+					"displayName": "P3.4.4 Evaluating cross product.mp4",
+					"storedName": "P3.4.4 Evaluating cross product.mp4",
+					"id": 496
+				}, {
+					"displayName": "P3.4.5 Evaluating cross product - Sarrus rule.mp4",
+					"storedName": "P3.4.5 Evaluating cross product - Sarrus rule.mp4",
+					"id": 497
+				}, {
+					"displayName": "P3.4.6 Angle Between Vectors.mp4",
+					"storedName": "P3.4.6 Angle Between Vectors.mp4",
+					"id": 498
+				}, {
+					"displayName": "P3.4.7 Unit Vector Perpendicular to Plane of Vectors.mp4",
+					"storedName": "P3.4.7 Unit Vector Perpendicular to Plane of Vectors.mp4",
+					"id": 499
+				}, {
+					"displayName": "P3.5.1 Introduction.mp4",
+					"storedName": "P3.5.1 Introduction.mp4",
+					"id": 500
+				}, {
+					"displayName": "P3.5.2 Significance of Slope.mp4",
+					"storedName": "P3.5.2 Significance of Slope.mp4",
+					"id": 501
+				}, {
+					"displayName": "P3.5.3 Rules of Differentiation.mp4",
+					"storedName": "P3.5.3 Rules of Differentiation.mp4",
+					"id": 502
+				}, {
+					"displayName": "P3.5.4 Application of Differentiation.mp4",
+					"storedName": "P3.5.4 Application of Differentiation.mp4",
+					"id": 503
+				}, {
+					"displayName": "P3.5.5 Maxima & Minima.mp4",
+					"storedName": "P3.5.5 Maxima & Minima.mp4",
+					"id": 504
+				}, {
+					"displayName": "P3.5.6 Significance of Area Under Curve.mp4",
+					"storedName": "P3.5.6 Significance of Area Under Curve.mp4",
+					"id": 505
+				}, {
+					"displayName": "P3.5.7 Rules of Integration - Substitution.mp4",
+					"storedName": "P3.5.7 Rules of Integration - Substitution.mp4",
+					"id": 506
+				}, {
+					"displayName": "P3.5.8 Application of Integral.mp4",
+					"storedName": "P3.5.8 Application of Integral.mp4",
+					"id": 507
+				}]
+			}, {
+				"path": "P4 - Motion in Two Dimensions",
+				"name": "P4 - Motion in Two Dimensions",
+				"lessons": [{
+					"displayName": "1. Introduction to Motion in Two Dimensions.mp4",
+					"storedName": "1. Introduction to Motion in Two Dimensions.mp4",
+					"id": 508
+				}, {
+					"displayName": "10. Angular Velocity - Definition & Derivation with linear velocity.mp4",
+					"storedName": "10. Angular Velocity - Definition & Derivation with linear velocity.mp4",
+					"id": 509
+				}, {
+					"displayName": "11. Angular Acceleration and Kinematical Equation In Uniform Circular Motion.mp4",
+					"storedName": "11. Angular Acceleration and Kinematical Equation In Uniform Circular Motion.mp4",
+					"id": 510
+				}, {
+					"displayName": "2. Position Vector & Path of a Particle.mp4",
+					"storedName": "2. Position Vector & Path of a Particle.mp4",
+					"id": 511
+				}, {
+					"displayName": "3. Velocity, Acceleration and Equations of Motion.mp4",
+					"storedName": "3. Velocity, Acceleration and Equations of Motion.mp4",
+					"id": 512
+				}, {
+					"displayName": "4. Introduction to Projectile Motion.mp4",
+					"storedName": "4. Introduction to Projectile Motion.mp4",
+					"id": 513
+				}, {
+					"displayName": "5. Time of Flight and Maximum Height.mp4",
+					"storedName": "5. Time of Flight and Maximum Height.mp4",
+					"id": 514
+				}, {
+					"displayName": "6. Range & Equation of Trajectory.mp4",
+					"storedName": "6. Range & Equation of Trajectory.mp4",
+					"id": 515
+				}, {
+					"displayName": "7. Relative Velocity and Acceleration - Numerical.mp4",
+					"storedName": "7. Relative Velocity and Acceleration - Numerical.mp4",
+					"id": 516
+				}, {
+					"displayName": "8. Application of Relative Velocity in 2D.mp4",
+					"storedName": "8. Application of Relative Velocity in 2D.mp4",
+					"id": 517
+				}, {
+					"displayName": "9. Introduction to Circular Motion.mp4",
+					"storedName": "9. Introduction to Circular Motion.mp4",
+					"id": 518
+				}]
+			}, {
+				"path": "P5 - Dynamics of Motion",
+				"name": "P5 - Dynamics of Motion",
+				"lessons": [{
+					"displayName": "P5.1.1 Chapter Introduction & Outline.mp4",
+					"storedName": "P5.1.1 Chapter Introduction & Outline.mp4",
+					"id": 519
+				}, {
+					"displayName": "P5.1.2 Inertia & Newton's First Law.mp4",
+					"storedName": "P5.1.2 Inertia & Newton's First Law.mp4",
+					"id": 520
+				}, {
+					"displayName": "P5.1.3 Second Law.mp4",
+					"storedName": "P5.1.3 Second Law.mp4",
+					"id": 521
+				}, {
+					"displayName": "P5.1.4 Third Law.mp4",
+					"storedName": "P5.1.4 Third Law.mp4",
+					"id": 522
+				}, {
+					"displayName": "P5.1.5 Types of forces.mp4",
+					"storedName": "P5.1.5 Types of forces.mp4",
+					"id": 523
+				}, {
+					"displayName": "P5.1.6 FBD.mp4",
+					"storedName": "P5.1.6 FBD.mp4",
+					"id": 524
+				}, {
+					"displayName": "P5.2.1 Topic Outline.mp4",
+					"storedName": "P5.2.1 Topic Outline.mp4",
+					"id": 525
+				}, {
+					"displayName": "P5.2.2 Calculating Net force & applying 2nd Law.mp4",
+					"storedName": "P5.2.2 Calculating Net force & applying 2nd Law.mp4",
+					"id": 526
+				}, {
+					"displayName": "P5.2.3 Inertial & Non Inertial Frames of Reference.mp4",
+					"storedName": "P5.2.3 Inertial & Non Inertial Frames of Reference.mp4",
+					"id": 527
+				}, {
+					"displayName": "P5.2.4 Resolving forces.mp4",
+					"storedName": "P5.2.4 Resolving forces.mp4",
+					"id": 528
+				}, {
+					"displayName": "P5.2.5 Constraints of Motion.mp4",
+					"storedName": "P5.2.5 Constraints of Motion.mp4",
+					"id": 529
+				}, {
+					"displayName": "P5.2.6 Problem Solving Approach.mp4",
+					"storedName": "P5.2.6 Problem Solving Approach.mp4",
+					"id": 530
+				}, {
+					"displayName": "P5.3.1 Topic Outline.mp4",
+					"storedName": "P5.3.1 Topic Outline.mp4",
+					"id": 531
+				}, {
+					"displayName": "P5.3.2 Contact Force & Friction.mp4",
+					"storedName": "P5.3.2 Contact Force & Friction.mp4",
+					"id": 532
+				}, {
+					"displayName": "P5.3.3 Cause of Friction.mp4",
+					"storedName": "P5.3.3 Cause of Friction.mp4",
+					"id": 533
+				}, {
+					"displayName": "P5.3.4 Types of Friction.mp4",
+					"storedName": "P5.3.4 Types of Friction.mp4",
+					"id": 534
+				}, {
+					"displayName": "P5.3.5 Coefficient of Friction.mp4",
+					"storedName": "P5.3.5 Coefficient of Friction.mp4",
+					"id": 535
+				}, {
+					"displayName": "P5.3.6 Solved Example.mp4",
+					"storedName": "P5.3.6 Solved Example.mp4",
+					"id": 536
+				}, {
+					"displayName": "P5.4.1 Topic Outline.mp4",
+					"storedName": "P5.4.1 Topic Outline.mp4",
+					"id": 537
+				}, {
+					"displayName": "P5.4.2 Revision of circular motion.mp4",
+					"storedName": "P5.4.2 Revision of circular motion.mp4",
+					"id": 538
+				}, {
+					"displayName": "P5.4.3 Centripetal Force.mp4",
+					"storedName": "P5.4.3 Centripetal Force.mp4",
+					"id": 539
+				}, {
+					"displayName": "P5.4.4 Conical Pendulum.mp4",
+					"storedName": "P5.4.4 Conical Pendulum.mp4",
+					"id": 540
+				}, {
+					"displayName": "P5.4.5 Vertical Circular Motion.mp4",
+					"storedName": "P5.4.5 Vertical Circular Motion.mp4",
+					"id": 541
+				}, {
+					"displayName": "P5.4.6 Centrifugal Force.mp4",
+					"storedName": "P5.4.6 Centrifugal Force.mp4",
+					"id": 542
+				}, {
+					"displayName": "P5.4.7 Turning on Level Road.mp4",
+					"storedName": "P5.4.7 Turning on Level Road.mp4",
+					"id": 543
+				}, {
+					"displayName": "P5.5 Problem Solving in Mechanics - Problem - 11.mp4",
+					"storedName": "P5.5 Problem Solving in Mechanics - Problem - 11.mp4",
+					"id": 544
+				}, {
+					"displayName": "P5.5 Problem Solving in Mechanics - Problem - 12.mp4",
+					"storedName": "P5.5 Problem Solving in Mechanics - Problem - 12.mp4",
+					"id": 545
+				}, {
+					"displayName": "P5.5 Problem Solving in Mechanics - Problem - 2.mp4",
+					"storedName": "P5.5 Problem Solving in Mechanics - Problem - 2.mp4",
+					"id": 546
+				}, {
+					"displayName": "P5.5 Problem Solving in Mechanics - Problem - 7.mp4",
+					"storedName": "P5.5 Problem Solving in Mechanics - Problem - 7.mp4",
+					"id": 547
+				}, {
+					"displayName": "P5.5 Problem Solving in Mechanics - Problem - 8.mp4",
+					"storedName": "P5.5 Problem Solving in Mechanics - Problem - 8.mp4",
+					"id": 548
+				}]
+			}, {
+				"path": "P6 - Work, Power, Energy & Momentum",
+				"name": "P6 - Work, Power, Energy & Momentum",
+				"lessons": [{
+					"displayName": "Application of Centre of Mass-Section of a disc removed.mp4",
+					"storedName": "Application of Centre of Mass-Section of a disc removed.mp4",
+					"id": 549
+				}, {
+					"displayName": "Calculation of Centre of Mass for Continuous Mass Distribution.mp4",
+					"storedName": "Calculation of Centre of Mass for Continuous Mass Distribution.mp4",
+					"id": 550
+				}, {
+					"displayName": "Calculation of Centre of Mass for System of Point Masses.mp4",
+					"storedName": "Calculation of Centre of Mass for System of Point Masses.mp4",
+					"id": 551
+				}, {
+					"displayName": "Conservation of Energy.mp4",
+					"storedName": "Conservation of Energy.mp4",
+					"id": 552
+				}, {
+					"displayName": "Conservation of Momentum.mp4",
+					"storedName": "Conservation of Momentum.mp4",
+					"id": 553
+				}, {
+					"displayName": "Conservative and Non - Conservative Force.mp4",
+					"storedName": "Conservative and Non - Conservative Force.mp4",
+					"id": 554
+				}, {
+					"displayName": "Energy.mp4",
+					"storedName": "Energy.mp4",
+					"id": 555
+				}, {
+					"displayName": "Explosion.mp4",
+					"storedName": "Explosion.mp4",
+					"id": 556
+				}, {
+					"displayName": "Introduction to Centre of Mass.mp4",
+					"storedName": "Introduction to Centre of Mass.mp4",
+					"id": 557
+				}, {
+					"displayName": "Introduction to Momentum.mp4",
+					"storedName": "Introduction to Momentum.mp4",
+					"id": 558
+				}, {
+					"displayName": "Introduction to Work, Power, Energy and Momentum.mp4",
+					"storedName": "Introduction to Work, Power, Energy and Momentum.mp4",
+					"id": 559
+				}, {
+					"displayName": "Mechanical Energy.mp4",
+					"storedName": "Mechanical Energy.mp4",
+					"id": 560
+				}, {
+					"displayName": "Motion of Centre of Mass - Velocity and Acceleration.mp4",
+					"storedName": "Motion of Centre of Mass - Velocity and Acceleration.mp4",
+					"id": 561
+				}, {
+					"displayName": "Potential Energy of a Spring.mp4",
+					"storedName": "Potential Energy of a Spring.mp4",
+					"id": 562
+				}, {
+					"displayName": "Power.mp4",
+					"storedName": "Power.mp4",
+					"id": 563
+				}, {
+					"displayName": "Work Energy Theorem.mp4",
+					"storedName": "Work Energy Theorem.mp4",
+					"id": 564
+				}, {
+					"displayName": "Work as Area under Force Displacement Curve.mp4",
+					"storedName": "Work as Area under Force Displacement Curve.mp4",
+					"id": 565
+				}, {
+					"displayName": "Work done by a Variable Force.mp4",
+					"storedName": "Work done by a Variable Force.mp4",
+					"id": 566
+				}, {
+					"displayName": "Work.mp4",
+					"storedName": "Work.mp4",
+					"id": 567
+				}]
+			}, {
+				"path": "P7 - Rotational Mechanics",
+				"name": "P7 - Rotational Mechanics",
+				"lessons": [{
+					"displayName": "1. Introduction to Rotation.mp4",
+					"storedName": "1. Introduction to Rotation.mp4",
+					"id": 568
+				}, {
+					"displayName": "10. Angular Momentum.mp4",
+					"storedName": "10. Angular Momentum.mp4",
+					"id": 569
+				}, {
+					"displayName": "11. Conservation of Angular Momentum.mp4",
+					"storedName": "11. Conservation of Angular Momentum.mp4",
+					"id": 570
+				}, {
+					"displayName": "12. Toppling.mp4",
+					"storedName": "12. Toppling.mp4",
+					"id": 571
+				}, {
+					"displayName": "2. Torque.mp4",
+					"storedName": "2. Torque.mp4",
+					"id": 572
+				}, {
+					"displayName": "3. Moment of Inertia.mp4",
+					"storedName": "3. Moment of Inertia.mp4",
+					"id": 573
+				}, {
+					"displayName": "4. Theorems for Computing Moment of Inertia.mp4",
+					"storedName": "4. Theorems for Computing Moment of Inertia.mp4",
+					"id": 574
+				}, {
+					"displayName": "5. Torque & Angular Acceleration.mp4",
+					"storedName": "5. Torque & Angular Acceleration.mp4",
+					"id": 575
+				}, {
+					"displayName": "6. Kinematics of Combined Rotation and Translation.mp4",
+					"storedName": "6. Kinematics of Combined Rotation and Translation.mp4",
+					"id": 576
+				}, {
+					"displayName": "7. Instantaneous Axis of Rotation.mp4",
+					"storedName": "7. Instantaneous Axis of Rotation.mp4",
+					"id": 577
+				}, {
+					"displayName": "8. Rolling.mp4",
+					"storedName": "8. Rolling.mp4",
+					"id": 578
+				}, {
+					"displayName": "9. Rotational and Translational Kinetic Energy.mp4",
+					"storedName": "9. Rotational and Translational Kinetic Energy.mp4",
+					"id": 579
+				}]
+			}, {
+				"path": "P8 - Gravitation",
+				"name": "P8 - Gravitation",
+				"lessons": [{
+					"displayName": "1. Gravitation - Introduction.mp4",
+					"storedName": "1. Gravitation - Introduction.mp4",
+					"id": 580
+				}, {
+					"displayName": "10. Gravitational Potential - Solid Sphere.mp4",
+					"storedName": "10. Gravitational Potential - Solid Sphere.mp4",
+					"id": 581
+				}, {
+					"displayName": "11. Equipotential Surface.mp4",
+					"storedName": "11. Equipotential Surface.mp4",
+					"id": 582
+				}, {
+					"displayName": "12. Kepler's Laws & Satellites.mp4",
+					"storedName": "12. Kepler's Laws & Satellites.mp4",
+					"id": 583
+				}, {
+					"displayName": "13. Elliptical Orbits.mp4",
+					"storedName": "13. Elliptical Orbits.mp4",
+					"id": 584
+				}, {
+					"displayName": "14. Elliptical Orbits - Example.mp4",
+					"storedName": "14. Elliptical Orbits - Example.mp4",
+					"id": 585
+				}, {
+					"displayName": "2. Newton's Law of Gravitation.mp4",
+					"storedName": "2. Newton's Law of Gravitation.mp4",
+					"id": 586
+				}, {
+					"displayName": "3. Gravitational Field.mp4",
+					"storedName": "3. Gravitational Field.mp4",
+					"id": 587
+				}, {
+					"displayName": "4. Comptuing Gravitational Field - Ring and Hollow Sphere.mp4",
+					"storedName": "4. Comptuing Gravitational Field - Ring and Hollow Sphere.mp4",
+					"id": 588
+				}, {
+					"displayName": "5. Comptuing Gravitational Field - Solid Sphere.mp4",
+					"storedName": "5. Comptuing Gravitational Field - Solid Sphere.mp4",
+					"id": 589
+				}, {
+					"displayName": "6. Plotting Gravitational Field Versus Distance from the Centre.mp4",
+					"storedName": "6. Plotting Gravitational Field Versus Distance from the Centre.mp4",
+					"id": 590
+				}, {
+					"displayName": "7. Acceleration due to Gravity.mp4",
+					"storedName": "7. Acceleration due to Gravity.mp4",
+					"id": 591
+				}, {
+					"displayName": "8. Gravitational Potential Energy.mp4",
+					"storedName": "8. Gravitational Potential Energy.mp4",
+					"id": 592
+				}, {
+					"displayName": "9. Gravitational Potential - Point mass, Ring & Hollow Sphere.mp4",
+					"storedName": "9. Gravitational Potential - Point mass, Ring & Hollow Sphere.mp4",
+					"id": 593
+				}]
+			}, {
+				"path": "P9 - Mechanical Properties of Solids",
+				"name": "P9 - Mechanical Properties of Solids",
+				"lessons": [{
+					"displayName": "P9.1.1 Introduction.mp4",
+					"storedName": "P9.1.1 Introduction.mp4",
+					"id": 594
+				}, {
+					"displayName": "P9.1.2 Stress and Strain in Non Rigid bodies.mp4",
+					"storedName": "P9.1.2 Stress and Strain in Non Rigid bodies.mp4",
+					"id": 595
+				}, {
+					"displayName": "P9.1.3 Hooke's Law and Stress, Strain Curve.mp4",
+					"storedName": "P9.1.3 Hooke's Law and Stress, Strain Curve.mp4",
+					"id": 596
+				}, {
+					"displayName": "P9.2.1 Young Modulus and Searle's Experiment.mp4",
+					"storedName": "P9.2.1 Young Modulus and Searle's Experiment.mp4",
+					"id": 597
+				}, {
+					"displayName": "P9.2.2 Bulk and Shear Modulus.mp4",
+					"storedName": "P9.2.2 Bulk and Shear Modulus.mp4",
+					"id": 598
+				}, {
+					"displayName": "P9.2.3 Elastic Potential Energy.mp4",
+					"storedName": "P9.2.3 Elastic Potential Energy.mp4",
+					"id": 599
+				}, {
+					"displayName": "P9.2.4 Torison & Buckling.mp4",
+					"storedName": "P9.2.4 Torison & Buckling.mp4",
+					"id": 600
+				}]
+			}]
+		}
+	},
+	"version": "1.1"
+}
