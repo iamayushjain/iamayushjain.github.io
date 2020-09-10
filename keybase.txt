@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/iamayushjain
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iamayushjain.github.io
+  * I am iamayushjain (https://keybase.io/iamayushjain) on keybase.
+  * I have a public key with fingerprint D7D7 5DF4 F1DC 9986 84E0  83BA FFE7 FBF1 09A3 3B51
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010179e26076cfa482f6a6182a1e53ea6b43f560750d208fc672ae5e80af1e6289920a",
+      "fingerprint": "d7d75df4f1dc998684e083baffe7fbf109a33b51",
+      "host": "keybase.io",
+      "key_id": "ffe7fbf109a33b51",
+      "kid": "010179e26076cfa482f6a6182a1e53ea6b43f560750d208fc672ae5e80af1e6289920a",
+      "uid": "bbfde617b1cecb7a0453056a648bfd19",
+      "username": "iamayushjain"
+    },
+    "service": {
+      "hostname": "iamayushjain.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1599746541,
+  "expire_in": 157680000,
+  "prev": "11174bbc1214ce505cea70a5bc886c6006e15cb87ae6f6aaa007273fab8024d1",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIqAnicrZJbSBRRGMfXWovMyDJDECGHoKDNzpn7bHR/CCy2IKgoazhn5szu5Dqz
+7syu2p0KIaMIKTLthlEWFHYzstK0y0N0RbLMsEywm/QkFhVJZ6zeeuy8HM75/t/v
+/L8/5+64kb60lMuHD9SY9aXTUh60nUr41DXw8yYG23o5E9zEFJHhjUR14rhqkakz
+QQZAACWFsCKQRM1AvMwaIhKhzCJIBI4gEfOcIdCqAHQWyIYmSiwiApEBMiARWVlR
+WICYAGOYVpjEY3HTcilWl3RJ0A3egLqmKLIo8wTIHEaGQSQDGxAoiOOwAGljxHa8
+DmoOI4fkmza9owd12N4/9P/Zd2IYh7GhExFKGGpEwxICvMABgRJ5mVag4gkdErdQ
+MaFqExWj8oQT2YBMi9kSYGglaWrEC9eb5h+q/LDpRhL493SxuO3amh2lmojrxpyg
+x3DLY15TKcHqH5yKTUunqdKOJIk7pm0xQUiVmmt6fCgoisSLAg8DDCmLmXGimp5C
+kEQZ0OW9Q5IUCSGUeIw1yEJeIwIQNIIkgASsybKoiQCIBAoaliVERBoiQgBIrMQZ
+CMuA5XUvc4eUWDYT5KlNFKZIxwxbyE3ECbPldmuh35eS5huVOsL7bb60MRl//2DO
+/dFD08dv21fM1u2IXs2AvQOhzPTaZf66+dufVL4SA0sxkzd5zocfGS1t655Fm7IL
+2p/X7Z6X2Zzb/SKrZcXFgbX+gcdHS3uqMoNT/DdSB7882jq4szNdrb7eyF+YO8Gf
+9+31rrKGPfVP7s1RHl4r7OtsvLl/TFvV+itna+WeC8dbstWfoc3m97zG5pMZD/rf
+Pm3qy33TNXZVRXyJ6lafSXZzFZeWH3FPTKnsPVRW0VaNV87ce66kFY6LzlhdlfOe
+ib3rn9VwfvZQoVxwZ6rvPhNqn3iz63jWYtI37+vBQy/L1z8EC06PWuQcu9V4cGFJ
+TX64pnagQ7rxybdxfIfzcXFo+wl7UtPjX6qOSp8=
+=hpoh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iamayushjain
+
+==================================================================
